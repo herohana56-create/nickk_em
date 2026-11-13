@@ -1,0 +1,450 @@
+{
+  "repository": "DigitalPlatDev/FreeDomain",
+  "source": "https://github.com/DigitalPlatDev/FreeDomain",
+  "tree_sha": "9c7c54110705760267b07b6e6a6d406d1172a1bf",
+  "downloaded_at_utc": "2026-11-05T14:56:59.7010000Z",
+  "method": "GitHub connector, complete working-tree snapshot without Git history",
+  "verified_files": 88,
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 64,
+      "git_blob_sha1": "a158744534ea2cb560296f647509a63e8028f033"
+    },
+    {
+      "path": ".github/FUNDING.yml",
+      "bytes": 112,
+      "git_blob_sha1": "5926599d9248e5c3684b1db5b1e4ca82eb1f8b17"
+    },
+    {
+      "path": ".github/PULL_REQUEST_TEMPLATE.md",
+      "bytes": 405,
+      "git_blob_sha1": "9810ef1a93169fc25de06b2c19165338204b5fef"
+    },
+    {
+      "path": "CODE_OF_CONDUCT.md",
+      "bytes": 5230,
+      "git_blob_sha1": "cfb36bec5a12219b638d1ad1e912f4888931a3b9"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "bytes": 1645,
+      "git_blob_sha1": "180c191c7f579711fd75dd1faf5b05c2b21e0dd9"
+    },
+    {
+      "path": "LEARN.md",
+      "bytes": 6388,
+      "git_blob_sha1": "b11dfbdb7f9e99c042363dfbc03da1718c32987c"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 34523,
+      "git_blob_sha1": "0ad25db4bd1d86c452db3f9602ccdbe172438f52"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3986,
+      "git_blob_sha1": "2c2a240dae197318630d8424cd9f410b52f9fa4b"
+    },
+    {
+      "path": "SECURITY.md",
+      "bytes": 1048,
+      "git_blob_sha1": "247044c579e9a15828f1e6f7b968b06a43d48977"
+    },
+    {
+      "path": "assets/logo.jpg",
+      "bytes": 106308,
+      "git_blob_sha1": "46db05a604f8483d64228b32fe4c4e9112d9719e"
+    },
+    {
+      "path": "documents/domains/announcement.md",
+      "bytes": 1,
+      "git_blob_sha1": "8b137891791fe96927ad78e64b0aad7bded08bdc"
+    },
+    {
+      "path": "documents/domains/faq.md",
+      "bytes": 1106,
+      "git_blob_sha1": "b7bd74d41f7512d4790a7221393836b2ad53697b"
+    },
+    {
+      "path": "documents/tutorial/BOOK_PLAN.md",
+      "bytes": 2967,
+      "git_blob_sha1": "6f89d1684fd2b132bc1c104f1f271a32eb40d6ed"
+    },
+    {
+      "path": "documents/tutorial/advanced/6.1-api-automation.md",
+      "bytes": 2784,
+      "git_blob_sha1": "6c6ac8044d3c1ac67dd695a014b1975152ea0775"
+    },
+    {
+      "path": "documents/tutorial/advanced/6.2-self-hosted-dns.md",
+      "bytes": 2779,
+      "git_blob_sha1": "cdf31898670c04ec871d35c8b2b97aa13b6914dc"
+    },
+    {
+      "path": "documents/tutorial/advanced/6.3-command-reference.md",
+      "bytes": 2584,
+      "git_blob_sha1": "a75049bcb33ef472c89e81e44dfe6e1bae900817"
+    },
+    {
+      "path": "documents/tutorial/advanced/6.4-architecture-patterns.md",
+      "bytes": 4119,
+      "git_blob_sha1": "12d4534627ecf19ddfc50bd5d211d16aeaf47b31"
+    },
+    {
+      "path": "documents/tutorial/advanced/6.5-reliability-and-capacity.md",
+      "bytes": 3880,
+      "git_blob_sha1": "718cade4a1c38e43d6f5381049a8045ce57d3619"
+    },
+    {
+      "path": "documents/tutorial/advanced/glossary.md",
+      "bytes": 3146,
+      "git_blob_sha1": "83fa48239611b9015117ae4bd14acbcffb0277e1"
+    },
+    {
+      "path": "documents/tutorial/advanced/index.md",
+      "bytes": 800,
+      "git_blob_sha1": "00cea8018b334faf4a7993354b4bbfbec4a29734"
+    },
+    {
+      "path": "documents/tutorial/advanced/references.md",
+      "bytes": 1513,
+      "git_blob_sha1": "9a377bb6d47091823ca700b8ba190f34a4484ca1"
+    },
+    {
+      "path": "documents/tutorial/appendices/answers.md",
+      "bytes": 5632,
+      "git_blob_sha1": "49d236f50df028c71dc1861e303a630f9d7d75c5"
+    },
+    {
+      "path": "documents/tutorial/appendices/checklists-and-templates.md",
+      "bytes": 4092,
+      "git_blob_sha1": "64028494d51a75ac3b105b592af6bfd8b9dffd32"
+    },
+    {
+      "path": "documents/tutorial/appendices/index.md",
+      "bytes": 523,
+      "git_blob_sha1": "629fc30aec4d2ce95676e930c9174c50a65d6cc1"
+    },
+    {
+      "path": "documents/tutorial/appendices/troubleshooting-trees.md",
+      "bytes": 5041,
+      "git_blob_sha1": "9bf1a8740ef2f9cb4523c08a77d654bba0e9b19a"
+    },
+    {
+      "path": "documents/tutorial/appendices/workbook.md",
+      "bytes": 6184,
+      "git_blob_sha1": "eb2450450bbc8f9b15a6bd7a4b8d657756baa1f2"
+    },
+    {
+      "path": "documents/tutorial/capstone/7.1-project-brief.md",
+      "bytes": 4040,
+      "git_blob_sha1": "47bc045f97d596aa298ebcd3c1d2dd4e5742c896"
+    },
+    {
+      "path": "documents/tutorial/capstone/7.2-build-and-test.md",
+      "bytes": 5635,
+      "git_blob_sha1": "4ec688eb472bc580ca4b888e31e10c90f83b7559"
+    },
+    {
+      "path": "documents/tutorial/capstone/7.3-register-and-deploy.md",
+      "bytes": 3984,
+      "git_blob_sha1": "6bf05f730d80db8ae2e52e163505789c7faa4c9f"
+    },
+    {
+      "path": "documents/tutorial/capstone/7.4-secure-and-operate.md",
+      "bytes": 3798,
+      "git_blob_sha1": "f904f573783119ebabb57a0800cac2769535dfa1"
+    },
+    {
+      "path": "documents/tutorial/capstone/7.5-final-acceptance.md",
+      "bytes": 4402,
+      "git_blob_sha1": "90a5b51683e8c95ac4d4b15fd3457d0a2221bdd8"
+    },
+    {
+      "path": "documents/tutorial/capstone/index.md",
+      "bytes": 1158,
+      "git_blob_sha1": "ecb7980d7b2acca819c005cbbf399cada7659dc9"
+    },
+    {
+      "path": "documents/tutorial/dns/2.0-delegation.md",
+      "bytes": 2023,
+      "git_blob_sha1": "505c7ca678971557563841fdc729ee9059c744d9"
+    },
+    {
+      "path": "documents/tutorial/dns/2.1-record-types.md",
+      "bytes": 3429,
+      "git_blob_sha1": "70ba183b400081500b77b9cf5cf124cb46e2dd89"
+    },
+    {
+      "path": "documents/tutorial/dns/2.2-subdomains.md",
+      "bytes": 2476,
+      "git_blob_sha1": "2f05644e519fddba436923910c6e5e69b06f7c72"
+    },
+    {
+      "path": "documents/tutorial/dns/2.3-ttl-and-propagation.md",
+      "bytes": 2435,
+      "git_blob_sha1": "235fed96f41c58cead280f020861bfbb0ad60bcd"
+    },
+    {
+      "path": "documents/tutorial/dns/2.4-troubleshooting.md",
+      "bytes": 2697,
+      "git_blob_sha1": "9d6a19bc2022fcfba64b6e95f1c0163acf5c0c10"
+    },
+    {
+      "path": "documents/tutorial/dns/index.md",
+      "bytes": 807,
+      "git_blob_sha1": "682d074d3f7d8130530c4b82b16d4e0ee963d0f4"
+    },
+    {
+      "path": "documents/tutorial/email/4.1-email-dns.md",
+      "bytes": 3169,
+      "git_blob_sha1": "01b6094796b52ad070f2fafaa6fb696725f4661a"
+    },
+    {
+      "path": "documents/tutorial/email/4.2-service-records.md",
+      "bytes": 2221,
+      "git_blob_sha1": "eeebdbcf3b045c5f750f2712cf18a42904b90912"
+    },
+    {
+      "path": "documents/tutorial/email/index.md",
+      "bytes": 657,
+      "git_blob_sha1": "615bbdb87b4e98bad4516a0e4c893837e11e8584"
+    },
+    {
+      "path": "documents/tutorial/foundations/0.1-how-to-use-this-book.md",
+      "bytes": 3786,
+      "git_blob_sha1": "d9e0dfdf30801a596f62bf095460024d1a3c461f"
+    },
+    {
+      "path": "documents/tutorial/foundations/0.2-internet-foundations.md",
+      "bytes": 4131,
+      "git_blob_sha1": "d6e2ed2ea76816f9d629b38972775fd32d7fafcc"
+    },
+    {
+      "path": "documents/tutorial/foundations/0.3-terminal-basics.md",
+      "bytes": 3851,
+      "git_blob_sha1": "4668cb6586a1391c7b61585051eed5c50f81f0af"
+    },
+    {
+      "path": "documents/tutorial/foundations/0.4-practice-environment.md",
+      "bytes": 3297,
+      "git_blob_sha1": "d16ff33dc35f603d85d5a039a3ca0c84e9372b21"
+    },
+    {
+      "path": "documents/tutorial/foundations/0.5-plan-your-site.md",
+      "bytes": 3479,
+      "git_blob_sha1": "fddf7dca67ec2aff2244e563fdf57071f3978e01"
+    },
+    {
+      "path": "documents/tutorial/foundations/0.6-domain-and-dns.md",
+      "bytes": 3290,
+      "git_blob_sha1": "fc1b0609e1b97bfcec96b7409d307b80f5b455d0"
+    },
+    {
+      "path": "documents/tutorial/foundations/index.md",
+      "bytes": 1017,
+      "git_blob_sha1": "bf8783922eeed94b46e2dee58be2b212f934a2fa"
+    },
+    {
+      "path": "documents/tutorial/index.md",
+      "bytes": 7179,
+      "git_blob_sha1": "73cdb2aaf1b8edb6e9864ecf2787745f98c880bb"
+    },
+    {
+      "path": "documents/tutorial/operations/5.1-domain-management.md",
+      "bytes": 2261,
+      "git_blob_sha1": "31bcae2432fcd2a418e8a443f1eb86e6bac881f3"
+    },
+    {
+      "path": "documents/tutorial/operations/5.2-renewal-and-expiration.md",
+      "bytes": 2404,
+      "git_blob_sha1": "b3481dc91ece6985edf1882a94eafda8a5dd5675"
+    },
+    {
+      "path": "documents/tutorial/operations/5.3-migrate-nameservers.md",
+      "bytes": 1855,
+      "git_blob_sha1": "8992ba048a4baea6cffe28bfb418cffba6fc22a5"
+    },
+    {
+      "path": "documents/tutorial/operations/5.4-registration-data.md",
+      "bytes": 1930,
+      "git_blob_sha1": "d4c34958d7febb7e9c9592b3a066f53615d8f867"
+    },
+    {
+      "path": "documents/tutorial/operations/5.5-security.md",
+      "bytes": 2327,
+      "git_blob_sha1": "61f7b4a8b3e331c27538c0e683ddf8ffa9f6f910"
+    },
+    {
+      "path": "documents/tutorial/operations/5.6-acceptable-use.md",
+      "bytes": 2248,
+      "git_blob_sha1": "702c3e3d6ef7447b87e55cecb9eb725377b06bb5"
+    },
+    {
+      "path": "documents/tutorial/operations/5.7-backups-and-restoration.md",
+      "bytes": 4676,
+      "git_blob_sha1": "24a2d4737995a8afdaa052c04c5e25bc6a44998a"
+    },
+    {
+      "path": "documents/tutorial/operations/5.8-monitoring-and-incidents.md",
+      "bytes": 4694,
+      "git_blob_sha1": "1820fb4b745aca1b8dd42f580b43cbb93424c21e"
+    },
+    {
+      "path": "documents/tutorial/operations/5.9-server-hardening.md",
+      "bytes": 4724,
+      "git_blob_sha1": "50a1b8523f0fe2f7911b03ed89acd0a32433dff6"
+    },
+    {
+      "path": "documents/tutorial/operations/index.md",
+      "bytes": 842,
+      "git_blob_sha1": "f7c398dbcb2f1639566efee11706c9fc0ca1754e"
+    },
+    {
+      "path": "documents/tutorial/platform/1.0-product-boundaries.md",
+      "bytes": 3296,
+      "git_blob_sha1": "708d45d4a8f0dd964a436abfff5b9c42aa16edf5"
+    },
+    {
+      "path": "documents/tutorial/platform/1.1-account-registration.md",
+      "bytes": 1914,
+      "git_blob_sha1": "a73dc846b4fd1d61ab06668e3e9d03948cdd57d3"
+    },
+    {
+      "path": "documents/tutorial/platform/1.2-domain-registration.md",
+      "bytes": 2043,
+      "git_blob_sha1": "b73801495941b31b25b61fd3135c3d0c8ba2e38e"
+    },
+    {
+      "path": "documents/tutorial/platform/1.3-connect-nameservers.md",
+      "bytes": 2287,
+      "git_blob_sha1": "7792ca52a4a09221ff2b1c2eaf9b5af2e6c8b9dd"
+    },
+    {
+      "path": "documents/tutorial/platform/1.4-status-and-renewal.md",
+      "bytes": 1780,
+      "git_blob_sha1": "cdad454a806a86df275cfb37182bf1a820ef2347"
+    },
+    {
+      "path": "documents/tutorial/platform/1.5-account-and-policies.md",
+      "bytes": 1787,
+      "git_blob_sha1": "0dbafb43562c5be1bf1df6eab3b4372c84f71c7b"
+    },
+    {
+      "path": "documents/tutorial/platform/1.6-api-overview.md",
+      "bytes": 1668,
+      "git_blob_sha1": "315b2ecd9cc03ee739f98254d5046135e6e38c18"
+    },
+    {
+      "path": "documents/tutorial/platform/dashboard-tour.md",
+      "bytes": 2816,
+      "git_blob_sha1": "b92a998bf48c929492fdf44a48cb22c017747d1c"
+    },
+    {
+      "path": "documents/tutorial/platform/imgs/cloudflare-account-register.png",
+      "bytes": 69745,
+      "git_blob_sha1": "b1efe501bf4c142c92a00dec083753cf04d5e738"
+    },
+    {
+      "path": "documents/tutorial/platform/imgs/cloudflare-add-domain.png",
+      "bytes": 116426,
+      "git_blob_sha1": "daa6eceff91d5a80f400c78660000090dd9ebb64"
+    },
+    {
+      "path": "documents/tutorial/platform/imgs/cloudflare-add-record.png",
+      "bytes": 164678,
+      "git_blob_sha1": "cd53a188bbcd503a785c1c650324d5eaf67ce41f"
+    },
+    {
+      "path": "documents/tutorial/platform/imgs/cloudflare-choose-plan.png",
+      "bytes": 241816,
+      "git_blob_sha1": "3fd2a81bd39b93c0e30e2327aaf96c77a9bf2ac5"
+    },
+    {
+      "path": "documents/tutorial/platform/imgs/cloudflare-setns.png",
+      "bytes": 127707,
+      "git_blob_sha1": "9465b29a5271b7a0475d6c3aa275e8c27521f6b4"
+    },
+    {
+      "path": "documents/tutorial/platform/imgs/digitalplat-account-registration.jpg",
+      "bytes": 70566,
+      "git_blob_sha1": "0f3b57408e842a917b82c6af7841db75fec5420d"
+    },
+    {
+      "path": "documents/tutorial/platform/imgs/digitalplat-domain-registration.jpg",
+      "bytes": 31473,
+      "git_blob_sha1": "3e66cbe4afa39f4ec3f0b525868b9e8890b4c9fb"
+    },
+    {
+      "path": "documents/tutorial/platform/imgs/digitalplat-register-setns.png",
+      "bytes": 155316,
+      "git_blob_sha1": "939142e1e5b3583213580e88caf1f41a18ad1294"
+    },
+    {
+      "path": "documents/tutorial/platform/index.md",
+      "bytes": 1682,
+      "git_blob_sha1": "18b229710a498ca7b4ad288c5a51191ae4ddcfa9"
+    },
+    {
+      "path": "documents/tutorial/platform/project-overview.md",
+      "bytes": 2551,
+      "git_blob_sha1": "0a8d9dd97f6eab2eaa384b52f93e6e0a2566f7b2"
+    },
+    {
+      "path": "documents/tutorial/website/3.0-html-css-foundations.md",
+      "bytes": 4864,
+      "git_blob_sha1": "b5038a0663c203222f667638573be279594571f3"
+    },
+    {
+      "path": "documents/tutorial/website/3.1-how-websites-work.md",
+      "bytes": 2189,
+      "git_blob_sha1": "fa99997ceb2ae8ee8ee6c33b5439cad882130a81"
+    },
+    {
+      "path": "documents/tutorial/website/3.2-build-static-site.md",
+      "bytes": 2332,
+      "git_blob_sha1": "a8c6f6e93e9392ecfbd9f6db656200872212c4ce"
+    },
+    {
+      "path": "documents/tutorial/website/3.3-test-locally.md",
+      "bytes": 1463,
+      "git_blob_sha1": "516f1aacc31b7c44eb90315c5f570e71c956c784"
+    },
+    {
+      "path": "documents/tutorial/website/3.4-prepare-server.md",
+      "bytes": 2451,
+      "git_blob_sha1": "685580320acaf53971717539ee5e09fe18511be2"
+    },
+    {
+      "path": "documents/tutorial/website/3.5-deploy-and-connect.md",
+      "bytes": 2189,
+      "git_blob_sha1": "5f800bc15734e2e02a8c6226a5d00b274481d9df"
+    },
+    {
+      "path": "documents/tutorial/website/3.6-https.md",
+      "bytes": 3284,
+      "git_blob_sha1": "d19fe07d70e349db07c0cad7585ae4b852bb3ed0"
+    },
+    {
+      "path": "documents/tutorial/website/3.7-dynamic-applications.md",
+      "bytes": 4256,
+      "git_blob_sha1": "a4a20d014b4f08ac3d902dc1ae65c13fd7e1e97b"
+    },
+    {
+      "path": "documents/tutorial/website/3.8-accessibility-and-search.md",
+      "bytes": 3784,
+      "git_blob_sha1": "42fc48f01952612936b592059c1e866fcb49fa69"
+    },
+    {
+      "path": "documents/tutorial/website/3.9-performance-and-caching.md",
+      "bytes": 3795,
+      "git_blob_sha1": "850b165d9c735bb948ae8cd8013efa6dfa7793ed"
+    },
+    {
+      "path": "documents/tutorial/website/index.md",
+      "bytes": 1264,
+      "git_blob_sha1": "bd39eef278c6508efa2089ec0aa0dd920b512e22"
+    }
+  ]
+}

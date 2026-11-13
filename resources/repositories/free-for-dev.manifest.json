@@ -1,0 +1,60 @@
+{
+  "repository": "ripienaar/free-for-dev",
+  "source": "https://github.com/ripienaar/free-for-dev",
+  "tree_sha": "215e323e5f0c074d2fe8245d48012dcc60f0ab7c",
+  "downloaded_at_utc": "2026-11-05T14:56:58.9606420Z",
+  "method": "GitHub connector, complete working-tree snapshot without Git history",
+  "verified_files": 10,
+  "files": [
+    {
+      "path": ".github/PULL_REQUEST_TEMPLATE.md",
+      "bytes": 2145,
+      "git_blob_sha1": "05bbc9cde931a5942a42fb58ae1d360c6a3883ae"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 6,
+      "git_blob_sha1": "485dee64bcfb48793379b200a1afd14e85a8aaf4"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 392,
+      "git_blob_sha1": "ba15bc40d2698e1307cc749a0fad92a890e77bd4"
+    },
+    {
+      "path": "CLAUDE.md",
+      "bytes": 392,
+      "git_blob_sha1": "ba15bc40d2698e1307cc749a0fad92a890e77bd4"
+    },
+    {
+      "path": "CNAME",
+      "bytes": 12,
+      "git_blob_sha1": "6c25bec887fe53622438740ade02a59ae2c19fad"
+    },
+    {
+      "path": "CODE_OF_CONDUCT.md",
+      "bytes": 289,
+      "git_blob_sha1": "e3f13e8a7f9fd29332d093ba45573a9b614b6e0f"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "bytes": 1921,
+      "git_blob_sha1": "11dd7a3ded749f87138d5eb3c31f9932ff832f87"
+    },
+    {
+      "path": "README.md",
+      "bytes": 275716,
+      "git_blob_sha1": "5e1f63a8303c84e368e7bbf95528e3ffa4bb1b04"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3556,
+      "git_blob_sha1": "d1a78f98b039111aefa2f95e35e7a4724aaaff36"
+    },
+    {
+      "path": "logo.webp",
+      "bytes": 768,
+      "git_blob_sha1": "00a4beb3bc31213b350860564d208098a5d59c45"
+    }
+  ]
+}

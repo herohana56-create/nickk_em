@@ -1,0 +1,40 @@
+{
+  "repository": "awesome-selfhosted/awesome-selfhosted",
+  "source": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+  "tree_sha": "ebc8cb0883fcf5cf061245db9398b9a93fd6628a",
+  "downloaded_at_utc": "2026-11-05T14:56:58.7587179Z",
+  "method": "GitHub connector, complete working-tree snapshot without Git history",
+  "verified_files": 6,
+  "files": [
+    {
+      "path": ".github/ISSUE_TEMPLATE/config.yml",
+      "bytes": 264,
+      "git_blob_sha1": "258258646dd378ed5c2e3126c9d0e63876a49090"
+    },
+    {
+      "path": ".github/PULL_REQUEST_TEMPLATE.md",
+      "bytes": 130,
+      "git_blob_sha1": "754b450003c4cc7730f082ebfde64643e752dcbe"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 21581,
+      "git_blob_sha1": "2ba9425992f65e8556cbbd2702bf92e0fbb9aadc"
+    },
+    {
+      "path": "README.md",
+      "bytes": 330701,
+      "git_blob_sha1": "397c4205ee9fecaec2c6155d91b8262ed7f18218"
+    },
+    {
+      "path": "_static/awesome.png",
+      "bytes": 1975,
+      "git_blob_sha1": "91954b94d4b15cd4a17216ba5d97a87598a101a5"
+    },
+    {
+      "path": "non-free.md",
+      "bytes": 28205,
+      "git_blob_sha1": "039ae640a46a2bb97274467f066882e98c8f09cb"
+    }
+  ]
+}
