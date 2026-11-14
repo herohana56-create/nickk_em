@@ -1,0 +1,297 @@
+/* Responsive component sizing. Content must fit inside each card, not just the page. */
+:root { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
+body { overflow-wrap: break-word; }
+.wrap, .hero-copy, .hero-art, .card-body, .form-grid > label,
+.brief-layout > *, .details-layout > *, .price-section > *, .steps > * {
+  min-width: 0;
+}
+button, .button, input, textarea, select { max-width: 100%; }
+input, textarea, select { min-width: 0; }
+.button { white-space: normal; text-align: center; }
+.header-contact { display: inline-flex; align-items: center; flex-shrink: 0; min-height: 44px; }
+.brand { min-width: 0; }
+.brand-sign { flex-shrink: 0; }
+.filter { min-height: 44px; }
+.card-actions { flex-wrap: wrap; gap: 10px 20px; align-items: center; }
+.card-actions > a, .choose-style { display: inline-flex; align-items: center; min-height: 44px; }
+.card-heading { align-items: baseline; }
+.card-index { flex-shrink: 0; }
+.skip-link {
+  top: 0;
+  left: 0;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  clip-path: inset(50%);
+  overflow: hidden;
+  white-space: nowrap;
+  transform: none;
+}
+.skip-link:focus {
+  top: 12px;
+  left: 20px;
+  width: auto;
+  height: auto;
+  padding: 12px;
+  clip-path: none;
+  overflow: visible;
+  white-space: normal;
+}
+.text-button, .desktop-nav a { min-height: 44px; }
+.desktop-nav a { display: inline-flex; align-items: center; }
+.art-caption { top: -18px; right: 5px; z-index: 3; transform: rotate(-3deg); }
+.hero-branch.right { width: 66px; height: 125px; top: 28px; right: -14px; }
+.hero-branch.left { width: 60px; height: 125px; bottom: 40px; left: -14px; }
+
+/* A thumbnail is a complete composition. Its caption has its own row. */
+.collection-grid .preview-link {
+  container-type: inline-size;
+  display: grid;
+  grid-template-rows: minmax(0, 1fr) auto;
+  justify-items: center;
+  gap: 14px;
+  height: auto;
+  padding: 24px;
+  overflow: hidden;
+}
+.collection-grid .preview-link .invitation-cover {
+  width: 100%;
+  max-width: 420px;
+  min-height: 350px;
+  height: auto;
+  aspect-ratio: 4 / 5;
+  padding: 30px 18px;
+  justify-content: center;
+}
+.collection-grid .preview-link .invitation-cover > * { flex-shrink: 0; }
+.collection-grid .preview-badge {
+  position: static;
+  opacity: 1;
+  transform: none;
+  justify-self: end;
+  max-width: 100%;
+  min-height: 20px;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: #46523e;
+  font-size: 10px;
+  line-height: 1.5;
+}
+.collection-grid .preview-link .cover-kicker {
+  max-width: 100%;
+  font-size: 7px;
+  line-height: 1.7;
+  letter-spacing: .14em;
+  text-wrap: balance;
+}
+.collection-grid .preview-link .cover-names {
+  max-width: 100%;
+  margin: 16px 0;
+  font-size: 38px;
+  font-size: clamp(32px, 16cqw, 48px);
+  line-height: 1.05;
+}
+.collection-grid .preview-link .cover-names i { font-size: .55em; line-height: 1.3; }
+.collection-grid .preview-link .cover-date {
+  font-size: 9px;
+  line-height: 1.5;
+  letter-spacing: .12em;
+}
+.collection-grid .preview-link .cover-motto {
+  max-width: 100%;
+  margin-top: 14px;
+  font-size: 18px;
+  font-size: clamp(16px, 7cqw, 21px);
+  line-height: 1.3;
+  text-wrap: balance;
+}
+.collection-grid .preview-link .cover-botanic { opacity: .45; }
+.collection-grid .theme-childhood .cover-portraits { gap: 4px; margin: 16px 0 4px; }
+.collection-grid .theme-childhood .portrait {
+  flex: 0 0 auto;
+  width: 60px;
+  height: 78px;
+  width: clamp(52px, 25cqw, 78px);
+  height: clamp(70px, 31cqw, 96px);
+}
+.collection-grid .theme-childhood .portrait svg { width: 80%; height: 85%; }
+.collection-grid .theme-childhood .cover-small-heart { font-size: 24px; margin-inline: 4px; }
+.collection-grid .theme-childhood .cover-names { font-size: 30px; font-size: clamp(27px, 13cqw, 38px); }
+.collection-grid .theme-childhood .cover-motto { margin-top: 0; }
+.collection-grid .theme-equation .cover-names {
+  font-size: 34px;
+  font-size: clamp(30px, 15cqw, 44px);
+  transform: rotate(-3deg);
+}
+.collection-grid .theme-equation .cover-names i { font-size: .9em; }
+.collection-grid .theme-equation .cover-motto { transform: rotate(3deg); }
+.collection-grid .theme-villa .cover-kicker {
+  position: static;
+  align-self: stretch;
+  padding: 8px 4px;
+  margin: -8px 0 10px;
+  font-size: 7px;
+}
+.collection-grid .theme-villa .cover-villa { width: 85%; height: 74px; max-height: 74px; }
+.collection-grid .theme-villa .cover-names { font-size: 32px; font-size: clamp(30px, 14cqw, 40px); margin: 10px 0; }
+.collection-grid .theme-villa .cover-flower {
+  width: 28px;
+  height: 60px;
+  right: 5px;
+  bottom: 12px;
+  opacity: .6;
+}
+.collection-grid .theme-tili .cover-inner {
+  width: calc(100% - 10px);
+  max-width: 100%;
+  padding: 22px 10px 12px;
+  transform: rotate(-3deg);
+}
+.collection-grid .theme-tili .cover-names { font-size: 34px; font-size: clamp(32px, 15cqw, 46px); }
+.collection-grid .theme-tili .cover-motto { margin-top: 0; font-size: 20px; font-size: clamp(18px, 8cqw, 24px); }
+.theme-color .cover-names > span { display: block; }
+.collection-grid .theme-color .cover-names { font-size: 34px; font-size: clamp(30px, 14cqw, 44px); transform: rotate(-3deg); }
+.collection-grid .theme-color .cover-motto { font-size: 20px; font-size: clamp(18px, 8cqw, 24px); }
+.collection-grid .theme-italy .cover-names { font-size: 30px; font-size: clamp(27px, 12cqw, 44px); }
+.collection-grid .theme-italy .cover-villa { height: 90px; max-height: 90px; }
+.theme-italy .cover-names { display: flex; justify-content: center; flex-wrap: wrap; align-items: baseline; gap: 0 .18em; }
+.theme-italy .cover-names > span { white-space: nowrap; }
+.theme-italy .cover-names > i { display: inline; }
+.style-card.featured .preview-link .invitation-cover { max-width: none; aspect-ratio: auto; min-height: 350px; }
+
+/* Covers can grow on short/landscape screens; text must never be cropped. */
+.demo-page > .invitation-cover { height: auto; max-height: none; }
+.demo-page .cover-names, .demo-page .cover-motto { max-width: 100%; }
+.demo-page > .invitation-cover > * { flex-shrink: 0; }
+.demo-page.theme-color .cover-names {
+  font-size: clamp(50px, 10vw, 110px);
+  transform: rotate(-3deg);
+  line-height: 1.1;
+}
+.demo-page.theme-italy .cover-names { gap: 0 .16em; }
+.demo-page.theme-tili .cover-inner { max-width: 100%; }
+.demo-topbar { flex-wrap: wrap; }
+.demo-topbar .button { margin-top: 0; min-height: 44px; }
+.demo-anchor-nav a { display: inline-flex; align-items: center; justify-content: center; min-height: 44px; }
+.demo-page .check-label input { align-self: start; margin-top: 3px; }
+.demo-page .check-label { min-height: 44px; }
+.demo-small-note, .collection-note, .price-fine, .footer-note,
+.brief-preview p, .draft-settings p { overflow-wrap: anywhere; }
+.brief-preview textarea { overflow-wrap: anywhere; }
+
+@media (max-width: 1099px) {
+  .collection-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .style-card.featured { padding: 28px; gap: 28px; grid-template-columns: minmax(0, 1fr) minmax(0, 1.2fr); }
+  .style-card.featured .preview-link { padding: 20px; }
+  .style-card.featured .preview-link .invitation-cover { min-height: 350px; }
+  .style-card.featured .card-heading h3 { font-size: 36px; }
+  .featured .card-actions { gap: 10px 20px; }
+}
+
+@media (max-width: 900px) {
+  .hero { grid-template-columns: minmax(0, 1fr); gap: 30px; }
+  .hero h1 { font-size: clamp(58px, 10.5vw, 88px); }
+  .hero-description { max-width: 520px; }
+  .hero-art { width: min(440px, 100%); margin: 12px auto 30px; }
+  .brief-layout { grid-template-columns: minmax(0, 1fr); }
+  .brief-aside { display: none; }
+  .price-section { grid-template-columns: minmax(0, 1fr); gap: 32px; }
+}
+
+@media (max-width: 760px) {
+  .wrap { width: calc(100% - 40px); }
+  .section-heading > p { line-height: 1.85; }
+  .hero-invitation { transform: rotate(-5deg); }
+  .hero-branch.right { width: 44px; height: 92px; top: 24px; right: -8px; opacity: .6; }
+  .hero-branch.left { width: 44px; height: 92px; bottom: 35px; left: -8px; opacity: .6; }
+  .round-seal { right: 2px; bottom: 32px; }
+  .style-card.featured { display: block; padding: 0; background: transparent; }
+  .style-card.featured .preview-link { grid-column: auto; grid-row: auto; padding: 24px; background: #e5e7d9; }
+  .style-card.featured .preview-link .invitation-cover { max-width: 420px; aspect-ratio: 4 / 5; }
+  .style-card.featured .card-body { grid-column: auto; grid-row: auto; padding-top: 18px; }
+  .style-card.featured .card-heading { display: flex; }
+  .style-card.featured .card-heading h3 { font-size: 29px; }
+  .style-card.featured .card-index { margin-top: 0; }
+  .style-card.featured .card-body > p { margin-top: 6px; }
+  .card-actions { gap: 10px 16px; }
+  .card-actions > a, .choose-style { font-size: 12px; }
+  .filter-bar { gap: 10px; }
+  .filter { font-size: 11px; }
+  .section-description br { display: none; }
+  input, textarea, select { font-size: 16px; }
+  .form-grid { grid-template-columns: minmax(0, 1fr); gap: 0; }
+  #brief-form .full { grid-column: auto; }
+  #brief-form .button, .preview-actions .button { min-height: 48px; }
+  .preview-actions { display: grid; grid-template-columns: minmax(0, 1fr); }
+  .preview-actions .button { width: 100%; flex-basis: auto; white-space: normal; }
+  .dictation { flex-wrap: wrap; align-items: start; }
+  .small-button { min-height: 44px; }
+  .draft-settings .check-label { min-height: 44px; align-items: start; }
+  .demo-topbar { padding: 12px 16px; gap: 10px; align-items: center; }
+  .demo-topbar .button { flex: 1 1 185px; max-width: 270px; min-height: 44px; font-size: 11px; padding: 10px 12px; }
+  .demo-back { font-size: 11px; }
+  .demo-anchor-nav { gap: 2px 14px; padding: 10px 16px; }
+  .demo-page.theme-color .cover-names { font-size: clamp(48px, 12vw, 75px); }
+  .demo-page.theme-childhood .cover-portraits { gap: 4px; }
+  .demo-page.theme-childhood .portrait { width: clamp(80px, 25vw, 115px); height: clamp(110px, 32vw, 145px); }
+  .demo-page.theme-childhood .cover-names { font-size: clamp(42px, 10vw, 68px); }
+  .demo-page.theme-childhood .cover-motto { font-size: clamp(24px, 6vw, 32px); }
+  .demo-page.theme-italy .cover-names { flex-direction: column; align-items: center; font-size: clamp(52px, 12vw, 78px); line-height: 1; gap: 8px; }
+  .demo-page.theme-italy .cover-names i { font-size: .55em; line-height: 1; }
+  .demo-page.theme-italy .cover-villa { max-height: 160px; }
+  .demo-page.theme-villa .cover-kicker { position: static; align-self: stretch; padding: 12px; margin: -16px 18px 22px; }
+  .demo-page.theme-villa .cover-flower { width: 50px; height: 100px; opacity: .6; }
+  .demo-story-panel { flex-direction: column; gap: 24px; align-items: start; }
+  .demo-story-panel > svg { width: 65px; height: 105px; align-self: center; }
+  .demo-page.theme-italy .demo-story-panel > svg { height: 85px; }
+  .demo-page form .button { width: 100%; }
+  .demo-page .check-label { align-items: start; }
+  .demo-section h2 { overflow-wrap: normal; }
+}
+
+@media (max-width: 640px) {
+  .collection-grid { grid-template-columns: minmax(0, 1fr); gap: 32px; }
+  .style-card.featured { grid-column: auto; }
+  .collection-grid .preview-link { padding: 24px; }
+  .card-heading h3, .style-card.featured .card-heading h3 { font-size: 29px; line-height: 1.1; }
+  .card-body p, .style-card.featured .card-body > p { font-size: 13px; }
+  .card-actions > a, .choose-style { font-size: 12px; }
+  .choose-style { margin-left: auto; }
+  .collection-grid .theme-color .cover-names { font-size: clamp(32px, 14cqw, 44px); }
+  .collection-note { font-size: 11px; line-height: 1.8; }
+}
+
+@media (max-width: 380px) {
+  .site-header { height: auto; min-height: 82px; gap: 12px; flex-wrap: wrap; padding-block: 14px; }
+  .brand { font-size: 19px; }
+  .brand-caption { font-size: 8px; }
+  .header-contact { font-size: 10px; gap: 2px; }
+  .header-contact span { margin-left: 2px; }
+  .hero h1 { font-size: clamp(52px, 16.3vw, 62px); }
+  .hero-art { height: 390px; }
+  .hero-invitation { inset: 30px 28px 48px 20px; transform: rotate(-5deg); }
+  .hero-names { font-size: 46px; }
+  .hero-date { margin-top: 18px; }
+  .hero-date > span:first-child { font-size: 36px; }
+  .hero-branch { width: 55px; height: 125px; opacity: .65; }
+  .card-corner { top: 32px; font-size: 6px; }
+  .card-bottom { bottom: 26px; font-size: 13px; }
+  .art-caption { right: 5px; font-size: 15px; }
+  .small-note { left: 10px; font-size: 16px; }
+  .round-seal { width: 55px; height: 55px; right: -4px; bottom: 24px; font-size: 19px; }
+  .hero .button { width: 100%; gap: 12px; }
+  .hero-meta { align-items: start; flex-direction: column; gap: 6px; }
+  .steps { grid-template-columns: minmax(0, 1fr); }
+  .steps p { font-size: 13px; }
+  .promise-strip > .wrap { gap: 10px; font-size: 9px; }
+  .demo-page.theme-tili .cover-inner { transform: rotate(-2deg); padding-inline: 12px; }
+  .demo-page.theme-tili .cover-names { font-size: 50px; }
+  .demo-page.theme-villa .cover-names { font-size: 54px; }
+  .demo-topbar .button { flex-basis: 100%; max-width: none; }
+  .demo-page .cover-small-heart { font-size: 32px; }
+}
+
+@media (hover: none), (pointer: coarse) {
+  .preview-link:hover .invitation-cover, .button:hover { transform: none; }
+}

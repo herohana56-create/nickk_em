@@ -1,0 +1,29 @@
+{
+  "fonts": [
+    {
+      "path": "assets/fonts/manrope.ttf",
+      "source": "https://github.com/google/fonts/tree/3e5667764ccfea32ce0c3d58a3a4756de890adc1/ofl/manrope",
+      "commit": "3e5667764ccfea32ce0c3d58a3a4756de890adc1",
+      "original_filename": "Manrope[wght].ttf",
+      "license": "SIL OFL 1.1",
+      "sha256": "3ae11c49db0455a3cc33e37d380f20fdb8c7f8b41dc07625c177e3d87a9d6ae6"
+    },
+    {
+      "path": "assets/fonts/cormorant.ttf",
+      "source": "https://github.com/google/fonts/tree/3e5667764ccfea32ce0c3d58a3a4756de890adc1/ofl/cormorantgaramond",
+      "commit": "3e5667764ccfea32ce0c3d58a3a4756de890adc1",
+      "original_filename": "CormorantGaramond[wght].ttf",
+      "license": "SIL OFL 1.1",
+      "sha256": "b20b7d9626dd956b2c5e558692ad328b1f19e3275e2782db4fa07670d83f35e0"
+    },
+    {
+      "path": "assets/fonts/cormorant-italic.ttf",
+      "source": "https://github.com/google/fonts/tree/3e5667764ccfea32ce0c3d58a3a4756de890adc1/ofl/cormorantgaramond",
+      "commit": "3e5667764ccfea32ce0c3d58a3a4756de890adc1",
+      "original_filename": "CormorantGaramond-Italic[wght].ttf",
+      "license": "SIL OFL 1.1",
+      "sha256": "0f48ea6abb2084537854f7174c470991a463b13036309e3b50a81511611c530d"
+    }
+  ],
+  "illustrations": "SVG symbols, envelope and cover illustrations created for this project. No third-party photographs or music used."
+}
