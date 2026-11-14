@@ -1,0 +1,154 @@
+{
+  "created_or_reworked_for_this_revision": [
+    "italian-summer.webp",
+    "villa-clean.webp",
+    "postcard-kids-hq.webp",
+    "love-kids-hq.webp",
+    "film-kids-hq.webp",
+    "crayon-kids-hq.webp"
+  ],
+  "original_media_source": "User original portfolio https://nikita-invites.nikitaleonidovichem.chatgpt.site/assets/",
+  "note": "All portraits and venues used as demo media, not client event data. HQ childhood collages are AI-restored/recreated from the original demo collages.",
+  "font_licenses": [
+    "caveat-OFL.txt",
+    "marckscript-OFL.txt",
+    "../fonts/Cormorant-OFL.txt"
+  ],
+  "files": [
+    {
+      "file": "italy-8.webp",
+      "bytes": 33246,
+      "sha256": "34ae294c21e109d6827bd6946f10488d7c4f6dcc4a0a888a2132bb8e36610779"
+    },
+    {
+      "file": "co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_v86GnM.ttf",
+      "bytes": 119968,
+      "sha256": "7e6b819e1796e19ba118cb118d8d95f678534761aeb67d7b46b950481fd3bb43"
+    },
+    {
+      "file": "villa-clean.webp",
+      "bytes": 336742,
+      "sha256": "c1ea99509dfb2bebf8cf50ead715c3461e6fd56d0b2f1d24a1238c84fae64f93"
+    },
+    {
+      "file": "italy-5.webp",
+      "bytes": 24160,
+      "sha256": "f39f971ac85923d284023f2554070d00d7d0cc519a436a4dafa3b216664202e1"
+    },
+    {
+      "file": "italy-4.webp",
+      "bytes": 21350,
+      "sha256": "e2057a89b94b5dd867a7f3eeef38e6ecdd43976445e01285e51b01e2cdba1c59"
+    },
+    {
+      "file": "italian-summer.webp",
+      "bytes": 224232,
+      "sha256": "fbfbd7b181c617e3426ed117332af3db395d531f5feec95884f7a63538e315cb"
+    },
+    {
+      "file": "co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5wDDOjw.ttf",
+      "bytes": 119772,
+      "sha256": "d91c145b91dc366023df94e8e72705378220b9a38cd7c7f9c64875d7598a9c77"
+    },
+    {
+      "file": "italy-7.webp",
+      "bytes": 27900,
+      "sha256": "31e6f087d15e993759551a9d2ad78ad04ebc7f3a9eb3f654e4e850c17634f007"
+    },
+    {
+      "file": "WnznHAc5bAfYB2QRah7pcpNvOx-pjcB9SII.ttf",
+      "bytes": 175288,
+      "sha256": "3ea28315d67688d800229c109f45b61bb4afb3e3aa2127efbcffd36154aa473e"
+    },
+    {
+      "file": "crayon-kids-hq.webp",
+      "bytes": 344206,
+      "sha256": "f33083fd3d1c3722d0d103dfe62f46d48416fc09146d30bf851f13320c7b19de"
+    },
+    {
+      "file": "villa.webp",
+      "bytes": 42930,
+      "sha256": "551d5b8dfde09798473875f6f051e283fb573abf7196f4e341dbbe372945e80e"
+    },
+    {
+      "file": "love-kids-hq.webp",
+      "bytes": 350556,
+      "sha256": "2c36c26e8a513e673a31913283109825efe7fe80354e0d87c951f7f942ffa269"
+    },
+    {
+      "file": "marckscript-OFL.txt",
+      "bytes": 4420,
+      "sha256": "f22a2beea88d631a620b15683fd03e79f13ad3297ad97fa5e42283c0b1a3a038"
+    },
+    {
+      "file": "love-kids.webp",
+      "bytes": 21696,
+      "sha256": "03ffd4f8a58138ec2dd090d639e1f094483ceedeecff2e00bd09ead971c4aa28"
+    },
+    {
+      "file": "garden-ink.webp",
+      "bytes": 18934,
+      "sha256": "fbac567c8a6121fecd610f5071c607778f74d05b4ea5b7ed2f1d30b2bc829e5f"
+    },
+    {
+      "file": "italy-0.webp",
+      "bytes": 57328,
+      "sha256": "1075caa1446415d5170e716914777245b708e8c4a4d9ce22d57e24afc1bb213f"
+    },
+    {
+      "file": "film-kids-hq.webp",
+      "bytes": 340836,
+      "sha256": "dabcb827bd0d1f1a124d90d4e18d0b28ce414ba988773eaba3cf00dbddbf7974"
+    },
+    {
+      "file": "italy-6.webp",
+      "bytes": 60168,
+      "sha256": "d0af8dd54cec3b3b249118614a6f8a2b31ccfd2b9a253d44156634bcfbf1b342"
+    },
+    {
+      "file": "italy-2.webp",
+      "bytes": 28002,
+      "sha256": "65e35993a9aa085f84a32c62b167a1ffd3ed35f5891a2683f8c683d4c82ab5f4"
+    },
+    {
+      "file": "postcard-kids-hq.webp",
+      "bytes": 369062,
+      "sha256": "06e9d8c105048a9219d096b3db9d2cb05bd754ffae21ce04d5a0d05304640fe4"
+    },
+    {
+      "file": "postcard-kids.webp",
+      "bytes": 15580,
+      "sha256": "2ca3525a408e951ba57d536b0d6b1df7b48b060db07246c6568fe4f5456da30b"
+    },
+    {
+      "file": "italy-3.webp",
+      "bytes": 42058,
+      "sha256": "b825e0930ba5973ad5a366ab5168ee41a7eca39369452139f8eda070ccdf330a"
+    },
+    {
+      "file": "film-kids.webp",
+      "bytes": 15994,
+      "sha256": "1627fe12c6d183ec401c31fa08a1302f5fc9f3c73b6d92bcc121fb41c910af4c"
+    },
+    {
+      "file": "caveat-OFL.txt",
+      "bytes": 4385,
+      "sha256": "1f9d81d094273d82f3898a1ee8b598a717d050ecbf5ff7bede105b704880157b"
+    },
+    {
+      "file": "italy-1.webp",
+      "bytes": 34092,
+      "sha256": "adf8a7f15d99bbd970323d096d7d4eddc56c1356e41a5400e86429e7ed6df7b1"
+    },
+    {
+      "file": "crayon-kids.webp",
+      "bytes": 11148,
+      "sha256": "0dc83c3b52574ea7e656718f971ae5179e42ca97773b0377d16b716db4110ebb"
+    },
+    {
+      "file": "nwpTtK2oNgBA3Or78gapdwuCzw.ttf",
+      "bytes": 50200,
+      "sha256": "6671e350ff6ed7077ef1dc80ae7af23c649f11afadd6885639a7f5ed1ae1f09d"
+    }
+  ]
+}
