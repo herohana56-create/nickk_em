@@ -1,0 +1,74 @@
+/* Launch offer and consent preserve the portfolio's paper/olive art direction. */
+[hidden]{display:none!important}
+.hero-meta del{color:#77766b;font-size:12px;margin-right:7px}
+.price-comparison>del{display:block;color:#77756c;font:28px/1.2 Cormorant,serif;text-decoration-thickness:1px;margin-bottom:10px}
+.price[data-current-price]{font-size:clamp(62px,8vw,92px);white-space:nowrap}
+.offer-clock{display:flex;align-items:center;justify-content:space-between;gap:18px;margin:22px 0;padding:16px 0;border-block:1px solid #bebfae;color:#4b5e47}
+.offer-clock>span:first-child{font-size:12px;line-height:1.5}
+.offer-digits{font:36px/1.1 Cormorant,serif;font-variant-numeric:tabular-nums;letter-spacing:.06em}
+.order-promises{display:grid;gap:17px;margin:26px 0}
+.order-promises p{font-size:12px;line-height:1.7;color:#525d51}
+.order-promises strong{display:block;font-size:14px;font-weight:600;margin-bottom:3px;color:#303e34}
+.price-fine a,.brief-agreements a,.contact-dialog a{text-decoration:underline;text-underline-offset:3px}
+.brief-agreements{padding:22px;border:1px solid #adb29b;margin:28px 0;background:#fffcf3}
+.brief-agreements legend{font-size:12px;padding:0 8px;color:#3e5143}
+.brief-agreements .check-label,.contact-dialog .check-label{display:block;font-size:12px;line-height:1.8;margin:15px 0;color:#3c4b3d}
+.brief-agreements input[type=checkbox],.contact-dialog input[type=checkbox]{width:18px;height:18px;min-height:18px;vertical-align:middle;margin:0 8px 3px 0;accent-color:#4d624b;appearance:auto}
+.brief-agreements>p{font-size:11px;line-height:1.7;color:#626c5e}
+.legal-links{display:flex;flex-wrap:wrap;gap:12px 25px;font:12px/1.8 Manrope,sans-serif}
+.legal-links a{text-decoration:underline;text-underline-offset:4px}
+.site-footer .legal-links{grid-column:1/-1;border-top:1px solid #c4c7b6;padding-top:25px;margin-top:20px}
+.legal-links>span{flex-basis:100%;font-size:11px}
+.collection-only-link{margin-top:28px}
+.collection-only .collection{padding-top:55px}
+.collection-page-footer{padding-block:30px 50px;border-top:1px solid #c4c7b6;display:grid;gap:20px;font-size:13px}
+.start-section{background:#e9ebdc}
+.start-layout{display:grid;grid-template-columns:1.1fr 1fr;gap:80px;align-items:start}
+.start-layout h2{font:clamp(44px,5.3vw,72px)/1.04 Cormorant,serif;margin:24px 0}
+.start-layout>div>p:last-child{max-width:470px;font-size:14px;line-height:1.9;color:#5b6754}
+.start-card{background:#fffaf0;border:1px solid #bdc3ad;padding:38px}
+.start-card>strong{display:block;font:64px/1.1 Cormorant,serif;margin:20px 0}
+.start-card>p{font-size:13px;line-height:1.9;margin-bottom:24px}
+.start-card .button{width:100%;justify-content:center}
+.start-card .start-fine{font-size:11px;margin-top:20px;color:#66705c}
+.start-card .legal-links{font-size:11px}
+.collection-page .demo-topbar .button{gap:4px;flex-wrap:wrap;justify-content:center;text-align:center}
+.contact-dialog{max-width:560px;width:calc(100% - 32px);max-height:88dvh;overflow-y:auto;padding:35px;border:1px solid #b5baa5;color:#374b3c;background:#fffbee;box-shadow:0 25px 110px #18302040}
+.contact-dialog::backdrop{background:#20312799}
+.contact-dialog form{position:relative}
+.contact-dialog h2{font:44px/1.05 Cormorant,serif;margin:18px 0 22px;max-width:90%}
+.contact-dialog p{font-size:12px;line-height:1.8;margin-bottom:14px}
+.contact-dialog .eyebrow{font-size:10px}
+.dialog-close{position:absolute;right:-12px;top:-20px;border:0;background:transparent;color:inherit;font-size:32px;min-width:44px;min-height:44px;cursor:pointer}
+.contact-dialog .button{width:100%;margin:12px 0 18px}
+.contact-dialog .button:disabled{opacity:.48;cursor:not-allowed}
+.contact-dialog .dialog-footnote{font-size:11px;margin-bottom:0;color:#66705e}
+.legal-draft-note:empty{display:none}
+.legal-draft-note{padding:12px;border:1px solid #b7a478;background:#faf0d0}
+.legal-page{background:#f6f3e9;color:#344437}
+.legal-document{max-width:860px;margin:auto;padding:40px 24px 80px}
+.legal-document>a{font-size:13px;text-decoration:underline}
+.legal-document h1{font:clamp(36px,6vw,60px)/1.05 Cormorant,serif;margin:38px 0 30px;overflow-wrap:break-word}
+.legal-document h2{font:28px/1.2 Cormorant,serif;margin:32px 0 14px}
+.legal-document p{font:14px/1.9 Manrope,sans-serif;margin-bottom:16px;overflow-wrap:anywhere}
+.legal-document p a{text-decoration:underline;text-underline-offset:3px}
+.legal-document .legal-links{border-top:1px solid #bbc3ad;margin-top:40px;padding-top:25px}
+/* A quiet paper panel makes every Italian cover inscription readable over the photograph. */
+.design-italy .i-cover>div{background:linear-gradient(110deg,#fff9eaf5,#fff9eae8);padding:30px 32px;max-width:540px;border:1px solid #fff9ea80;box-shadow:0 8px 40px #33432c12}
+.design-italy .i-cover h1{color:#284438;font-size:clamp(78px,10vw,120px)}
+.design-italy .i-cover .i-names{color:#284438;font-size:32px}
+.design-italy .i-cover>div>p:first-child{background:transparent;padding:0;color:#445441}
+.design-italy .i-cover a{color:#284438}
+.cp-italy>div{background:#fff9eaf0;padding:22px;max-width:90%;border:1px solid #fff9ea70}
+.cp-italy strong,.cp-italy small,.cp-italy em{color:#284438}
+@media(max-width:760px){
+ .start-layout{grid-template-columns:1fr;gap:35px}.start-card{padding:28px 23px}.start-card>strong{font-size:56px}
+ .contact-dialog{padding:28px 23px}.contact-dialog h2{font-size:37px}
+ .brief-agreements{padding:18px}.site-footer .legal-links{gap:12px 20px}
+ .design-italy .i-cover>div{padding:24px 20px;max-width:100%;margin-top:0}
+ .design-italy .i-cover h1{font-size:73px;letter-spacing:-.045em}
+ .design-italy .i-cover .i-names{font-size:27px}
+ .design-italy .i-cover{padding:36px 24px;min-height:740px;align-items:start}
+ .cp-italy>div{padding:20px;max-width:92%}.cp-italy strong{font-size:45px}
+}
+@media(max-width:380px){.design-italy .i-cover h1{font-size:63px}.design-italy .i-cover{padding-inline:20px}.cp-italy strong{font-size:39px}.contact-dialog h2{font-size:33px}}

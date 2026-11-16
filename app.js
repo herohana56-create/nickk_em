@@ -6,20 +6,22 @@ const $ = (selector,root=document)=>root.querySelector(selector);
 const STYLE_ALIASES = {postcard:'childhood',love:'equation',film:'tili',crayon:'color'};
 const styleId = id => STYLE_ALIASES[id] || id;
 function renderCards(){
-  $('#collection-grid').innerHTML=STYLES.map((s,i)=>`<article class="style-card theme-${s.theme} ${i===6?'featured':''}" data-category="${s.category}"><a class="preview-link" href="?demo=${s.id}" data-demo="${s.id}" aria-label="Открыть интерактивный пример «${s.name}»">${window.InvitationCollection.preview(s)}<span class="preview-badge">Попробовать приглашение <svg class="out-arrow" aria-hidden="true" viewBox="0 0 24 24"><path d="M6 18 18 6M6 6h12v12"/></svg></span></a><div class="card-body"><div class="card-heading"><h3>${s.name}</h3><span class="card-index">0${i+1} / 07</span></div><p>${s.desc}</p><div class="card-actions"><a href="?demo=${s.id}" data-demo="${s.id}">Смотреть пример <svg class="out-arrow" aria-hidden="true" viewBox="0 0 24 24"><path d="M6 18 18 6M6 6h12v12"/></svg></a><button type="button" class="choose-style" data-style="${s.id}">Хочу такое</button></div></div></article>`).join('');
-  $('#brief-style').innerHTML='<option value="undecided">Пока выбираем — обсудим вместе</option>'+STYLES.map(s=>`<option value="${s.id}">${s.name}</option>`).join('');
+  $('#collection-grid').innerHTML=STYLES.map((s,i)=>`<article class="style-card theme-${s.theme} ${i===6?'featured':''}" data-category="${s.category}"><a class="preview-link" href="?demo=${s.id}" data-demo="${s.id}" aria-label="Открыть интерактивный пример «${s.name}»">${window.InvitationCollection.preview(s)}<span class="preview-badge">Попробовать приглашение <svg class="out-arrow" aria-hidden="true" viewBox="0 0 24 24"><path d="M6 18 18 6M6 6h12v12"/></svg></span></a><div class="card-body"><div class="card-heading"><h3>${s.name}</h3><span class="card-index">0${i+1} / 07</span></div><p>${s.desc}</p><div class="card-actions"><a href="?demo=${s.id}" data-demo="${s.id}">Смотреть пример <svg class="out-arrow" aria-hidden="true" viewBox="0 0 24 24"><path d="M6 18 18 6M6 6h12v12"/></svg></a><a class="choose-style" data-contact-style="${s.id}" href="contact.html?style=${s.id}" target="_blank" rel="noopener noreferrer">Хочу такое →</a></div></div></article>`).join('');
+
 }
 renderCards();
 // The paper sample in the portfolio hero uses the same data as the first invitation.
 {
  const sample=STYLES[0],name=document.querySelector('.hero-names'),date=document.querySelector('.hero-date');
+ if(name&&date){
  const and=document.createElement('i');and.textContent='&';name.replaceChildren(document.createTextNode(sample.names[0]),document.createElement('br'),and,document.createTextNode(' '+sample.names[1]));
  const parts=new Intl.DateTimeFormat('ru-RU',{day:'numeric',month:'long',year:'numeric',timeZone:'UTC'}).formatToParts(new Date(sample.date+'T12:00Z'));
  date.firstElementChild.textContent=parts.find(x=>x.type==='day').value;date.lastElementChild.replaceChildren(document.createTextNode(parts.find(x=>x.type==='month').value),document.createElement('br'),document.createTextNode(sample.date.slice(0,4)));
  document.querySelector('.hero-art').setAttribute('aria-label','Пример приглашения '+sample.names.join(' и ')+', '+sample.date);
+ }
 }
 
-$('#year').textContent=new Date().getFullYear();
+if($('#year'))$('#year').textContent=new Date().getFullYear();
 document.querySelectorAll('.filter').forEach(button=>button.addEventListener('click',()=>{
   document.querySelectorAll('.filter').forEach(b=>{const active=b===button;b.classList.toggle('active',active);b.setAttribute('aria-pressed',String(active));});
   let n=0;document.querySelectorAll('.style-card').forEach(card=>{card.hidden=button.dataset.filter!=='all'&&card.dataset.category!==button.dataset.filter;if(!card.hidden)n++;});
@@ -31,17 +33,16 @@ function renderRoute({focus=false}={}){
   const id=new URL(location.href).searchParams.get('demo');const s=STYLES.find(x=>x.id===styleId(id));
   $('#portfolio').hidden=!!s;$('#demo-view').hidden=!s;activeDemo=s||null;
   if(!s){$('#demo-view').replaceChildren();document.title='Никита — приглашения с вашей историей';if(id){const u=new URL(location.href);u.searchParams.delete('demo');history.replaceState({},'',u);}return;}
-  stopDictation();
   $('#demo-view').innerHTML=window.InvitationCollection.page(s,demoRSVP());
   document.title=`${s.name} — демо приглашения · Никита`;
-  wireRSVP();$('#calendar-download').addEventListener('click',downloadCalendar);
+  wireRSVP();$('#calendar-download').addEventListener('click',downloadCalendar);window.InviteOffer.render();
   if(focus){window.scrollTo({top:0,behavior:'instant'});$('.demo-page').tabIndex=-1;$('.demo-page').focus({preventScroll:true});}
 }
 function home(hash){const u=new URL(location.href);u.searchParams.delete('demo');u.hash=hash;history.pushState({},'',u);renderRoute();requestAnimationFrame(()=>{const el=$(hash);if(el){el.scrollIntoView({behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'});el.tabIndex=-1;el.focus({preventScroll:true});}});}
 document.addEventListener('click',event=>{
-  const demo=event.target.closest('[data-demo]');const choice=event.target.closest('[data-style]');const back=event.target.closest('[data-home]');
+  const demo=event.target.closest('[data-demo]');const back=event.target.closest('[data-home]');
   if(demo&&!event.metaKey&&!event.ctrlKey&&!event.shiftKey&&!event.altKey){event.preventDefault();const u=new URL(location.href);u.searchParams.set('demo',demo.dataset.demo);u.hash='';history.pushState({},'',u);renderRoute({focus:true});}
-  if(choice){event.preventDefault();const wasDemo=!!activeDemo;$('#brief-style').value=choice.dataset.style;$('#brief-style').dispatchEvent(new Event('input',{bubbles:true}));if(wasDemo)home('#brief');else{$('#brief').scrollIntoView({behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'});$('#brief-style').focus({preventScroll:true});}}
+
   if(back){event.preventDefault();home('#collection');}
 });
 window.addEventListener('popstate',()=>{renderRoute();if(location.hash)requestAnimationFrame(()=>{try{document.getElementById(decodeURIComponent(location.hash.slice(1)))?.scrollIntoView();}catch{/* Invalid URL fragment: keep the page usable. */}});});
@@ -70,56 +71,5 @@ function downloadCalendar(){
  const lines=['BEGIN:VCALENDAR','VERSION:2.0','PRODID:-//Nikita//Wedding Demo//RU','CALSCALE:GREGORIAN','BEGIN:VEVENT',`UID:nikita-demo-${s.id}-${s.date}`,`DTSTAMP:${new Date().toISOString().replace(/[-:]/g,'').replace(/\.\d{3}/,'')}`,`DTSTART:${utc(ceremony.time)}`,`DTEND:${utc(s.endTime)}`,`SUMMARY:${escape('ДЕМО — '+s.names.join(' и ')+': пример свадьбы')}`,`DESCRIPTION:${escape('Демонстрационное событие из портфолио. Не настоящее приглашение. Часовой пояс: '+s.timezone+'.')}`,`LOCATION:${escape(s.city+' — демонстрация без адреса')}`,'STATUS:TENTATIVE','END:VEVENT','END:VCALENDAR',''];
  const encoder=new TextEncoder();const folded=lines.map(line=>{let text='',row='';for(const ch of line){if(encoder.encode(row+ch).length>73){text+=row+'\r\n';row=' ';}row+=ch;}return text+row;}).join('\r\n');saveFile('wedding-demo.ics',folded,'text/calendar;charset=utf-8');
 }
-/* Explicit opt-in local drafts. Guest demos never use storage. */
-const briefForm=$('#brief-form');const fieldNames=['names','contact','date','city','style','story','photos','schedule','dress','rsvp','notes'];const STORAGE_KEY='nikita-invites-brief-v1';let previewDirty=false;
-function values(){return Object.fromEntries(fieldNames.map(n=>[n,briefForm.elements.namedItem(n).value]));}
-function persistDraft(){if(!$('#save-draft').checked)return;try{localStorage.setItem(STORAGE_KEY,JSON.stringify({version:1,fields:values()}));$('#draft-status').textContent='Черновик сохранён в этом браузере.';}catch{$('#draft-status').textContent='Браузер не разрешает сохранение. Скопируйте или скачайте подготовленный текст.';}}
-function restoreDraft(){
- try{
-  const data=JSON.parse(localStorage.getItem(STORAGE_KEY)||'null');
-  if(!data||typeof data!=='object'||Array.isArray(data))return;
-  const legacy=data.version===undefined&&typeof data.names==='string';
-  if(!legacy&&(data.version!==1||!data.fields||typeof data.fields!=='object'))return;
-  let fields=data.fields;
-  if(legacy){
-   const combine=items=>items.filter(([key])=>typeof data[key]==='string'&&data[key].trim()).map(([key,label])=>`${label}: ${data[key]}`).join('\n\n');
-   fields={...data,style:styleId(data.style),schedule:combine([['place','Площадка'],['address','Адрес и карта'],['schedule','Программа'],['travel','Как добраться']]),dress:combine([['mood','Настроение'],['dress','Дресс-код'],['details','Пожелания']]),notes:combine([['organizer','Организатор'],['deadline','Нужна готовность к'],['extra','Дополнительно']])};
-  }
-  for(const n of fieldNames){const value=fields[n];if(typeof value!=='string'||value.length>15000)continue;if(n==='style'&&!['undecided',...STYLES.map(s=>s.id)].includes(value))continue;briefForm.elements.namedItem(n).value=value;}
-  $('#save-draft').checked=!legacy;
-  $('#draft-status').textContent=legacy?'Восстановлен прежний черновик. Для дальнейшего сохранения включите переключатель. Прежняя запись не изменена.':'Восстановлен сохранённый черновик. Он находится только в этом браузере.';
- }catch{$('#draft-status').textContent='Не удалось восстановить черновик. Форму можно заполнить вручную.';}
-}
-function eraseDraft(){try{localStorage.removeItem(STORAGE_KEY);$('#draft-status').textContent='Сохранённый черновик удалён. Текущий текст остался в форме.';}catch{$('#draft-status').textContent='Браузер не разрешает доступ к хранилищу.';}$('#save-draft').checked=false;}
-$('#save-draft').addEventListener('change',()=>{if($('#save-draft').checked)persistDraft();else eraseDraft();});$('#clear-draft').addEventListener('click',eraseDraft);
-briefForm.addEventListener('input',e=>{if(fieldNames.includes(e.target.name)){persistDraft();if(!$('#brief-preview').hidden){$('#transfer-note').textContent='Вы изменили бриф. Нажмите «Проверить и подготовить сообщение», чтобы обновить текст перед отправкой.';$('#send-telegram').hidden=true;}}});
-function formatDate(value){if(!value)return 'Пока не определились';const parts=value.split('-');return parts.length===3?`${parts[2]}.${parts[1]}.${parts[0]}`:value;}
-function messageText(){const v=values();const style=STYLES.find(s=>s.id===v.style)?.name||'Пока выбираем';const sections=[['Имена',v.names],['Связь',v.contact],['Дата',formatDate(v.date)],['Город и часовой пояс',v.city],['Стиль',style],['Наша история',v.story],['Фото и референсы',v.photos],['Площадки и программа',v.schedule],['Дресс-код и пожелания',v.dress],['RSVP и получатель ответов',v.rsvp],['Организатор, сроки и другие пожелания',v.notes]];return 'Никита, здравствуйте! Хотим свадебное приглашение.\nСтоимость: 5 000 ₽ за одно приглашение.\n\n'+sections.filter(([,v])=>v.trim()).map(([k,v])=>`${k}:\n${v.trim()}`).join('\n\n')+'\n\nПросим согласовать сроки, правки, размещение и приём ответов гостей до начала работы.';}
-function updateTelegram(){const text=$('#message-preview').value;const long=text.length>2200;const v=values();const style=STYLES.find(s=>s.id===v.style)?.name||'обсудим вместе';const short=`Никита, здравствуйте! Хотим приглашение за 5 000 ₽.\nИмена: ${v.names.slice(0,160)}\nСвязь: ${v.contact.slice(0,200)}\nСтиль: ${style}\n\nПодробный бриф отправим отдельным сообщением или файлом.`;const url=new URL('https://t.me/herohana_1');url.searchParams.set('text',long?short:text);$('#send-telegram').href=url.href;$('#send-telegram').hidden=false;$('#transfer-note').textContent=long?'Бриф получился длинным. Скопируйте его или скачайте .txt. В Telegram откроется короткое сообщение для @herohana_1; добавьте полный бриф самостоятельно. Отправку подтверждаете вы.':'Получатель: @herohana_1. Откроется черновик в Telegram; проверьте и отправьте его самостоятельно. Сайт ничего не отправляет в фоне.';}
-briefForm.addEventListener('submit',e=>{e.preventDefault();stopDictation();if(!briefForm.elements.names.value.trim()||!briefForm.elements.contact.value.trim()){briefForm.elements.names.setCustomValidity(!briefForm.elements.names.value.trim()?'Укажите имена':'');briefForm.elements.contact.setCustomValidity(!briefForm.elements.contact.value.trim()?'Укажите контакт':'');briefForm.reportValidity();return;}if(previewDirty&&!confirm('Вы редактировали готовое сообщение. Обновить его из полей брифа и заменить ручные правки?'))return;$('#message-preview').value=messageText();previewDirty=false;$('#brief-preview').hidden=false;$('#copy-status').textContent='';updateTelegram();persistDraft();$('#brief-preview').scrollIntoView({behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'});$('#message-preview').focus({preventScroll:true});});
-briefForm.elements.names.addEventListener('input',()=>briefForm.elements.names.setCustomValidity(''));briefForm.elements.contact.addEventListener('input',()=>briefForm.elements.contact.setCustomValidity(''));
-$('#message-preview').addEventListener('input',()=>{previewDirty=true;updateTelegram();});
-$('#copy-brief').addEventListener('click',async()=>{const area=$('#message-preview');try{if(!navigator.clipboard?.writeText)throw Error('Clipboard unavailable');await navigator.clipboard.writeText(area.value);$('#copy-status').textContent='Текст скопирован. Вставьте его в сообщение Никите.';}catch{area.focus();area.select();$('#copy-status').textContent='Автоматическое копирование недоступно. Текст выделен: скопируйте его через меню устройства или Ctrl/Cmd+C.';}});
-$('#download-brief').addEventListener('click',()=>saveFile('brief-nikita.txt',$('#message-preview').value));
-/* SpeechRecognition: explicit start, stable target/cursor, Russian, no background recording. */
-const SpeechRecognition=window.SpeechRecognition||window.webkitSpeechRecognition;let recognition=null,speechTarget=null,lastTextTarget=briefForm.elements.story,insertion=null,speechFailed=false;
-briefForm.addEventListener('focusin',e=>{if(e.target.matches('textarea,input[type=text],input:not([type])'))lastTextTarget=e.target;});
-function stopDictation(){if(recognition){const current=recognition;try{current.stop();}catch{speechReset();$('#speech-status').textContent='Диктовка остановлена. Можно продолжить ввод вручную.';}return;}$('#dictate').setAttribute('aria-pressed','false');}
-function speechReset(){recognition=null;speechTarget=null;insertion=null;$('#dictate').setAttribute('aria-pressed','false');$('#dictate').textContent='◉ Диктовать текст';}
-$('#dictate').addEventListener('click',()=>{
- if(recognition){$('#speech-status').textContent='Завершаем диктовку…';stopDictation();return;}
- if(!SpeechRecognition){$('#speech-status').textContent='Диктовка в этом браузере не поддерживается. Используйте клавиатурный микрофон или напечатайте текст.';return;}
- if(!window.isSecureContext){$('#speech-status').textContent='Для микрофона нужен защищённый адрес HTTPS. Используйте ручной ввод или диктовку клавиатуры.';return;}
- const rec=new SpeechRecognition();recognition=rec;speechTarget=lastTextTarget;speechFailed=false;insertion={start:speechTarget.selectionStart??speechTarget.value.length,end:speechTarget.selectionEnd??speechTarget.value.length,original:speechTarget.value};rec.lang='ru-RU';rec.continuous=false;rec.interimResults=false;
- rec.onstart=()=>{$('#dictate').setAttribute('aria-pressed','true');$('#dictate').textContent='■ Остановить';$('#speech-status').textContent='Слушаю. Текст появится в выбранном поле. Распознавание может обрабатываться сервисом вашего браузера.';};
- rec.onresult=e=>{if(!speechTarget)return;const words=Array.from(e.results).filter(r=>r.isFinal).map(r=>r[0].transcript).join(' ').trim();if(!words)return;const el=speechTarget;if(el.value!==insertion.original){speechFailed=true;$('#speech-status').textContent='Вы изменили поле во время диктовки. Ручной текст сохранён; повторите диктовку с новой позиции.';return;}const before=el.value.slice(0,insertion.start),after=el.value.slice(insertion.end);const spaceBefore=before&&!/\s$/.test(before)?' ':'';const spaceAfter=after&&!/^\s/.test(after)?' ':'';const addition=spaceBefore+words+spaceAfter;const next=before+addition+after;if(el.maxLength>0&&next.length>el.maxLength){speechFailed=true;$('#speech-status').textContent='Текст не вставлен: достигнут лимит поля. Сократите текст и повторите.';return;}el.value=next;el.setSelectionRange(before.length+addition.length,before.length+addition.length);el.dispatchEvent(new Event('input',{bubbles:true}));$('#speech-status').textContent='Текст добавлен в выбранное поле. Проверьте и при необходимости исправьте его.';};
- rec.onerror=e=>{speechFailed=true;const errors={'not-allowed':'Доступ к микрофону не разрешён. Разрешите его в браузере или используйте ручной ввод.','service-not-allowed':'Сервис распознавания недоступен. Используйте диктовку клавиатуры или ручной ввод.','audio-capture':'Микрофон не найден. Используйте ручной ввод.','no-speech':'Речь не распознана. Попробуйте снова или напечатайте текст.','network':'Не удалось связаться с сервисом распознавания. Текст формы сохранён в полях.','aborted':'Диктовка остановлена. Можно продолжить ввод вручную.'};$('#speech-status').textContent=errors[e.error]||'Диктовка недоступна. Ручной ввод работает.';};
- rec.onend=()=>{if(!speechFailed&&!$('#speech-status').textContent.startsWith('Текст добавлен'))$('#speech-status').textContent='Диктовка завершена. Проверьте текст; ручной ввод доступен всегда.';speechReset();};
- try{rec.start();}catch{speechFailed=true;$('#speech-status').textContent='Не удалось запустить микрофон. Попробуйте диктовку клавиатуры или ручной ввод.';speechReset();}
-});
-if(!SpeechRecognition){$('#speech-status').textContent='В этом браузере распознавание речи недоступно. Можно использовать диктовку клавиатуры или напечатать текст.';}
-document.addEventListener('visibilitychange',()=>{if(document.hidden)stopDictation();});
-restoreDraft();
-const requestedStyle=styleId(new URL(location.href).searchParams.get('style'));
-if(STYLES.some(s=>s.id===requestedStyle)){$('#brief-style').value=requestedStyle;persistDraft();}
+
 renderRoute();
