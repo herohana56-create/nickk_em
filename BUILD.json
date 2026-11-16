@@ -3,5 +3,8 @@
   "prepared_date": "2026-11-17",
   "brief_collection": false,
   "client_database": false,
-  "deploy_target": "Netlify Free"
+  "deploy_target": "Surge Free",
+  "published_url": "https://nikita-em-invites.surge.sh/",
+  "revision": 1794857340450,
+  "owner_email_verified": true
 }
