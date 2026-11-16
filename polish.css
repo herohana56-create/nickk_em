@@ -1,0 +1,277 @@
+@font-face{font-family:InvitationLobster;src:url('assets/fonts/lobster.ttf');font-display:swap}
+@font-face{font-family:InvitationNeucha;src:url('assets/fonts/neucha.ttf');font-display:swap}
+@font-face{font-family:InvitationCalligraphy;src:url('assets/fonts/greatvibes.ttf');font-display:swap}
+/* Art direction: intentional typography, controlled photographic treatment, paper and textile details. */
+.collection-page{--text-color:#414b3a;--label-color:#656e59}
+.collection-page .design-canvas{background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='p'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.7' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Cpath fill='%23978b75' opacity='.035' filter='url(%23p)' d='M0 0h180v180H0z'/%3E%3C/svg%3E")}
+.collection-page .design-canvas p{line-height:1.85;text-wrap:pretty}
+.collection-page .event-number{display:none}
+.collection-page .bespoke-plan li{min-width:0}
+.collection-page .bespoke-plan h3{line-height:1.3}
+.collection-page .calendar-link{font-size:11px;letter-spacing:.02em}
+.collection-page .collection-rsvp .demo-small-note{font-size:12px!important;line-height:1.7!important;color:inherit;opacity:.85}
+.collection-page .collection-rsvp .demo-section{max-width:560px}
+.collection-page .collection-rsvp label{font-size:13px;line-height:1.6}
+.collection-page .collection-ending{padding-block:55px}
+.collection-page .collection-ending>p:first-child{font-size:34px}
+.date-ribbon{margin:40px auto 18px;text-align:center;max-width:420px}
+.date-ribbon>p{font:25px/1.3 Cormorant,serif!important;text-transform:capitalize;letter-spacing:.08em;margin-bottom:20px}
+.date-ribbon>div{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:10px;align-items:center}
+.date-ribbon>div>span{font:38px/1 Cormorant,serif;padding:18px 0}
+.date-ribbon .selected-date{border-radius:48% 48% 45% 45%;background:var(--red);color:#fff9ed;box-shadow:0 2px 1px #0001}
+.date-ribbon-villa{border-block:1px solid #879460;margin-top:45px;padding-block:25px}
+.date-ribbon-villa .selected-date{background:#f2e1e5;color:#616c44;border:1px solid #b98da3;border-radius:50%}
+.film-ticket{background:#fff8e6;border-block:1px dashed #a07776;position:relative;margin:10px 0 0;padding:26px 20px;text-align:center}
+.film-ticket:before,.film-ticket:after{content:'';position:absolute;top:45%;height:24px;width:24px;border-radius:50%;background:var(--sheet)}
+.film-ticket:before{left:-12px}.film-ticket:after{right:-12px}
+.film-ticket>span{display:block;font:9px/1.7 Manrope,sans-serif;letter-spacing:.13em}
+.film-ticket>strong{font:90px/.95 Cormorant,serif;display:block;font-weight:400;margin:22px auto;color:#791c31}
+.film-ticket strong i{font:25px/1.5 WeddingScript,cursive;display:block;margin-top:8px}
+.italian-date{margin:48px auto 0;max-width:500px;border-top:1px solid #b3b9a0;padding-top:40px;background:url('assets/motifs/olive.svg') no-repeat center top 10px;background-size:140px 60px}
+.italian-date>span{display:block;font-size:9px;letter-spacing:.2em;margin-top:35px}
+.italian-date>strong{display:block;font:46px/1.1 Cormorant,serif;font-weight:400;margin-top:16px}
+.italian-date>p{font-size:12px;margin-top:18px;color:#526346}
+/* Garden: crisp book typography and botanical stationery, no scrapbook type. */
+.design-garden h1,.design-garden h2,.design-garden h3,.design-garden .collection-ending>p:first-child{font-family:Cormorant,serif}
+.design-garden .g-cover h1{font-weight:400;letter-spacing:-.055em}
+.design-garden .g-cover .handwritten{font:italic 32px/1.15 Cormorant,serif}
+.design-garden .g-cover>p:last-child{max-width:450px}
+.design-garden .g-path h2{font:44px/1.05 Cormorant,serif}
+.design-garden .g-path .bespoke-plan time{font:30px/1 Cormorant,serif}
+.design-garden .g-path .bespoke-plan h3{font:24px/1.15 Cormorant,serif}
+.design-garden .g-path .bespoke-plan{margin-left:20px;padding-left:30px}
+.design-garden .g-path .bespoke-plan li:nth-child(even){margin-left:45px}
+.design-garden .g-dress h2{font-size:43px}
+.design-garden .framed-pair img{filter:saturate(.7) sepia(.08);padding:7px;border-radius:0;box-shadow:8px 8px 0 #d5d7bc}
+.stationery-notes{margin-top:35px;border-top:1px solid #969d80}
+.stationery-notes article{padding:28px 0;border-bottom:1px solid #969d8066;max-width:520px}
+.stationery-notes h3{font:28px Cormorant,serif;color:#852b44;margin-bottom:12px}
+.stationery-notes p{font-size:14px}
+.design-garden .g-wishes{background:#eeefdf url('assets/motifs/olive.svg') no-repeat right -25px bottom 15px;background-size:160px}
+.design-garden .collection-rsvp{padding-top:60px;border-top:1px solid #a9af92;background:#fffbed}
+.design-garden .collection-rsvp h2{font:48px/1 Cormorant,serif}
+.cp-garden strong{font:32px Cormorant,serif}
+/* Pastel: playful lettering, soft textile edges and page-like notes. */
+.design-childhood h1,.design-childhood h2,.design-childhood h3,.design-childhood .collection-rsvp h2{font-family:InvitationLobster,cursive;font-weight:400}
+.design-childhood .p-cover h1{font-size:42px;line-height:1.15;margin:25px 0}
+.design-childhood .p-cover .handwritten{font:25px WeddingHand,cursive}
+.design-childhood .heart-photo{filter:saturate(.82);max-width:310px}
+.design-childhood .p-sticker{border-radius:42% 48% 46% 40%;font-size:27px!important;padding:12px 23px}
+.design-childhood .p-program .bespoke-plan time{font:39px/1 InvitationLobster,cursive;color:#ad5171}
+.design-childhood .p-program .bespoke-plan h3{font:21px/1.2 InvitationLobster,cursive}
+.design-childhood .p-program .bespoke-plan li{position:relative;padding:28px 10px}
+.design-childhood .p-program .bespoke-plan li:not(:last-child):after{content:'';display:block;width:1px;height:24px;background:#d6a4b4;margin:20px auto -20px}
+.design-childhood .scallop-calendar{border-color:#bd6985;background:#fff8ee;box-shadow:0 0 0 14px #f2d6df55}
+.design-childhood .month-piece>p{font-family:InvitationLobster,cursive!important}
+.storybook-notes{display:grid;gap:35px;margin-top:30px}
+.storybook-notes article{padding:35px;background:#efd2de;position:relative;border:1px solid #ce8ba4;border-radius:35px 35px 45% 35px/25px 25px 30px 25px;box-shadow:5px 7px 0 #e1afbf66}
+.storybook-notes article:nth-child(2){background:#dbe7e8;border-color:#86a3ae;margin-left:30px}
+.storybook-notes article>span{font:9px Manrope,sans-serif;letter-spacing:.15em;color:#625c5c}
+.storybook-notes h3{font-size:29px;margin:18px 0;color:#4c7d94}
+.storybook-notes p{font-size:14px;color:#4b6064}
+.design-childhood .memory-strip{background:#bd5f80;border-block-width:7px;transform:rotate(-1deg);padding:35px 22px}
+.design-childhood .collection-rsvp{position:relative;background:#fcf8e9;border-top:14px solid #f0c7d6;padding-block:55px}
+.design-childhood .collection-rsvp h2{font-size:43px;color:#4d7b90}
+.design-childhood .collection-rsvp .button{background:#ac496b;color:#fffaf0}
+.cp-childhood strong{font-family:InvitationLobster,cursive;font-size:30px;color:#4c7c91}
+/* Equation: cut paper and rough handwriting; genuinely shaped wishes. */
+.design-equation h1,.design-equation h2,.design-equation h3,.design-equation .handwritten,.design-equation .collection-rsvp h2{font-family:InvitationNeucha,cursive}
+.design-equation .e-cover .handwritten{font-size:43px;line-height:1.1}
+.design-equation .e-recognize h1{font-size:56px}
+.design-equation .e-cover img{filter:saturate(.88);clip-path:polygon(1% 1%,98% 0,100% 98%,0 100%)}
+.design-equation .green-ribbon{font:25px/1.3 InvitationNeucha,cursive!important;border-radius:8% 3% 9% 4%;transform:rotate(-2deg)}
+.design-equation .e-plan .bespoke-plan{max-width:400px;margin:25px auto}
+.design-equation .e-plan .bespoke-plan li{text-align:left;display:grid;grid-template-columns:90px minmax(0,1fr);border:0;gap:20px;align-items:start}
+.design-equation .e-plan .bespoke-plan time{font:37px/1.1 InvitationNeucha,cursive;padding-top:3px}
+.design-equation .e-plan .bespoke-plan h3{font:25px/1.15 InvitationNeucha,cursive}
+.design-equation .e-puzzles .wish-notes article{border-radius:14px;padding:35px 30px;position:relative;margin:45px 12px;transform:rotate(-2deg)}
+.design-equation .e-puzzles .wish-notes article:before{content:'';position:absolute;top:-20px;left:calc(50% - 23px);width:46px;height:46px;background:#a7252e;border-radius:50%}
+.design-equation .e-puzzles .wish-notes article:nth-child(2){transform:rotate(2deg);margin-left:35px}
+.design-equation .e-puzzles .wish-notes article:nth-child(2):before{left:-20px;top:38%;width:42px;height:42px}
+.design-equation .e-puzzles .wish-notes h3{font-size:30px;margin-top:15px}
+.design-equation .e-puzzles .wish-notes p{font-size:14px}
+.design-equation .e-puzzles .puzzle-piece{border-radius:50% 50% 8px 8px;text-align:center;transform:rotate(-2deg);margin:30px}
+.design-equation .e-snapshot{filter:saturate(.65) sepia(.12)}
+.design-equation .collection-rsvp{background:#f5ecd9;border-top:0;position:relative;padding-top:55px}
+.design-equation .collection-rsvp .demo-section{border:2px solid #8b2931;padding:28px!important}
+.design-equation .collection-rsvp form{border:0;padding:0}
+.design-equation .collection-rsvp .button{font-family:InvitationNeucha,cursive;font-size:20px}
+.cp-equation strong{font:34px/1.1 InvitationNeucha,cursive}
+/* Villa: calligraphy reserved for the names; restrained editorial text and lace. */
+.design-villa .v-cover h1{font:145px/.8 InvitationCalligraphy,cursive;bottom:105px;letter-spacing:-.025em}
+.design-villa .v-cover h1 i{display:block;font-size:.4em;line-height:.9;margin:10px 0}
+.design-villa h2{font-family:Cormorant,serif;font-style:italic;line-height:1.02}
+.design-villa .v-oval{position:relative;background:#f7e9e5;border:3px double #b58b9d;box-shadow:0 0 0 12px #efe0e0;padding:65px 40px}
+.design-villa .v-oval:before{content:'';position:absolute;inset:-22px;border:18px solid transparent;border-image:url('assets/motifs/lace.svg') 32 round;pointer-events:none;opacity:.65}
+.design-villa .v-oval .handwritten{font:italic 45px/1.05 Cormorant,serif;max-width:380px;margin:0 auto 25px}
+.design-villa .v-letter .month-piece{border:0}
+.design-villa .v-program{gap:35px;background:#edf0d1}
+.design-villa .v-program h2{font:italic 50px Cormorant,serif}
+.design-villa .v-program .bespoke-plan{border-top:1px solid #7f8a61}
+.design-villa .v-program .bespoke-plan li{display:block;position:relative;padding:20px 0 20px 52px}
+.design-villa .v-program .event-number{position:absolute;left:0;top:21px;display:block;font:12px Manrope,sans-serif;color:#7f8a61}
+.design-villa .v-program .bespoke-plan time{font:32px/1 Cormorant,serif;display:block;margin-bottom:9px}
+.design-villa .v-program .bespoke-plan h3{font:14px/1.5 Manrope,sans-serif}
+.design-villa .v-program .bespoke-plan p{display:block;font-size:11px;color:#5a6647}
+.design-villa .v-program>img{filter:saturate(.8);border-radius:160px 160px 0 0;min-height:350px}
+.design-villa .v-frame{border:16px solid transparent;border-image:url('assets/motifs/lace.svg') 32 round;background:#f7f3df;padding:20px 12px;box-shadow:0 0 0 1px #b58b9d}
+.design-villa .satin-bow{border-top:0;border-bottom:0;margin-top:0;background:#e8c5d3;position:relative;padding:20px}
+.design-villa .satin-bow:before,.design-villa .satin-bow:after{content:'';position:absolute;top:50%;width:calc(50% - 95px);border-top:5px double #fbf0ef}
+.design-villa .satin-bow:before{left:0}.design-villa .satin-bow:after{right:0}
+.design-villa .collection-rsvp{background:#f1efd9;max-width:100%;border-top:1px solid #bec49d;padding-top:65px}
+.design-villa .collection-rsvp h2{font:italic 52px Cormorant,serif}
+.design-villa .collection-rsvp input,.design-villa .collection-rsvp select{border-radius:4px;background:#fffbed;border-color:#8c9675}
+.design-villa .collection-rsvp .button{background:#7e4b65;color:#fffaf0}
+.cp-villa strong{font:57px/.95 InvitationCalligraphy,cursive}
+/* Album: a consistent monochrome sequence, notebook captions and perforated ticket. */
+.design-tili h1,.design-tili h2,.design-tili .handwritten,.design-tili .collection-rsvp h2{font-family:WeddingScript,cursive}
+.design-tili .f-cover h1{font-size:70px}
+.design-tili .f-cover>img{filter:grayscale(1) sepia(.08);border:9px solid #fff9ed;box-shadow:0 5px 15px #5d29361a;transform:rotate(-3deg);max-width:380px}
+.design-tili .f-album{background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100'%3E%3Cfilter id='t'%3E%3CfeTurbulence baseFrequency='.8' numOctaves='3'/%3E%3C/filter%3E%3Cpath d='M0 0h100v100H0z' filter='url(%23t)' opacity='.08'/%3E%3C/svg%3E")}
+.design-tili .f-album img,.design-tili .polaroid img{filter:grayscale(1) contrast(.92) sepia(.06)}
+.design-tili .f-album figcaption{font-family:WeddingScript,cursive;font-size:25px}
+.design-tili .f-date h2{font-family:WeddingScript,cursive;font-size:42px;justify-content:center;gap:15px;flex-wrap:wrap}
+.design-tili .f-thread .bespoke-plan li{padding-block:38px}
+.design-tili .f-thread time{font:38px/1 WeddingScript,cursive}
+.design-tili .f-thread h3{font:27px/1.2 WeddingScript,cursive}
+.design-tili .f-thread p{font:13px/1.8 Manrope,sans-serif}
+.design-tili .collection-rsvp{background:#fff8e9;border-top:7px solid #791c31;position:relative;padding-block:65px}
+.design-tili .collection-rsvp input,.design-tili .collection-rsvp select{border-radius:0;background:transparent}
+.design-tili .collection-rsvp h2{font:48px/1.1 WeddingScript,cursive}
+.cp-tili img{filter:grayscale(1) sepia(.07)}
+.cp-tili strong{font:35px/1.1 WeddingScript,cursive}
+/* Sketchbook: colored marker rhythms; each programme line is an actual dated event. */
+.design-color .c-cover h1{font-family:WeddingHand,cursive;font-size:75px}
+.design-color h2{font-family:WeddingHand,cursive;font-size:54px;letter-spacing:0}
+.design-color .c-cover>img{border-radius:4px;clip-path:polygon(0 2%,99% 0,100% 99%,2% 100%)}
+.design-color .c-plan .bespoke-plan li{border-radius:4px;box-shadow:5px 6px 0 #b78b5920;position:relative;margin:24px 0;padding:24px 25px}
+.design-color .c-plan .bespoke-plan time{font:38px/1 WeddingHand,cursive;min-width:78px}
+.design-color .c-plan h3{font-family:WeddingHand,cursive;font-size:29px}
+.design-color .c-plan p{font-size:13px}
+.design-color .c-location figure{box-shadow:8px 12px 0 #d9c6a3}
+.design-color .collection-rsvp{border:0;outline:1px solid #b5a383;outline-offset:-12px;transform:rotate(-.5deg);padding:55px 35px}
+.design-color .collection-rsvp h2{font:48px/1.1 WeddingHand,cursive;color:#456c63}
+.design-color .collection-rsvp .button{font-family:WeddingHand,cursive;font-size:23px;background:#536e63}
+.cp-color strong{font:36px/1.1 WeddingHand,cursive}
+/* Italy: material-led editorial rhythm throughout, not only the first screen. */
+.design-italy .i-cover h1{font:clamp(78px,10vw,140px)/.86 Cormorant,serif;letter-spacing:-.04em}
+.design-italy .i-cover .i-names{font:30px/1.25 Cormorant,serif;letter-spacing:.02em}
+.design-italy .i-cover>div>p:first-child{max-width:440px;line-height:1.8;background:#fff9e345;display:inline-block;padding:7px 12px}
+.design-italy .i-letter{background:#f8f4e7 url('assets/motifs/olive.svg') no-repeat right 25px top 35px;background-size:180px}
+.design-italy .i-letter>p:not(.handwritten){font:18px/1.9 Cormorant,serif;max-width:550px;letter-spacing:.005em}
+.design-italy .i-letter .handwritten{font:italic 28px/1.3 Cormorant,serif;margin-top:30px}
+.design-italy .i-film{background:#283d32}
+.design-italy .i-film img{filter:saturate(.72) sepia(.09) contrast(.96)}
+.design-italy .i-film figure:nth-child(even){padding-top:20px}
+.design-italy .i-film>div{padding-block:22px 28px;scrollbar-color:#b9ac85 #283d32}
+.design-italy .i-villa>img{filter:saturate(.75) sepia(.07)}
+.design-italy .i-villa>div{background:#eeedda}
+.design-italy .location-caption{font-size:10px;margin-top:25px;letter-spacing:.06em;color:#637353}
+.design-italy .majolica-edge{background-image:url('assets/motifs/ceramic.svg');background-size:35px 35px;border-color:#315879}
+.design-italy .i-menu h2{font:82px/.95 Cormorant,serif;font-style:italic}
+.design-italy .i-menu .handwritten{font:italic 25px/1.3 Cormorant,serif}
+.design-italy .i-menu .bespoke-plan{margin-top:40px}
+.design-italy .i-menu .bespoke-plan li{display:grid;grid-template-columns:85px minmax(0,1fr);gap:25px;position:relative;padding-block:26px;border-color:#9da98d80}
+.design-italy .i-menu .bespoke-plan time{font:34px/1 Cormorant,serif;color:#315879}
+.design-italy .i-menu .bespoke-plan h3{font:30px/1.1 Cormorant,serif}
+.design-italy .i-menu .bespoke-plan p{font-size:12px;max-width:330px}
+.design-italy .i-dress .heart-palette{gap:22px}
+.design-italy .i-dress .heart-palette i{font-size:0;display:block;height:45px;width:38px;border-radius:48% 48% 4px 4px;background:currentColor;border:1px solid #8f936d55;box-shadow:3px 3px 0 #fff8}
+.design-italy .i-dress .heart-palette span{font-size:11px}
+.design-italy .i-toast{background:url('assets/motifs/olive.svg') no-repeat center bottom 5px;background-size:190px}
+.design-italy .collection-rsvp{background:#efe4b8;border-top:0;position:relative;padding:80px 70px}
+.design-italy .collection-rsvp:before{content:'';position:absolute;top:0;left:0;right:0;height:25px;background:url('assets/motifs/ceramic.svg') repeat-x center/25px}
+.design-italy .collection-rsvp h2{font:60px/.98 Cormorant,serif;color:#284b73}
+.design-italy .collection-rsvp .demo-section{padding:40px!important;background:#fff9e6;border:1px solid #bdba8d;box-shadow:12px 14px 0 #d8d09f}
+.design-italy .collection-rsvp input,.design-italy .collection-rsvp select{background:transparent;border:0;border-bottom:1px solid #5d6c54;padding-left:0;border-radius:0}
+.design-italy .collection-rsvp .button{background:#284b73;border-radius:0;margin-top:25px;font-size:13px}
+.design-italy .collection-ending{background:#284b73 url('assets/motifs/olive.svg') no-repeat right 35px bottom 30px;background-size:150px;color:#f7efd8}
+.design-italy .collection-ending>p:first-child{font:italic 75px/.95 Cormorant,serif}
+@media(max-width:760px){
+ .collection-page .design-canvas>section{padding-block:50px}
+ .collection-page .design-canvas p{line-height:1.8}
+ .collection-page .collection-rsvp{padding-inline:25px}
+ .date-ribbon>div{gap:7px}.date-ribbon>div>span{font-size:30px;padding-block:15px}
+ .date-ribbon>p{font-size:22px!important}
+ .film-ticket{padding:25px 14px}.film-ticket>span{font-size:8px;letter-spacing:.1em}
+ .italian-date>strong{font-size:39px}
+ .design-garden .g-cover h1{font-size:55px}.design-garden .g-cover .handwritten{font-size:29px}
+ .design-garden .g-path h2{font-size:39px}.design-garden .g-path .bespoke-plan li:nth-child(even){margin-left:15px}
+ .design-garden .g-dress h2{font-size:38px}.design-garden .collection-rsvp h2{font-size:43px}
+ .design-childhood .p-cover h1{font-size:36px}.design-childhood .p-story h2{font-size:39px}
+ .storybook-notes article{padding:30px 25px}.storybook-notes article:nth-child(2){margin-left:15px}
+ .design-childhood .collection-rsvp h2{font-size:38px}
+ .design-equation .e-cover .handwritten{font-size:35px}.design-equation .e-plan .bespoke-plan li{grid-template-columns:75px minmax(0,1fr);gap:14px}
+ .design-equation .e-plan .bespoke-plan time{font-size:31px}.design-equation .e-plan .bespoke-plan h3{font-size:24px}
+ .design-equation .collection-rsvp .demo-section{padding:22px!important}.design-equation .collection-rsvp h2{font-size:37px}
+ .design-villa .v-cover h1{font-size:120px;bottom:115px}.design-villa .v-cover h1 i{margin-block:6px}
+ .design-villa .v-oval{padding:55px 25px}.design-villa .v-oval .handwritten{font-size:38px}
+ .design-villa .v-program{grid-template-columns:1fr 1fr;gap:20px;padding-inline:25px}
+ .design-villa .v-program .bespoke-plan li{padding-left:30px}.design-villa .v-program .event-number{font-size:9px}
+ .design-villa .v-program .bespoke-plan time{font-size:27px}.design-villa .v-program .bespoke-plan h3{font-size:12px}
+ .design-villa .v-program .bespoke-plan p{font-size:10px}.design-villa .v-program>img{height:370px;min-height:0;object-position:58% center}
+ .design-villa .v-frame{border-width:14px}.design-villa .collection-rsvp h2{font-size:46px}
+ .design-tili .f-cover h1{font-size:59px}.design-tili .f-thread .bespoke-plan li{width:65%!important}
+ .design-tili .collection-rsvp h2{font-size:44px}
+ .design-color .c-cover h1{font-size:58px}.design-color h2{font-size:47px}
+ .design-color .c-plan .bespoke-plan li{padding:24px 18px}.design-color .c-plan .bespoke-plan time{font-size:33px;min-width:67px}
+ .design-color .c-plan h3{font-size:26px}.design-color .collection-rsvp{padding:50px 25px}
+ .design-color .collection-rsvp h2{font-size:42px}
+ .design-italy .i-cover h1{font-size:85px}.design-italy .i-letter{background-size:130px;background-position:right 10px top 18px}
+ .design-italy .i-letter h2{font-size:43px}.design-italy .i-letter>p:not(.handwritten){font-size:18px}
+ .design-italy .i-menu h2{font-size:62px}.design-italy .i-menu .handwritten{font-size:23px}
+ .design-italy .i-menu .bespoke-plan li{grid-template-columns:64px minmax(0,1fr);gap:15px}
+ .design-italy .i-menu .bespoke-plan time{font-size:28px}.design-italy .i-menu .bespoke-plan h3{font-size:24px}
+ .design-italy .i-menu .bespoke-plan p{font-size:12px}
+ .design-italy .collection-rsvp{padding:65px 25px}.design-italy .collection-rsvp .demo-section{padding:28px 22px!important;box-shadow:7px 8px 0 #d8d09f}
+ .design-italy .collection-rsvp h2{font-size:45px}.design-italy .collection-ending>p:first-child{font-size:64px}
+}
+@media(max-width:380px){
+ .design-garden .g-cover h1{font-size:47px}
+ .design-childhood .p-cover h1{font-size:32px}
+ .design-equation .e-cover .handwritten{font-size:32px}
+ .design-villa .v-cover h1{font-size:100px}.design-villa .v-oval .handwritten{font-size:33px}
+ .design-villa .v-program{grid-template-columns:minmax(0,1fr)}.design-villa .v-program>img{height:280px;min-height:0}
+ .design-villa .v-program .bespoke-plan li{display:grid;grid-template-columns:65px minmax(0,1fr);gap:15px;padding-left:0}
+ .design-villa .v-program .event-number{display:none}.design-villa .v-program .bespoke-plan p{font-size:12px}
+ .design-italy .i-cover h1{font-size:72px}
+ .design-italy .i-menu .bespoke-plan li{display:block}.design-italy .i-menu .bespoke-plan h3{margin-top:12px}
+ .design-italy .collection-rsvp .demo-section{padding-inline:18px!important}.design-italy .collection-rsvp h2{font-size:39px}
+ .design-color .c-plan .bespoke-plan li{display:block}.design-color .c-plan h3{margin-top:14px}
+}
+.schedule-zone{font-size:10px!important;letter-spacing:.04em;color:inherit;opacity:.8;margin-top:20px}
+.collection-page .rsvp-letter{font:18px/1.75 Cormorant,serif;max-width:450px;margin:22px 0;color:inherit}
+.collection-page .rsvp-letter strong{font-weight:500;white-space:nowrap;border-bottom:1px solid #8d947a77}
+.collection-page .collection-ending .ending-signature{font:22px/1.3 Cormorant,serif;margin:24px auto 0;opacity:.85}
+.design-childhood .collection-ending .ending-signature{font-family:InvitationLobster,cursive;font-size:22px}
+.design-equation .collection-ending .ending-signature{font-family:InvitationNeucha,cursive;font-size:26px}
+.design-tili .collection-ending .ending-signature{font-family:WeddingScript,cursive;font-size:26px}
+.design-color .collection-ending .ending-signature{font-family:WeddingHand,cursive;font-size:29px}
+.design-italy .rsvp-letter{font-size:20px}
+.design-italy .collection-ending .ending-signature{font-style:italic;font-size:28px}
+.design-color .c-cover .calendar-link{display:block;width:fit-content;margin:15px auto 0}
+.design-color .c-cover .c-date{margin-top:35px}
+@media(max-width:760px){.collection-page .rsvp-letter{font-size:18px}.collection-page .rsvp-letter strong{white-space:normal}}
+
+/* Reading details: keep supporting text readable and the album thread clear of copy. */
+.collection-page .collection-ending .sample-note{font:11px/1.7 Manrope,sans-serif;opacity:.9}
+.design-childhood{--ink:#3d6c80}
+.design-childhood .heart-address p{color:#344c56}
+.design-childhood .heart-address strong{font-weight:700}
+.design-childhood .collection-rsvp .button{background:#a74568}
+@media(max-width:760px){
+ .design-tili .f-thread .thread-line{left:22px;width:34px;top:145px;height:calc(100% - 220px);opacity:.45;pointer-events:none}
+ .design-tili .f-thread .bespoke-plan li{width:calc(100% - 65px)!important;margin-left:65px;padding-block:30px;text-align:left}
+}
+@media(min-width:761px){
+ .design-tili .f-thread .thread-line{left:calc(50% - 15px);width:30px;height:calc(100% - 260px);pointer-events:none}
+ .design-tili .f-thread .bespoke-plan li{width:47%!important}
+}
+@media(max-width:480px){
+ .design-villa .v-program{grid-template-columns:minmax(0,1fr)}
+ .design-villa .v-program>img{height:260px;min-height:0;object-position:center 42%}
+ .design-villa .v-program .bespoke-plan li{display:grid;grid-template-columns:65px minmax(0,1fr);gap:15px;padding-left:0}
+ .design-villa .v-program .event-number{display:none}
+ .design-villa .v-program .bespoke-plan h3{font-size:14px}
+ .design-villa .v-program .bespoke-plan p{font-size:12px}
+}

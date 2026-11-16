@@ -1,0 +1,32 @@
+{
+  "retrieved": "2026-11-16",
+  "fonts": [
+    {
+      "family": "Lobster",
+      "file": "lobster.ttf",
+      "source": "https://github.com/google/fonts/tree/main/ofl/lobster",
+      "download": "https://raw.githubusercontent.com/google/fonts/main/ofl/lobster/Lobster-Regular.ttf",
+      "license": "SIL Open Font License 1.1",
+      "license_file": "lobster-OFL.txt",
+      "sha256": "d6568e697fd50cedc0be04d8aae4127fe95add607e7bff954ca88604be80c205"
+    },
+    {
+      "family": "Neucha",
+      "file": "neucha.ttf",
+      "source": "https://github.com/google/fonts/tree/main/ofl/neucha",
+      "download": "https://raw.githubusercontent.com/google/fonts/main/ofl/neucha/Neucha-Regular.ttf",
+      "license": "SIL Open Font License 1.1",
+      "license_file": "neucha-OFL.txt",
+      "sha256": "7927bd6ce090fa032857dcbc3ad0e8b765c462d0a72a8779068132496b4e087d"
+    },
+    {
+      "family": "Great Vibes",
+      "file": "greatvibes.ttf",
+      "source": "https://github.com/google/fonts/tree/main/ofl/greatvibes",
+      "download": "https://raw.githubusercontent.com/google/fonts/main/ofl/greatvibes/GreatVibes-Regular.ttf",
+      "license": "SIL Open Font License 1.1",
+      "license_file": "greatvibes-OFL.txt",
+      "sha256": "8d509802186f1b51572531ecf313e8098f9a5bfdfaca93f0c9b34467f9982d15"
+    }
+  ]
+}

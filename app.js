@@ -1,14 +1,6 @@
 /* Nikita invitations. No dependencies, analytics, automatic messages or form backend. */
 'use strict';
-const STYLES = [
-  {id:'garden',name:'Вечер в саду',category:'romantic',theme:'garden',names:['Анна','Михаил'],desc:'Садовая полиграфия: рисунки тушью, крупная дата и маршрут вечера.',motto:'Среди зелени и любимых людей',swatches:[['#244b3c','Зелёный'],['#7c3e45','Винный'],['#d1bea0','Песочный']],intro:'Пусть этот день будет похож на тёплый вечер в саду: без спешки, с любимыми людьми и разговорами до темноты.',story:'Небольшие прогулки, длинные разговоры и одна общая мечта. Здесь появится настоящая история вашей пары — написанная вашими словами.'},
-  {id:'childhood',name:'Открытка из детства',category:'romantic',theme:'childhood',names:['Саша','Маша'],desc:'Пастельная открытка, детские фотографии, банты и фигурный календарь.',motto:'Когда-то мы были маленькими…',swatches:[['#e8b7bf','Пудровый'],['#c5cda7','Шалфей'],['#f3e4c8','Кремовый']],intro:'Когда-то мы представляли этот день совсем по-детски. Теперь мечта стала общей — и в ней есть место каждому из вас.',story:'Здесь можно рассказать о детстве, знакомстве и любимых воспоминаниях. Иллюстрации на обложке — условные: в личной версии их заменят согласованные фотографии.'},
-  {id:'equation',name:'Маша + Даня = любовь',category:'playful',theme:'equation',names:['Маша','Даня'],desc:'Бумажные сердечки, зелёный и немного весёлой математики.',motto:'= любовь!',swatches:[['#387454','Травяной'],['#c54d3d','Красный'],['#e9d59f','Солнечный']],intro:'Два человека, тысяча маленьких совпадений и одна большая любовь. Очень хотим сложить этот день вместе с вами!',story:'Могли бы написать формулу идеальных отношений, но вместо этого просто позовём вас на нашу свадьбу. В клиентской версии здесь будет ваша собственная история.'},
-  {id:'villa',name:'Вилла в цвету',category:'romantic',theme:'villa',names:['Алиса','Роман'],desc:'Фисташковый, розовый, арки и цветущий сад.',motto:'Любовь расцветает',swatches:[['#dbe1be','Фисташковый'],['#e4b9b0','Розовый'],['#798b62','Оливковый']],intro:'Представьте: цветущий сад, мягкий свет и длинный стол, за которым соберутся самые близкие. Мы мечтаем разделить этот день с вами.',story:'В вашей версии здесь появятся история пары и фотографии выбранной площадки. Нарисованная вилла — декоративная иллюстрация, а не фотография реального места.'},
-  {id:'tili',name:'Тили-тили тесто',category:'playful',theme:'tili',names:['Вова','Катя'],desc:'Винный фон, записки от руки и тёплая ностальгия.',motto:'Тили-тили тесто…',swatches:[['#7e363e','Винный'],['#dfc8aa','Бежевый'],['#c09a9c','Пыльная роза']],intro:'У этой истории много смешных глав, случайных встреч и записок на полях. А следующую главу очень хочется написать вместе с вами.',story:'Здесь могут быть ваши детские фото, полароиды и короткие подписи. В демо вместо личных снимков — авторская бумажная графика.'},
-  {id:'color',name:'Мы женимся!',category:'playful',theme:'color',names:['Никита','Даша'],desc:'Цветные буквы, конфетти и праздник без лишней серьёзности.',motto:'Да, это любовь!',swatches:[['#347253','Зелёный'],['#d15945','Коралловый'],['#eac14f','Жёлтый']],intro:'Берите улыбки, удобные туфли и настроение танцевать. Самое главное в этот день — быть вместе, смеяться и обниматься.',story:'Этот вариант для пар, которые выбирают живые эмоции вместо идеальных поз. Добавим ваши любимые фотографии, забавные детали и личные шутки.'},
-  {id:'italy',name:'Итальянская история',category:'editorial',theme:'italy',names:['Никита','Дарья'],desc:'Лимоны и майолика, вилла с кипарисами, плёночная фотолента. Средиземноморская история со своей композицией.',motto:'La dolce vita, insieme',swatches:[['#60684a','Оливковый'],['#c9bca0','Песочный'],['#e6dfcf','Молочный']],intro:'Тёплый свет, тихий сад и чувство, что мы оказались именно там, где должны быть. Пусть этот день станет нашей маленькой итальянской историей.',story:'Необязательно ехать в Италию, чтобы поймать её настроение. Тёплая палитра, спокойный ритм и ваша история сделают приглашение по-настоящему личным.'}
-];
+const STYLES = window.WeddingCatalog;
 const $ = (selector,root=document)=>root.querySelector(selector);
 // Preserve links already used by the original public portfolio.
 const STYLE_ALIASES = {postcard:'childhood',love:'equation',film:'tili',crayon:'color'};
@@ -18,6 +10,15 @@ function renderCards(){
   $('#brief-style').innerHTML='<option value="undecided">Пока выбираем — обсудим вместе</option>'+STYLES.map(s=>`<option value="${s.id}">${s.name}</option>`).join('');
 }
 renderCards();
+// The paper sample in the portfolio hero uses the same data as the first invitation.
+{
+ const sample=STYLES[0],name=document.querySelector('.hero-names'),date=document.querySelector('.hero-date');
+ const and=document.createElement('i');and.textContent='&';name.replaceChildren(document.createTextNode(sample.names[0]),document.createElement('br'),and,document.createTextNode(' '+sample.names[1]));
+ const parts=new Intl.DateTimeFormat('ru-RU',{day:'numeric',month:'long',year:'numeric',timeZone:'UTC'}).formatToParts(new Date(sample.date+'T12:00Z'));
+ date.firstElementChild.textContent=parts.find(x=>x.type==='day').value;date.lastElementChild.replaceChildren(document.createTextNode(parts.find(x=>x.type==='month').value),document.createElement('br'),document.createTextNode(sample.date.slice(0,4)));
+ document.querySelector('.hero-art').setAttribute('aria-label','Пример приглашения '+sample.names.join(' и ')+', '+sample.date);
+}
+
 $('#year').textContent=new Date().getFullYear();
 document.querySelectorAll('.filter').forEach(button=>button.addEventListener('click',()=>{
   document.querySelectorAll('.filter').forEach(b=>{const active=b===button;b.classList.toggle('active',active);b.setAttribute('aria-pressed',String(active));});
@@ -52,8 +53,23 @@ function wireRSVP(){
  form.addEventListener('submit',e=>{e.preventDefault();const no=form.elements.attendance.value==='no';$('#rsvp-result').textContent=`${form.elements.guest.value.trim()||'Тестовый гость'}: ${no?'не сможет присутствовать':`будет на празднике; гостей: ${form.elements.plus.checked?2:1}`}.\nПроверка завершена. Это демонстрация: ответ не отправлен и не сохранён.`;$('#test-rsvp').textContent='Изменить тестовый ответ';});conditions();
 }
 function saveFile(name,content,type='text/plain;charset=utf-8'){const blob=new Blob([content],{type});const url=URL.createObjectURL(blob);const a=document.createElement('a');a.href=url;a.download=name;document.body.append(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(url),1000);}
-function downloadCalendar(){const lines=['BEGIN:VCALENDAR','VERSION:2.0','PRODID:-//Nikita//Wedding Demo//RU','CALSCALE:GREGORIAN','BEGIN:VEVENT',`UID:nikita-demo-${activeDemo.id}-20270612`,'DTSTAMP:20261113T000000Z','DTSTART:20270612T060000Z','DTEND:20270612T130000Z',`SUMMARY:ДЕМО — ${activeDemo.names.join(' и ')}: пример свадьбы`,'DESCRIPTION:Демонстрационное событие из портфолио. Не настоящее приглашение. Время: Asia/Vladivostok UTC+10.','LOCATION:Владивосток — демонстрация без адреса','STATUS:TENTATIVE','END:VEVENT','END:VCALENDAR',''];
- const encoder=new TextEncoder();const folded=lines.map(line=>{let text='',row='';for(const ch of line){if(encoder.encode(row+ch).length>73){text+=row+'\r\n';row=' ';}row+=ch;}return text+row;}).join('\r\n');saveFile('wedding-demo.ics',folded,'text/calendar;charset=utf-8');}
+function downloadCalendar(){
+ const s=activeDemo,ceremony=s.events.find(e=>e.kind==='ceremony')||s.events[0];
+ // Resolve the IANA zone for this date, so a later winter booking also exports correctly.
+ const zoned=new Intl.DateTimeFormat('en-GB',{timeZone:s.timezone,year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',second:'2-digit',hourCycle:'h23'});
+ const utc=time=>{
+  const wall=Date.parse(`${s.date}T${time}:00Z`);let instant=wall;
+  for(let i=0;i<2;i++){
+   const p=Object.fromEntries(zoned.formatToParts(new Date(instant)).filter(p=>p.type!=='literal').map(p=>[p.type,Number(p.value)]));
+   const represented=Date.UTC(p.year,p.month-1,p.day,p.hour,p.minute,p.second);
+   instant-=represented-wall;
+  }
+  return new Date(instant).toISOString().replace(/[-:]/g,'').replace(/\.\d{3}/,'');
+ };
+ const escape=value=>String(value).replace(/\\/g,'\\\\').replace(/\n/g,'\\n').replace(/,/g,'\\,').replace(/;/g,'\\;');
+ const lines=['BEGIN:VCALENDAR','VERSION:2.0','PRODID:-//Nikita//Wedding Demo//RU','CALSCALE:GREGORIAN','BEGIN:VEVENT',`UID:nikita-demo-${s.id}-${s.date}`,`DTSTAMP:${new Date().toISOString().replace(/[-:]/g,'').replace(/\.\d{3}/,'')}`,`DTSTART:${utc(ceremony.time)}`,`DTEND:${utc(s.endTime)}`,`SUMMARY:${escape('ДЕМО — '+s.names.join(' и ')+': пример свадьбы')}`,`DESCRIPTION:${escape('Демонстрационное событие из портфолио. Не настоящее приглашение. Часовой пояс: '+s.timezone+'.')}`,`LOCATION:${escape(s.city+' — демонстрация без адреса')}`,'STATUS:TENTATIVE','END:VEVENT','END:VCALENDAR',''];
+ const encoder=new TextEncoder();const folded=lines.map(line=>{let text='',row='';for(const ch of line){if(encoder.encode(row+ch).length>73){text+=row+'\r\n';row=' ';}row+=ch;}return text+row;}).join('\r\n');saveFile('wedding-demo.ics',folded,'text/calendar;charset=utf-8');
+}
 /* Explicit opt-in local drafts. Guest demos never use storage. */
 const briefForm=$('#brief-form');const fieldNames=['names','contact','date','city','style','story','photos','schedule','dress','rsvp','notes'];const STORAGE_KEY='nikita-invites-brief-v1';let previewDirty=false;
 function values(){return Object.fromEntries(fieldNames.map(n=>[n,briefForm.elements.namedItem(n).value]));}
