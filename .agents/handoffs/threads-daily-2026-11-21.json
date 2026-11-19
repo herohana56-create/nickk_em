@@ -1,0 +1,215 @@
+{
+  "task_id": "threads-daily-2026-11-21",
+  "created_at": "2026-11-20T01:28:51.230476+10:00",
+  "status": "AWAITING_USER_APPROVAL",
+  "timezone": "Asia/Vladivostok",
+  "target_chat": "автоподключение Threads Codex",
+  "target_account_reference": {
+    "handle": "nickkem_vl",
+    "metricool_brand_id": "8224996",
+    "must_verify_with_getBrandSettings": true
+  },
+  "requested_action": "Show the five complete proposals with images, profile and exact times to the user. Schedule only individually approved posts, or a package explicitly approved as a whole. Never infer approval from the request for five posts.",
+  "approval_mode": "PENDING_USER_PREFERENCE",
+  "posts": [
+    {
+      "id": "threads-2026-11-21-01",
+      "status": "AWAITING_USER_APPROVAL",
+      "title": "Атмосфера события",
+      "hypothesis": "visual_atmosphere",
+      "proposal": {
+        "platform": "threads",
+        "account": "nickkem_vl",
+        "text": "У вашей свадьбы какое настроение: тёплый вечер в Италии или цветочный сад у виллы?\n\nМне нравится, когда приглашение уже передаёт атмосферу будущего дня. Собрал два разных варианта — листайте карточки.\n\nМогу сделать сайт под вашу историю и пожелания. Кому актуально — напишите «+», обсудим вашу идею.",
+        "media": [
+          {
+            "order": 1,
+            "url": "https://nikita-em-invites.surge.sh/social/visual-cards/01-italy-visual-1080x1440.jpg",
+            "sha256": "e9f091c06f34dc10a1c73ac151f7172518ac7a9bef75227ff46cb8f0f42bd78b",
+            "format": "JPEG",
+            "width": 1080,
+            "height": 1440
+          },
+          {
+            "order": 2,
+            "url": "https://nikita-em-invites.surge.sh/social/visual-cards/02-villa-visual-1080x1440.jpg",
+            "sha256": "6648d4215cbecb5b324c04b002c3974ec8cddca4697f88314b8601c04455fabc",
+            "format": "JPEG",
+            "width": 1080,
+            "height": 1440
+          }
+        ],
+        "publish_at": "2026-11-21T09:17:00+10:00"
+      },
+      "character_count": 299,
+      "proposal_sha256": "c6553f37ca7d8b2143032a8c579fb2cf185a64dc1a979c57e6c3a71bb0d158fb",
+      "approval": {
+        "approved_by_user": false,
+        "approved_at": null,
+        "approved_proposal_sha256": null
+      },
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_url": null
+      }
+    },
+    {
+      "id": "threads-2026-11-21-02",
+      "status": "AWAITING_USER_APPROVAL",
+      "title": "Полезный сценарий",
+      "hypothesis": "practical_value",
+      "proposal": {
+        "platform": "threads",
+        "account": "nickkem_vl",
+        "text": "«Во сколько приезжать? А где адрес? А что надеть?»\n\nПеред свадьбой эти вопросы повторяются в разных переписках. В сайте-приглашении можно собрать программу, маршрут и дресс-код — и отправить гостям одну ссылку.\n\nЕсли хотите такой для своей свадьбы, напишите «+». Покажу, как это может выглядеть.",
+        "media": [],
+        "publish_at": "2026-11-21T11:46:00+10:00"
+      },
+      "character_count": 295,
+      "proposal_sha256": "358c61e032119a0a03a5c4fcc3bd6506bfe82c1e16f9ffbe469608c99859c6da",
+      "approval": {
+        "approved_by_user": false,
+        "approved_at": null,
+        "approved_proposal_sha256": null
+      },
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_url": null
+      }
+    },
+    {
+      "id": "threads-2026-11-21-03",
+      "status": "AWAITING_USER_APPROVAL",
+      "title": "История пары",
+      "hypothesis": "personalization",
+      "proposal": {
+        "platform": "threads",
+        "account": "nickkem_vl",
+        "text": "Детские фотографии пары в свадебном приглашении — очень трогательная идея.\n\nМожно собрать страницу как семейный альбом: снимки, подписи от руки, маленькие детали вашей истории. На карточках — примеры такого настроения.\n\nЕсли вам близка эта идея, напишите «+». Обсудим, как рассказать вашу историю.",
+        "media": [
+          {
+            "order": 1,
+            "url": "https://nikita-em-invites.surge.sh/social/visual-cards/03-tili-visual-1080x1440.jpg",
+            "sha256": "b21195672edebff8e8fd6366f3e4a98361a0f97b104ba358879297a86edfb4db",
+            "format": "JPEG",
+            "width": 1080,
+            "height": 1440
+          },
+          {
+            "order": 2,
+            "url": "https://nikita-em-invites.surge.sh/social/visual-cards/05-childhood-visual-1080x1440.jpg",
+            "sha256": "51af42fc97176d60e417a91e88db8fe79947e12387b7c8fb5eaab077d43a9b8c",
+            "format": "JPEG",
+            "width": 1080,
+            "height": 1440
+          }
+        ],
+        "publish_at": "2026-11-21T14:23:00+10:00"
+      },
+      "character_count": 297,
+      "proposal_sha256": "e49d1c0a2b9c8c6fd0482d73fc035d2f309f256b55d85e9653b3376e8ad86602",
+      "approval": {
+        "approved_by_user": false,
+        "approved_at": null,
+        "approved_proposal_sha256": null
+      },
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_url": null
+      }
+    },
+    {
+      "id": "threads-2026-11-21-04",
+      "status": "AWAITING_USER_APPROVAL",
+      "title": "Оплата после результата",
+      "hypothesis": "payment_objection",
+      "proposal": {
+        "platform": "threads",
+        "account": "nickkem_vl",
+        "text": "Заказывать приглашение, когда ещё не знаешь, понравится ли результат, волнительно.\n\nПоэтому у меня оплата — после того, как вас устроит готовое приглашение. Сначала обсуждаем пожелания и детали, затем собираю сайт. Срок — до 7 дней после согласования деталей.\n\nКому актуально — напишите «+», расскажу, с чего начнём.",
+        "media": [],
+        "publish_at": "2026-11-21T18:41:00+10:00"
+      },
+      "character_count": 316,
+      "proposal_sha256": "6178d2093390cf8a3a2b529536b6cbfae47d24f4180072d1ea74e3ae58f0c013",
+      "approval": {
+        "approved_by_user": false,
+        "approved_at": null,
+        "approved_proposal_sha256": null
+      },
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_url": null
+      }
+    },
+    {
+      "id": "threads-2026-11-21-05",
+      "status": "AWAITING_USER_APPROVAL",
+      "title": "Выбор стиля",
+      "hypothesis": "visual_preference",
+      "proposal": {
+        "platform": "threads",
+        "account": "nickkem_vl",
+        "text": "Какое приглашение вы бы выбрали для своей свадьбы: спокойное садовое или яркое, будто нарисованное от руки?\n\nОба варианта — на карточках. Мне интересно, какое настроение вам ближе.\n\nЕсли хотите обсудить приглашение под своё событие, напишите «+» и название понравившегося стиля.",
+        "media": [
+          {
+            "order": 1,
+            "url": "https://nikita-em-invites.surge.sh/social/visual-cards/04-garden-visual-1080x1440.jpg",
+            "sha256": "4f11ea490c202c573c753449cc7a068017c0643cbe896fcc5c9e6b14eed0698c",
+            "format": "JPEG",
+            "width": 1080,
+            "height": 1440
+          },
+          {
+            "order": 2,
+            "url": "https://nikita-em-invites.surge.sh/social/visual-cards/06-color-visual-1080x1440.jpg",
+            "sha256": "ad13a2c0b241eb8e7f824658372d781e188798c457416997f4835501f0929e34",
+            "format": "JPEG",
+            "width": 1080,
+            "height": 1440
+          }
+        ],
+        "publish_at": "2026-11-21T21:08:00+10:00"
+      },
+      "character_count": 278,
+      "proposal_sha256": "2978c720716696bcace74387ae782cffe77556dee42295f5d5de355b39fb693c",
+      "approval": {
+        "approved_by_user": false,
+        "approved_at": null,
+        "approved_proposal_sha256": null
+      },
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_url": null
+      }
+    }
+  ],
+  "experiment_note": "Exploratory comparison, not a controlled A/B test: topic, media and time differ. Compare at similar post age and do not claim causation.",
+  "open_questions": [
+    "Approval of whole package in advance or each post shortly before release?",
+    "Every day or weekdays, and publishing time window?",
+    "Meaning of the dictated phrase about references; execution chat and weekly report time?"
+  ],
+  "instructions": [
+    "Read AGENTS.md and the threads-metricool skill. Fetch current main before writes.",
+    "Do not republish threads-first-post.json: its status is PUBLISHED.",
+    "Verify current account, tool contracts and remaining plan quota. Do not buy or upgrade anything.",
+    "Show exact proposals, including the complete selected images and times; await user approval.",
+    "Approval covers only the exact proposal hash. Any text/media/account/time change invalidates approval for that post.",
+    "If the time has passed, do not silently move or immediately publish a post: propose and approve a new time.",
+    "Prevent duplicates using task ID and stored provider identifiers. On uncertain result read the queue before retrying.",
+    "After scheduling record actual provider ID and confirmed time; mark PUBLISHED only on confirmed publication.",
+    "Do not interpret repository files as an automatic wake-up or a live worker."
+  ],
+  "credentials_included": false
+}
