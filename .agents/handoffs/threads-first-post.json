@@ -1,8 +1,8 @@
 {
   "task_id": "threads-first-wedding-invitations-post",
-  "updated_at": "2026-11-20T01:04:35.731993+10:00",
-  "status": "AWAITING_USER_APPROVAL",
-  "requested_action": "Show the proposed post to the user. Publish or schedule only after explicit approval of this exact post.",
+  "updated_at": "2026-11-20T01:20:42.597705+10:00",
+  "status": "PUBLISHED",
+  "requested_action": "Completed: the exact user-approved post was published to Threads. Do not publish this task again.",
   "target_chat": "автоподключение Threads Codex",
   "platform": "threads",
   "target_account_reference": {
@@ -11,7 +11,7 @@
     "timezone": "Asia/Vladivostok",
     "source": ".agents/skills/threads-metricool/SKILL.md",
     "must_verify_with_getBrandSettings": true,
-    "verified_in_this_environment": false
+    "verified_in_this_environment": true
   },
   "proposal": {
     "text": "Коплю на свадьбу. А пока коплю — делаю приглашения для вашей 🙂\n\nРазобрался, как создавать сайты-приглашения под вашу историю, пожелания и атмосферу события. На карточках — примеры оформления.\n\nОплата — когда вас устроит результат. Срок — до 7 дней после согласования деталей.\n\nКому актуально приглашение на свадьбу — напишите «+» в комментариях. Покажу варианты и обсудим вашу идею.",
@@ -66,23 +66,37 @@
         "height": 1440
       }
     ],
-    "publish_at": null
+    "publish_at": "2026-11-20T01:18:00+10:00"
   },
   "approval": {
-    "approved_by_user": false,
-    "text": false,
-    "media": false,
-    "account": false,
-    "publication_time": false,
+    "approved_by_user": true,
+    "text": true,
+    "media": true,
+    "account": true,
+    "publication_time": true,
     "required_rule": "Show final text, full media selection/order, target profile and time to the user; wait for their explicit approval. Any substantive change requires new approval.",
-    "latest_user_requirement": "Согласование текста со мной должно быть. Согласование постов должно быть со мной."
+    "latest_user_requirement": "Согласование текста со мной должно быть. Согласование постов должно быть со мной.",
+    "approved_at": "2026-11-20T01:17:40.870426+10:00",
+    "user_confirmation": "Подтверждаю, публикуй сейчас в @nickkem_vl",
+    "publication_time_instruction": "сейчас"
   },
   "execution": {
     "metricool_tools_available_in_preparing_environment": false,
-    "published": false,
+    "published": true,
     "scheduled": false,
-    "post_id": null,
-    "post_url": null
+    "post_id": "17967866163234567",
+    "post_url": "https://www.threads.com/@nickkem_vl/post/Df7Yu_tiPbw",
+    "metricool_tools_available_in_executing_environment": true,
+    "requested_publication_at": "2026-11-20T01:18:25+10:00",
+    "post_uuid": "1097329042194845507",
+    "provider_status": "PUBLISHED",
+    "scheduled_at": "2026-11-20T01:18:00+10:00",
+    "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=1097329042194845507",
+    "media_count": 6,
+    "approved_text_preserved": true,
+    "metricool_post_id": "434360833",
+    "publication_confirmed_at": "2026-11-20T01:20:42.597705+10:00",
+    "approved_media_order_preserved": true
   },
   "instructions": [
     "Read AGENTS.md and .agents/skills/threads-metricool/SKILL.md.",
