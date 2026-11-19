@@ -1,15 +1,15 @@
 {
   "package_id": "threads-test-2026-11-20-v1",
   "version": 1,
-  "updated_at": "2026-11-20T08:14:04.746278+10:00",
-  "status": "AWAITING_SCHEDULE_APPROVAL",
+  "updated_at": "2026-11-20T08:38:52.591299+10:00",
+  "status": "SCHEDULED",
   "account": "nickkem_vl",
   "brand_id": "8224996",
   "timezone": "Asia/Vladivostok",
   "posts": [
     {
       "id": "Y01",
-      "status": "AWAITING_SCHEDULE_APPROVAL",
+      "status": "SCHEDULED",
       "proposal": {
         "account": "nickkem_vl",
         "text": "Невесты 2027, на какой статье свадебного бюджета вы впервые подумали: «Может, просто расписаться?» 🥲",
@@ -18,15 +18,21 @@
       },
       "proposal_sha256": "f4e7f5302dbd1a80eb103a01676f7714128e945f5a38b0365ccbe3e8c9c56bf3",
       "execution": {
-        "scheduled": false,
+        "scheduled": true,
         "published": false,
-        "metricool_post_id": null,
-        "post_url": null
-      }
+        "metricool_post_id": "434859690",
+        "post_url": null,
+        "post_uuid": "1129824345493229064",
+        "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=1129824345493229064",
+        "provider_status": "PENDING",
+        "scheduled_at": "2026-11-20T09:17:00+10:00",
+        "verified_in_queue": true
+      },
+      "approved_proposal_sha256": "f4e7f5302dbd1a80eb103a01676f7714128e945f5a38b0365ccbe3e8c9c56bf3"
     },
     {
       "id": "Y03",
-      "status": "AWAITING_SCHEDULE_APPROVAL",
+      "status": "SCHEDULED",
       "proposal": {
         "account": "nickkem_vl",
         "text": "Есть тут те, кто смотрел «Четыре свадьбы» и думал: «Ну за эти деньги я бы гораздо лучше всё организовал»?\n\nА потом начал узнавать цены на свою свадьбу.\n\nБеру свои слова обратно 🥲",
@@ -35,15 +41,21 @@
       },
       "proposal_sha256": "7b157b4694926f723cfb17690a28b5e596d98c3ec17930bb1d9467c2bdc51e12",
       "execution": {
-        "scheduled": false,
+        "scheduled": true,
         "published": false,
-        "metricool_post_id": null,
-        "post_url": null
-      }
+        "metricool_post_id": "434859750",
+        "post_url": null,
+        "post_uuid": "-6989302134706255363",
+        "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-6989302134706255363",
+        "provider_status": "PENDING",
+        "scheduled_at": "2026-11-20T14:23:00+10:00",
+        "verified_in_queue": true
+      },
+      "approved_proposal_sha256": "7b157b4694926f723cfb17690a28b5e596d98c3ec17930bb1d9467c2bdc51e12"
     },
     {
       "id": "Y05",
-      "status": "AWAITING_SCHEDULE_APPROVAL",
+      "status": "SCHEDULED",
       "proposal": {
         "account": "nickkem_vl",
         "text": "Невесты 2027, вы уже выбираете приглашения или пока на стадии «сначала бы понять, кого мы вообще зовём»?",
@@ -52,11 +64,17 @@
       },
       "proposal_sha256": "17da2e95364537764b88ee149aaad5416f10f036fe96c917fb0ae8d5c02fdb09",
       "execution": {
-        "scheduled": false,
+        "scheduled": true,
         "published": false,
-        "metricool_post_id": null,
-        "post_url": null
-      }
+        "metricool_post_id": "434859810",
+        "post_url": null,
+        "post_uuid": "-675175005160586315",
+        "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-675175005160586315",
+        "provider_status": "PENDING",
+        "scheduled_at": "2026-11-20T19:41:00+10:00",
+        "verified_in_queue": true
+      },
+      "approved_proposal_sha256": "17da2e95364537764b88ee149aaad5416f10f036fe96c917fb0ae8d5c02fdb09"
     }
   ],
   "user_feedback": {
@@ -65,16 +83,25 @@
     "Y03": "норм",
     "Y04": "не подойдет, слишком непонятно",
     "Y05": "норм",
-    "Y06": "адаптировать под более живую речь"
+    "Y06": "Стало получше; убрать точки в конце абзацев, заменить «» на прямые кавычки"
   },
   "approval": {
     "content_selection_approved": true,
     "user_request": "Давай запланируем посты которые норм на сегодня, посмотрим как зайдет. В разное время",
-    "exact_schedule_approved": false,
-    "no_images_approved": false
+    "exact_schedule_approved": true,
+    "no_images_approved": true,
+    "approved_by_user": true,
+    "approved_at": "2026-11-20T08:32:36.360021+10:00",
+    "user_confirmation": "Подтверждаю 👍",
+    "approved_post_ids": [
+      "Y01",
+      "Y03",
+      "Y05"
+    ]
   },
   "revision_Y06": {
     "status": "DRAFT_NOT_IN_SCHEDULE",
-    "text": "Хочется, чтобы друзья открыли ваше свадебное приглашение и сказали: «Блин, ну это прям вы».\n\nС вашими фотками, шутками, историей знакомства. Можно даже с детскими снимками, которые мама всё время пытается кому-нибудь показать 🙂\n\nЯ делаю такие сайты-приглашения. Кто женится в 2027 — напишите «+», покажу варианты."
+    "text": "Хочется, чтобы друзья открыли ваше свадебное приглашение и сказали: \"Блин, ну это прям вы\"\n\nС вашими фотками, шутками, историей знакомства. Можно даже с детскими снимками, которые мама всё время пытается кому-нибудь показать 🙂\n\nЯ делаю такие сайты-приглашения. Кто женится в 2027 — напишите \"+\", покажу варианты",
+    "style_revision_requested_by_user": true
   }
 }
