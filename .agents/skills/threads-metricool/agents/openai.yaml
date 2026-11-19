@@ -1,0 +1,4 @@
+interface:
+  display_name: "Threads через Metricool"
+  short_description: "Посты, аналитика и расписание Threads через Metricool"
+  default_prompt: "Используй $threads-metricool: проверь подключение Threads проекта через Metricool и выполни задачу по контенту, аналитике или расписанию."
