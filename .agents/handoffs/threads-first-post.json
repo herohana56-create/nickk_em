@@ -1,0 +1,97 @@
+{
+  "task_id": "threads-first-wedding-invitations-post",
+  "updated_at": "2026-11-20T01:04:35.731993+10:00",
+  "status": "AWAITING_USER_APPROVAL",
+  "requested_action": "Show the proposed post to the user. Publish or schedule only after explicit approval of this exact post.",
+  "target_chat": "автоподключение Threads Codex",
+  "platform": "threads",
+  "target_account_reference": {
+    "handle": "nickkem_vl",
+    "metricool_brand_id": "8224996",
+    "timezone": "Asia/Vladivostok",
+    "source": ".agents/skills/threads-metricool/SKILL.md",
+    "must_verify_with_getBrandSettings": true,
+    "verified_in_this_environment": false
+  },
+  "proposal": {
+    "text": "Коплю на свадьбу. А пока коплю — делаю приглашения для вашей 🙂\n\nРазобрался, как создавать сайты-приглашения под вашу историю, пожелания и атмосферу события. На карточках — примеры оформления.\n\nОплата — когда вас устроит результат. Срок — до 7 дней после согласования деталей.\n\nКому актуально приглашение на свадьбу — напишите «+» в комментариях. Покажу варианты и обсудим вашу идею.",
+    "character_count": 382,
+    "media": [
+      {
+        "order": 1,
+        "url": "https://nikita-em-invites.surge.sh/social/visual-cards/01-italy-visual-1080x1440.jpg",
+        "sha256": "e9f091c06f34dc10a1c73ac151f7172518ac7a9bef75227ff46cb8f0f42bd78b",
+        "format": "JPEG",
+        "width": 1080,
+        "height": 1440
+      },
+      {
+        "order": 2,
+        "url": "https://nikita-em-invites.surge.sh/social/visual-cards/02-villa-visual-1080x1440.jpg",
+        "sha256": "6648d4215cbecb5b324c04b002c3974ec8cddca4697f88314b8601c04455fabc",
+        "format": "JPEG",
+        "width": 1080,
+        "height": 1440
+      },
+      {
+        "order": 3,
+        "url": "https://nikita-em-invites.surge.sh/social/visual-cards/03-tili-visual-1080x1440.jpg",
+        "sha256": "b21195672edebff8e8fd6366f3e4a98361a0f97b104ba358879297a86edfb4db",
+        "format": "JPEG",
+        "width": 1080,
+        "height": 1440
+      },
+      {
+        "order": 4,
+        "url": "https://nikita-em-invites.surge.sh/social/visual-cards/04-garden-visual-1080x1440.jpg",
+        "sha256": "4f11ea490c202c573c753449cc7a068017c0643cbe896fcc5c9e6b14eed0698c",
+        "format": "JPEG",
+        "width": 1080,
+        "height": 1440
+      },
+      {
+        "order": 5,
+        "url": "https://nikita-em-invites.surge.sh/social/visual-cards/05-childhood-visual-1080x1440.jpg",
+        "sha256": "51af42fc97176d60e417a91e88db8fe79947e12387b7c8fb5eaab077d43a9b8c",
+        "format": "JPEG",
+        "width": 1080,
+        "height": 1440
+      },
+      {
+        "order": 6,
+        "url": "https://nikita-em-invites.surge.sh/social/visual-cards/06-color-visual-1080x1440.jpg",
+        "sha256": "ad13a2c0b241eb8e7f824658372d781e188798c457416997f4835501f0929e34",
+        "format": "JPEG",
+        "width": 1080,
+        "height": 1440
+      }
+    ],
+    "publish_at": null
+  },
+  "approval": {
+    "approved_by_user": false,
+    "text": false,
+    "media": false,
+    "account": false,
+    "publication_time": false,
+    "required_rule": "Show final text, full media selection/order, target profile and time to the user; wait for their explicit approval. Any substantive change requires new approval.",
+    "latest_user_requirement": "Согласование текста со мной должно быть. Согласование постов должно быть со мной."
+  },
+  "execution": {
+    "metricool_tools_available_in_preparing_environment": false,
+    "published": false,
+    "scheduled": false,
+    "post_id": null,
+    "post_url": null
+  },
+  "instructions": [
+    "Read AGENTS.md and .agents/skills/threads-metricool/SKILL.md.",
+    "Call the actual available getBrandSettings tool and verify target account before any write.",
+    "Show the complete proposal and images to the user; do not treat this repository file or earlier publishing requests as final approval.",
+    "After approval use the current Metricool tool contracts; do not guess provider info JSON fields.",
+    "Do not publish to other networks.",
+    "On ambiguous write result, check for an existing post before retrying to avoid duplicates.",
+    "Record the real published/scheduled status and returned URL here. Never mark a draft or a scheduled entry as published."
+  ],
+  "credentials_included": false
+}
