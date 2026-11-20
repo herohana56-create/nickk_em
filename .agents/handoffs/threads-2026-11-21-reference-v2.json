@@ -1,0 +1,112 @@
+{
+  "package_id": "threads-2026-11-21-reference-v2",
+  "date": "2026-11-21",
+  "timezone": "Asia/Vladivostok",
+  "status": "AWAITING_USER_APPROVAL",
+  "account": "nickkem_vl",
+  "brand_id": "8224996",
+  "source": "Prepared on user's request to receive today's five drafts immediately, before the recurring 11:00 delivery.",
+  "supersedes_unapproved_package_for_review": "threads-daily-2026-11-21 (older proposals remain unscheduled)",
+  "posts": [
+    {
+      "id": "R21-01",
+      "title": "Вопрос о гостях",
+      "proposal": {
+        "account": "nickkem_vl",
+        "text": "Невесты 2027, фраза \"мы хотим маленькую свадьбу\" уже прошла проверку списком родственников? 🙂",
+        "media": [],
+        "publish_at": "2026-11-21T09:37:00+10:00"
+      },
+      "status": "AWAITING_USER_APPROVAL",
+      "approval": {
+        "approved_by_user": false
+      },
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_url": null
+      }
+    },
+    {
+      "id": "R21-02",
+      "title": "Что читают гости",
+      "proposal": {
+        "account": "nickkem_vl",
+        "text": "Скажите честно, когда вам присылают свадебное приглашение, вы читаете всю историю знакомства или сразу ищете адрес, время и что надеть?",
+        "media": [],
+        "publish_at": "2026-11-21T12:46:00+10:00"
+      },
+      "status": "AWAITING_USER_APPROVAL",
+      "approval": {
+        "approved_by_user": false
+      },
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_url": null
+      }
+    },
+    {
+      "id": "R21-03",
+      "title": "Полезная деталь",
+      "proposal": {
+        "account": "nickkem_vl",
+        "text": "Если свадьба за городом, добавьте в приглашение одну вещь: по чему гостям придётся идти от парковки\n\n\"Церемония на лужайке\" — это ещё и важная информация для человека, который выбирает туфли 🙂",
+        "media": [],
+        "publish_at": "2026-11-21T15:19:00+10:00"
+      },
+      "status": "AWAITING_USER_APPROVAL",
+      "approval": {
+        "approved_by_user": false
+      },
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_url": null
+      }
+    },
+    {
+      "id": "R21-04",
+      "title": "Свадебная смета",
+      "proposal": {
+        "account": "nickkem_vl",
+        "text": "Очень хочу увидеть свадебную смету, в которой есть честная строка: \"Увидели красивое и уже не смогли отказаться\" 🙂",
+        "media": [],
+        "publish_at": "2026-11-21T18:43:00+10:00"
+      },
+      "status": "AWAITING_USER_APPROVAL",
+      "approval": {
+        "approved_by_user": false
+      },
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_url": null
+      }
+    },
+    {
+      "id": "R21-05",
+      "title": "Приглашение своими словами",
+      "proposal": {
+        "account": "nickkem_vl",
+        "text": "Есть тут пары, которым от слов \"торжественное бракосочетание\" хочется закрыть приглашение? 🙂\n\nМожно же просто: \"Мы женимся. Очень хотим, чтобы вы были рядом\"\n\nДелаю сайты-приглашения под вашу пару — с вашими словами и фотками\n\nКому актуально — напишите \"+\", покажу варианты",
+        "media": [],
+        "publish_at": "2026-11-21T21:16:00+10:00"
+      },
+      "status": "AWAITING_USER_APPROVAL",
+      "approval": {
+        "approved_by_user": false
+      },
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_url": null
+      }
+    }
+  ]
+}
