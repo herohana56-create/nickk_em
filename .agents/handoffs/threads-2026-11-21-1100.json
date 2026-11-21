@@ -1,0 +1,114 @@
+{
+  "package_id": "threads-2026-11-21-1100",
+  "source_automation": "Automation_305d0efc315881918c39b24b022289b7",
+  "status": "AWAITING_USER_APPROVAL",
+  "timezone": "Asia/Vladivostok",
+  "date": "2026-11-21",
+  "account": "nickkem_vl",
+  "brand_id": "8224996",
+  "queue_checked": true,
+  "queue_result": "No records for 2026-11-21 returned at preparation time",
+  "latest_feedback": {
+    "package": "threads-2026-11-21-reference-v2",
+    "decision": "CHANGES_REQUESTED",
+    "quote": "Что-то все мимо давай другие",
+    "note": "Five additional replacements were subsequently shown in chat; no approval was given. This package uses five different texts."
+  },
+  "posts": [
+    {
+      "id": "A21-01",
+      "genre": "question",
+      "status": "AWAITING_USER_APPROVAL",
+      "proposal": {
+        "account": "nickkem_vl",
+        "text": "Невесты 2027, какую свадебную традицию вы бы спокойно отменили, если бы никто из родственников не обиделся?",
+        "media": [],
+        "publish_at": "2026-11-21T12:17:00+10:00"
+      },
+      "approval": {
+        "approved_by_user": false
+      },
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null
+      }
+    },
+    {
+      "id": "A21-02",
+      "genre": "observation",
+      "status": "AWAITING_USER_APPROVAL",
+      "proposal": {
+        "account": "nickkem_vl",
+        "text": "Самое тревожное слово в свадебном прайсе — \"от\"\n\nПотому что ты уже успел обрадоваться цифре 🥲",
+        "media": [],
+        "publish_at": "2026-11-21T14:36:00+10:00"
+      },
+      "approval": {
+        "approved_by_user": false
+      },
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null
+      }
+    },
+    {
+      "id": "A21-03",
+      "genre": "practical_tip",
+      "status": "AWAITING_USER_APPROVAL",
+      "proposal": {
+        "account": "nickkem_vl",
+        "text": "В приглашении лучше написать \"дайте ответ до 15 мая\", чем \"ждём вашего ответа\"\n\nУ \"ждём\" нет дедлайна. А у ресторана есть 🙂",
+        "media": [],
+        "publish_at": "2026-11-21T16:48:00+10:00"
+      },
+      "approval": {
+        "approved_by_user": false
+      },
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null
+      }
+    },
+    {
+      "id": "A21-04",
+      "genre": "opinion",
+      "status": "AWAITING_USER_APPROVAL",
+      "proposal": {
+        "account": "nickkem_vl",
+        "text": "По-моему, \"свадьба без детей\" нормально написать прямо в приглашении\n\nЧтобы родители могли заранее решить, с кем их оставить, а не гадать, что молодожёны имели в виду\n\nИли для вас такое приглашение — повод обидеться?",
+        "media": [],
+        "publish_at": "2026-11-21T19:13:00+10:00"
+      },
+      "approval": {
+        "approved_by_user": false
+      },
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null
+      }
+    },
+    {
+      "id": "A21-05",
+      "genre": "offer",
+      "status": "AWAITING_USER_APPROVAL",
+      "proposal": {
+        "account": "nickkem_vl",
+        "text": "Есть тут пары, у которых свадьба в 2027, а приглашение пока выглядит как \"скину всем сообщение, потом разберёмся\"? 🙂\n\nЯ делаю сайты-приглашения: одна ссылка с датой, адресом, программой и вашими фотками\n\nКому актуально — напишите \"+\", покажу варианты",
+        "media": [],
+        "publish_at": "2026-11-21T21:07:00+10:00"
+      },
+      "approval": {
+        "approved_by_user": false
+      },
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null
+      }
+    }
+  ]
+}
