@@ -1,0 +1,110 @@
+{
+  "package_id": "threads-2026-11-22-1100",
+  "source_automation": "Automation_305d0efc315881918c39b24b022289b7",
+  "status": "AWAITING_USER_APPROVAL",
+  "date": "2026-11-22",
+  "timezone": "Asia/Vladivostok",
+  "account": "nickkem_vl",
+  "brand_id": "8224996",
+  "account_verified": true,
+  "queue_checked": true,
+  "queue_result": "No records for 2026-11-22 returned at preparation time",
+  "posts": [
+    {
+      "id": "A22-01",
+      "genre": "question",
+      "status": "AWAITING_USER_APPROVAL",
+      "proposal": {
+        "account": "nickkem_vl",
+        "text": "Невесты 2027, свадебное платье за большие деньги — это \"один раз живём\" или \"я надену его на один день\"?",
+        "media": [],
+        "publish_at": "2026-11-22T12:17:00+10:00"
+      },
+      "approval": {
+        "approved_by_user": false
+      },
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null
+      }
+    },
+    {
+      "id": "A22-02",
+      "genre": "observation",
+      "status": "AWAITING_USER_APPROVAL",
+      "proposal": {
+        "account": "nickkem_vl",
+        "text": "Сначала выбираешь дату свадьбы\n\nПотом оказывается, что у ресторана, фотографа и ведущего на эту дату свои планы 🥲",
+        "media": [],
+        "publish_at": "2026-11-22T14:36:00+10:00"
+      },
+      "approval": {
+        "approved_by_user": false
+      },
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null
+      }
+    },
+    {
+      "id": "A22-03",
+      "genre": "practical_tip",
+      "status": "AWAITING_USER_APPROVAL",
+      "proposal": {
+        "account": "nickkem_vl",
+        "text": "Добавьте в приглашение номер человека, которому гости могут звонить в день свадьбы\n\nЛучше заранее решить, кто объяснит дяде Саше, где парковка, пока вы говорите \"да\" 🙂",
+        "media": [],
+        "publish_at": "2026-11-22T16:48:00+10:00"
+      },
+      "approval": {
+        "approved_by_user": false
+      },
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null
+      }
+    },
+    {
+      "id": "A22-04",
+      "genre": "opinion",
+      "status": "AWAITING_USER_APPROVAL",
+      "proposal": {
+        "account": "nickkem_vl",
+        "text": "Мне кажется, написать \"лучший подарок — в конверте\" честнее, чем потом прятать третий тостер\n\nИли вам такая фраза в приглашении всё-таки режет глаз?",
+        "media": [],
+        "publish_at": "2026-11-22T19:13:00+10:00"
+      },
+      "approval": {
+        "approved_by_user": false
+      },
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null
+      }
+    },
+    {
+      "id": "A22-05",
+      "genre": "offer",
+      "status": "AWAITING_USER_APPROVAL",
+      "proposal": {
+        "account": "nickkem_vl",
+        "text": "У кого история знакомства такая, что в свадебном приглашении её придётся слегка отредактировать? 🙂\n\nЯ делаю сайты-приглашения и очень хочу собрать один с такой историей\n\nКому актуально — напишите \"+\", обсудим, какую версию расскажем гостям",
+        "media": [],
+        "publish_at": "2026-11-22T21:07:00+10:00"
+      },
+      "approval": {
+        "approved_by_user": false
+      },
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null
+      }
+    }
+  ],
+  "note": "No feedback on the previous automated package was received. Do not treat silence or creation of this file as approval. Fictional examples in copy are generic scenarios, not claims about Nikita's clients."
+}
