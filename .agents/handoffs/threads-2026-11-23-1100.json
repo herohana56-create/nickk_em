@@ -1,0 +1,115 @@
+{
+  "package_id": "threads-2026-11-23-1100",
+  "source_automation": "Automation_305d0efc315881918c39b24b022289b7",
+  "status": "AWAITING_USER_APPROVAL",
+  "date": "2026-11-23",
+  "timezone": "Asia/Vladivostok",
+  "account": "nickkem_vl",
+  "brand_id": "8224996",
+  "account_verified": true,
+  "queue_checked": true,
+  "queue_result": "No records for 2026-11-23 returned at preparation time",
+  "posts": [
+    {
+      "id": "A23-01",
+      "genre": "question",
+      "status": "AWAITING_USER_APPROVAL",
+      "proposal": {
+        "account": "nickkem_vl",
+        "text": "Невесты 2027, какой совет по подготовке к свадьбе вас уже бесит сильнее всего?\n\nМой кандидат — \"просто не переживай\" 🙂",
+        "media": [],
+        "publish_at": "2026-11-23T12:23:00+10:00"
+      },
+      "approval": {
+        "approved_by_user": false
+      },
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_url": null
+      }
+    },
+    {
+      "id": "A23-02",
+      "genre": "observation",
+      "status": "AWAITING_USER_APPROVAL",
+      "proposal": {
+        "account": "nickkem_vl",
+        "text": "Я бы посмотрел отдельный выпуск \"Четырёх свадеб\", где все четыре невесты просто показывают итоговую смету\n\nБез конкурса. С паузами, чтобы зрители приходили в себя 🥲",
+        "media": [],
+        "publish_at": "2026-11-23T14:41:00+10:00"
+      },
+      "approval": {
+        "approved_by_user": false
+      },
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_url": null
+      }
+    },
+    {
+      "id": "A23-03",
+      "genre": "practical_tip",
+      "status": "AWAITING_USER_APPROVAL",
+      "proposal": {
+        "account": "nickkem_vl",
+        "text": "В приглашении пишите отдельно время сбора и время церемонии\n\n\"Начинаем в 16:00\" для одного гостя означает \"приеду к 15:45\", для другого — \"в 16:00 начну искать парковку\" 🙂",
+        "media": [],
+        "publish_at": "2026-11-23T16:57:00+10:00"
+      },
+      "approval": {
+        "approved_by_user": false
+      },
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_url": null
+      }
+    },
+    {
+      "id": "A23-04",
+      "genre": "opinion",
+      "status": "AWAITING_USER_APPROVAL",
+      "proposal": {
+        "account": "nickkem_vl",
+        "text": "Считаю, что на свадьбу можно прийти с подарком скромнее стоимости своего места в ресторане\n\nС гостя вообще нормально ждать, что он \"окупит банкет\"?",
+        "media": [],
+        "publish_at": "2026-11-23T19:16:00+10:00"
+      },
+      "approval": {
+        "approved_by_user": false
+      },
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_url": null
+      }
+    },
+    {
+      "id": "A23-05",
+      "genre": "offer",
+      "status": "AWAITING_USER_APPROVAL",
+      "proposal": {
+        "account": "nickkem_vl",
+        "text": "Собрать детские фотки жениха и невесты в свадебном приглашении — это ещё и повод позвонить мамам со словами \"скинь всё самое смешное\" 🙂\n\nДелаю сайты-приглашения с такими историями. Кому актуально — напишите \"+\", покажу варианты",
+        "media": [],
+        "publish_at": "2026-11-23T21:09:00+10:00"
+      },
+      "approval": {
+        "approved_by_user": false
+      },
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_url": null
+      }
+    }
+  ],
+  "note": "Previous automated packages remain unapproved; no new user feedback was received. These are original drafts, not accounts of client events. No Metricool writes were performed."
+}
