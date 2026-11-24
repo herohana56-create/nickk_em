@@ -1,0 +1,80 @@
+{
+  "bank_id": "threads-ideas-bank-2026-11-24",
+  "addition_id": "threads-ideas-additions-2026-11-24",
+  "status": "AWAITING_IDEA_SELECTION",
+  "account": "nickkem_vl",
+  "original_selected_count": 28,
+  "proposed_additional_count": 7,
+  "potential_weekly_count": 35,
+  "ideas": [
+    {
+      "id": 51,
+      "title": "Дождь в день свадьбы",
+      "hook": "Невесты 2027, вы уже придумали план на случай дождя или пока договариваетесь с погодой? 🙂",
+      "angle": "Обсудить запасной вариант для церемонии на улице и информацию, которую стоит заранее дать гостям",
+      "selection": "PROPOSED_NOT_APPROVED",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 52,
+      "title": "Гости выкладывают фотографии раньше пары",
+      "hook": "Нормально попросить гостей не выкладывать свадебные фото, пока вы сами ничего не опубликовали?",
+      "angle": "Личные границы пары и понятная просьба в приглашении",
+      "selection": "PROPOSED_NOT_APPROVED",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 53,
+      "title": "Фамилия после свадьбы",
+      "hook": "Невесты 2027, фамилию меняете или уже привыкли к своей и не хотите заново со всеми знакомиться?",
+      "angle": "Лёгкое обсуждение личного выбора, без оценки правильности решения и юридических советов",
+      "selection": "PROPOSED_NOT_APPROVED",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 54,
+      "title": "Питомец на свадьбе",
+      "hook": "Взять собаку на свадьбу — милая идея или потом весь день выяснять, кто сейчас с собакой? 🙂",
+      "angle": "Забавная, но конкретная организационная задача; предложить аудитории поделиться опытом",
+      "selection": "PROPOSED_NOT_APPROVED",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 55,
+      "title": "Свадебный плейлист",
+      "hook": "Какую песню вы бы запретили включать на своей свадьбе, даже если её попросит самый любимый родственник?",
+      "angle": "Собрать конкретные ответы; обсудить пожелания пары по музыке вне темы постановки первого танца",
+      "selection": "PROPOSED_NOT_APPROVED",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 56,
+      "title": "Еда и ограничения гостей",
+      "hook": "В какой момент подготовки к свадьбе выясняется, что один не ест мясо, второй рыбу, а третьему нельзя орехи?",
+      "angle": "Полезная ветка о добровольном уточнении пищевых ограничений при подтверждении участия, без медицинских рекомендаций",
+      "selection": "PROPOSED_NOT_APPROVED",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 57,
+      "title": "Фотографии с телефонов гостей после свадьбы",
+      "hook": "После свадьбы начинается ещё один квест: найти человека, который снимал тот самый момент, когда все смеялись",
+      "angle": "Обсудить простой способ заранее договориться, куда гости потом отправят фото и видео; не обещать неподтверждённые функции сайта",
+      "selection": "PROPOSED_NOT_APPROVED",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    }
+  ],
+  "instructions": [
+    "Keep numbers 51–57 for moderation.",
+    "These are proposed additional topics, not approved posts or a publishing schedule.",
+    "Do not replace the 28 selected original ideas or reintroduce the 22 excluded original ideas.",
+    "Prepare a weekly plan after topic selection; obtain explicit approval of final texts, media, profile and publication times before any Metricool write."
+  ]
+}
