@@ -1,7 +1,7 @@
 {
   "package_id": "threads-review-2026-11-28-12-01-v1",
-  "version": 2,
-  "status": "16_TEXTS_APPROVED_4_REVISIONS_PENDING_TIMING_DEFERRED",
+  "version": 3,
+  "status": "19_TEXTS_APPROVED_29_REVISION_PENDING_TIMING_DEFERRED",
   "account": "nickkem_vl",
   "brand_id": "8224996",
   "timezone": "Asia/Vladivostok",
@@ -17,7 +17,7 @@
           "idea_id": 8,
           "title": "Красивая дата против удобной даты",
           "version": 2,
-          "status": "REVISED_TEXT_AWAITING_USER_APPROVAL",
+          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Невесты 2027, что выбирали первым: красивую дату и под неё всё остальное или площадку, а потом уже смотрели свободные дни?",
@@ -26,8 +26,11 @@
           },
           "approval": {
             "approved_by_user": false,
-            "text_approved": false,
-            "publication_time_approved": false
+            "text_approved": true,
+            "publication_time_approved": false,
+            "approved_text": "Невесты 2027, что выбирали первым: красивую дату и под неё всё остальное или площадку, а потом уже смотрели свободные дни?",
+            "approved_text_version": 2,
+            "evidence": "После проверки четырёх изменений пользователь попросил переделать только 29; по установленной схеме остальные отмечаются как одобренные"
           },
           "execution": {
             "scheduled": false,
@@ -129,7 +132,7 @@
           "idea_id": 48,
           "title": "Что можно поменять после первого варианта?",
           "version": 2,
-          "status": "REVISED_TEXT_AWAITING_USER_APPROVAL",
+          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Если в первом варианте приглашения что-то не нравится — говорите\n\n\"Слишком официально\", \"эту фотку не хочу\", \"а можно вообще другие цвета?\" — всё это можно обсудить\n\nДелаю сайты-приглашения под вашу пару. Кому актуально — напишите \"+\"",
@@ -138,8 +141,11 @@
           },
           "approval": {
             "approved_by_user": false,
-            "text_approved": false,
-            "publication_time_approved": false
+            "text_approved": true,
+            "publication_time_approved": false,
+            "approved_text": "Если в первом варианте приглашения что-то не нравится — говорите\n\n\"Слишком официально\", \"эту фотку не хочу\", \"а можно вообще другие цвета?\" — всё это можно обсудить\n\nДелаю сайты-приглашения под вашу пару. Кому актуально — напишите \"+\"",
+            "approved_text_version": 2,
+            "evidence": "После проверки четырёх изменений пользователь попросил переделать только 29; по установленной схеме остальные отмечаются как одобренные"
           },
           "execution": {
             "scheduled": false,
@@ -361,7 +367,7 @@
           "idea_id": 38,
           "title": "Сколько информации в приглашении уже слишком много?",
           "version": 2,
-          "status": "REVISED_TEXT_AWAITING_USER_APPROVAL",
+          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "В приглашении может быть сколько угодно красивых фоток\n\nНо если гостю проще написать \"а куда ехать?\", чем найти адрес, кажется, мы немного перестарались 🙂",
@@ -370,8 +376,11 @@
           },
           "approval": {
             "approved_by_user": false,
-            "text_approved": false,
-            "publication_time_approved": false
+            "text_approved": true,
+            "publication_time_approved": false,
+            "approved_text": "В приглашении может быть сколько угодно красивых фоток\n\nНо если гостю проще написать \"а куда ехать?\", чем найти адрес, кажется, мы немного перестарались 🙂",
+            "approved_text_version": 2,
+            "evidence": "После проверки четырёх изменений пользователь попросил переделать только 29; по установленной схеме остальные отмечаются как одобренные"
           },
           "execution": {
             "scheduled": false,
@@ -391,11 +400,11 @@
           "display_number": 29,
           "idea_id": 52,
           "title": "Гости выкладывают фотографии раньше пары",
-          "version": 2,
+          "version": 3,
           "status": "REVISED_TEXT_AWAITING_USER_APPROVAL",
           "proposal": {
             "account": "nickkem_vl",
-            "text": "Невесты 2027, вам будет обидно, если все увидят ваше свадебное платье в сторис гостей раньше, чем вы сами выложите фото?",
+            "text": "Молодожёны просят пока не выкладывать фото со свадьбы\n\nДля вас это нормальная просьба или уже лишний контроль над чужими сторис?",
             "media": [],
             "publish_at": null
           },
@@ -414,6 +423,11 @@
             {
               "version": 1,
               "text": "Вас попросили не выкладывать фото со свадьбы до публикации молодожёнов\n\nСпокойно подождёте или считаете, что за свои сторис каждый решает сам?",
+              "decision": "CHANGES_REQUESTED"
+            },
+            {
+              "version": 2,
+              "text": "Невесты 2027, вам будет обидно, если все увидят ваше свадебное платье в сторис гостей раньше, чем вы сами выложите фото?",
               "decision": "CHANGES_REQUESTED"
             }
           ]
@@ -596,7 +610,8 @@
     "No exact text duplicate or repeated idea_id exists across the combined current 35-text week.",
     "Do not schedule or publish until explicit approval of the final text, attachments, target account and future date/time.",
     "Ideas 51, 55, 57 appear once only, here on December 1. The earlier duplicate replacement proposals were withdrawn.",
-    "Latest feedback approves the other sixteen texts in this package and requests edits only to display numbers 16, 20, 28, 29. Their version-2 replacements keep the same four topics and await approval. Dates and publishing times remain unapproved."
+    "Latest feedback approves the other sixteen texts in this package and requests edits only to display numbers 16, 20, 28, 29. Their version-2 replacements keep the same four topics and await approval. Dates and publishing times remain unapproved.",
+    "Latest review leaves only text 29 pending; latest versions of texts 16, 20, 28 are accepted under the established numbered-feedback convention. Version 3 of text 29 asks for the guest's view of the photo-sharing request. Timing remains deferred."
   ],
-  "latest_user_feedback": "Давай немного переделаем 16-е, 20-е, 28-е и 29-е."
+  "latest_user_feedback": "давай 29 переделаем"
 }
