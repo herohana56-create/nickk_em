@@ -1,0 +1,458 @@
+{
+  "bank_id": "threads-ideas-bank-2026-11-24",
+  "version": 1,
+  "account": "nickkem_vl",
+  "timezone": "Asia/Vladivostok",
+  "status": "IDEAS_MODERATED_POSTS_NOT_APPROVED",
+  "source": "50 ideas shown in this chat; user selected all except the listed original numbers",
+  "original_numbering_preserved": true,
+  "selected_ids": [
+    1,
+    2,
+    6,
+    8,
+    11,
+    12,
+    13,
+    16,
+    20,
+    21,
+    24,
+    27,
+    31,
+    35,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50
+  ],
+  "excluded_ids": [
+    3,
+    4,
+    5,
+    7,
+    9,
+    10,
+    14,
+    15,
+    17,
+    18,
+    19,
+    22,
+    23,
+    25,
+    26,
+    28,
+    29,
+    30,
+    32,
+    33,
+    34,
+    36
+  ],
+  "selected_count": 28,
+  "excluded_count": 22,
+  "weekly_target": {
+    "days": 7,
+    "posts_per_day": 5,
+    "needed": 35,
+    "missing_selected_ideas": 7,
+    "schedule_approved": false
+  },
+  "ideas": [
+    {
+      "id": 1,
+      "title": "На чём готовы экономить, а на чём ни за что?",
+      "angle": "Спросить невест 2027 про одну обязательную для них свадебную трату",
+      "selection": "SELECTED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 2,
+      "title": "\"Сделаем сами, так дешевле\" — что проще заказать?",
+      "angle": "Что при подготовке оказалось проще заказать, чем делать своими руками?",
+      "selection": "SELECTED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 3,
+      "title": "Свадьба в кредит",
+      "selection": "EXCLUDED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 4,
+      "title": "Аренда свадебного платья",
+      "selection": "EXCLUDED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 5,
+      "title": "Говорить ли подрядчикам настоящий бюджет?",
+      "selection": "EXCLUDED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 6,
+      "title": "Что убрали бы со свадьбы, если бы планировали заново?",
+      "angle": "Вопрос уже женатым; собрать реальные ответы, не придумывать их",
+      "selection": "SELECTED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 7,
+      "title": "Свадебный торт или обычный вкусный торт?",
+      "selection": "EXCLUDED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 8,
+      "title": "Красивая дата против удобной даты",
+      "angle": "Готовы ли пары переплатить ради цифр в свидетельстве?",
+      "selection": "SELECTED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 9,
+      "title": "Дополнительные свадебные расходы",
+      "selection": "EXCLUDED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 10,
+      "title": "На что смотрят зрители \"Четырёх свадеб\"?",
+      "selection": "EXCLUDED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 11,
+      "title": "Нужно ли звать человека, который когда-то позвал вас?",
+      "angle": "Свадебное приглашение как негласный долг",
+      "selection": "SELECTED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 12,
+      "title": "Можно ли гостю взять незнакомого паре спутника?",
+      "angle": "Как реагировать на просьбу гостя взять с собой незнакомого человека?",
+      "selection": "SELECTED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 13,
+      "title": "Родители хотят позвать своих друзей",
+      "angle": "Кто определяет список гостей, когда у родителей свои пожелания?",
+      "selection": "SELECTED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 14,
+      "title": "Друг без пары и разрешение прийти с кем-нибудь",
+      "selection": "EXCLUDED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 15,
+      "title": "Приглашение на церемонию без банкета",
+      "selection": "EXCLUDED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 16,
+      "title": "Гость отменяет участие за день до свадьбы",
+      "angle": "Какие причины отмены участия пара спокойно примет?",
+      "selection": "SELECTED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 17,
+      "title": "Выборочное приглашение коллег",
+      "selection": "EXCLUDED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 18,
+      "title": "Приглашение после нескольких лет без общения",
+      "selection": "EXCLUDED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 19,
+      "title": "Личное подтверждение участия без отметки в списке",
+      "selection": "EXCLUDED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 20,
+      "title": "Что делать с гостями, которые пока не знают?",
+      "angle": "Как обозначить срок ответа, сохранив нормальный тон?",
+      "selection": "SELECTED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 21,
+      "title": "Какую часть подготовки жених взял на себя?",
+      "angle": "Конкретные ответы женихов 2027 без шуток об их бесполезности",
+      "selection": "SELECTED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 22,
+      "title": "Разные представления пары о свадьбе",
+      "selection": "EXCLUDED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 23,
+      "title": "Когда остановиться с подготовкой?",
+      "selection": "EXCLUDED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 24,
+      "title": "Регистрация и праздник в разные дни",
+      "angle": "Меньше суеты или подготовка сразу к двум событиям?",
+      "selection": "SELECTED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 25,
+      "title": "Сюрпризы и нелюбовь к публичным выступлениям",
+      "selection": "EXCLUDED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 26,
+      "title": "Клятвы при всех или друг другу?",
+      "selection": "EXCLUDED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 27,
+      "title": "Первый танец без постановки",
+      "angle": "Обняться и потанцевать либо подготовить номер",
+      "selection": "SELECTED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 28,
+      "title": "Утро свадьбы вместе",
+      "selection": "EXCLUDED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 29,
+      "title": "День без свадебных разговоров",
+      "selection": "EXCLUDED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 30,
+      "title": "Решения по свадьбе только за парой",
+      "selection": "EXCLUDED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 31,
+      "title": "Понятное описание дресс-кода",
+      "angle": "Названия цветов, примеры одежды и степень строгости",
+      "selection": "SELECTED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 32,
+      "title": "Объяснять ли, почему кого-то не позвали?",
+      "selection": "EXCLUDED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 33,
+      "title": "Персональное приглашение или общая рассылка",
+      "selection": "EXCLUDED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 34,
+      "title": "Юмор, понятный не всем гостям",
+      "selection": "EXCLUDED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 35,
+      "title": "Три вещи на первом экране приглашения",
+      "angle": "Предложить выбрать три вещи, которые гости хотят видеть сразу",
+      "selection": "SELECTED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 36,
+      "title": "Как приглашать старших родственников?",
+      "selection": "EXCLUDED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 37,
+      "title": "Изменения времени или площадки после рассылки",
+      "angle": "Как убедиться, что гости увидели обновление?",
+      "selection": "SELECTED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 38,
+      "title": "Сколько информации в приглашении уже слишком много?",
+      "angle": "Когда приглашение превращается в пугающую инструкцию?",
+      "selection": "SELECTED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 39,
+      "title": "Информация для гостей из другого города",
+      "angle": "Проживание, дорога, трансфер и неочевидные для приезжих детали",
+      "selection": "SELECTED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 40,
+      "title": "Указывать ли время окончания праздника?",
+      "angle": "Планирование такси, присмотра за детьми и дороги домой",
+      "selection": "SELECTED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 41,
+      "title": "Идеальная фотография или любимый живой снимок?",
+      "angle": "Выбор между идеальной съёмкой и любимой непринуждённой фотографией",
+      "selection": "SELECTED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 42,
+      "title": "Сравнить две версии истории знакомства",
+      "angle": "Пара отдельно пишет по три предложения и сравнивает версии",
+      "selection": "SELECTED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 43,
+      "title": "Приглашение на основе общей привычки пары",
+      "angle": "Поездки, походы, настольные игры, кофе по воскресеньям",
+      "selection": "SELECTED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 44,
+      "title": "Фраза из переписки в приглашении",
+      "angle": "Фраза начала отношений или первое неловкое сообщение",
+      "selection": "SELECTED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 45,
+      "title": "Приглашение как экскурсия по истории пары",
+      "angle": "Любимая песня, место первого свидания и детали для друзей",
+      "selection": "SELECTED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 46,
+      "title": "Что прислать для начала работы над приглашением?",
+      "angle": "Дата, место, фотографии, пожелания и примеры",
+      "selection": "SELECTED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 47,
+      "title": "Можно прийти без готовой идеи оформления",
+      "angle": "Вопросы, с которых начинается работа, когда пара не знает, чего хочет",
+      "selection": "SELECTED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 48,
+      "title": "Что можно поменять после первого варианта?",
+      "angle": "Обсуждение текста, фотографий и оформления без выдуманных клиентских историй",
+      "selection": "SELECTED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 49,
+      "title": "Почему оплата после того, как устроит результат",
+      "angle": "Объяснить ранее согласованное условие оплаты",
+      "selection": "SELECTED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 50,
+      "title": "Концепция приглашения по трём словам из комментариев",
+      "angle": "Попросить описать свадьбу тремя словами; выбрать идею и показать концепцию",
+      "selection": "SELECTED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    }
+  ],
+  "instructions": [
+    "Use this as the latest topic selection; excluded themes should not be proposed again as if selected.",
+    "Selection approves topics, not final post text, images, account/time or publication.",
+    "Keep original numbers for moderation. Do not infer why a topic was excluded; no reasons were supplied.",
+    "Prepare publication drafts and a weekly plan only from selected ideas or newly reviewed replacements. No new Metricool posts were created by this decision."
+  ]
+}
