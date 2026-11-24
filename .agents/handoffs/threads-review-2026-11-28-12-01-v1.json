@@ -1,12 +1,12 @@
 {
   "package_id": "threads-review-2026-11-28-12-01-v1",
-  "version": 4,
-  "status": "ALL_20_TEXTS_APPROVED_TIMING_DEFERRED",
+  "version": 5,
+  "status": "ALL_POSTS_SCHEDULED_VERIFIED",
   "account": "nickkem_vl",
   "brand_id": "8224996",
   "timezone": "Asia/Vladivostok",
   "all_posts_without_images": true,
-  "publication_timing_status": "DEFERRED_BY_USER_NOT_APPROVED",
+  "publication_timing_status": "AUTHORIZED_AND_SCHEDULED",
   "days": [
     {
       "date": "2026-11-28",
@@ -17,26 +17,36 @@
           "idea_id": 8,
           "title": "Красивая дата против удобной даты",
           "version": 2,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Невесты 2027, что выбирали первым: красивую дату и под неё всё остальное или площадку, а потом уже смотрели свободные дни?",
             "media": [],
-            "publish_at": null
+            "publish_at": "2026-11-28T09:06:00+10:00"
           },
           "approval": {
-            "approved_by_user": false,
+            "approved_by_user": true,
             "text_approved": true,
-            "publication_time_approved": false,
+            "publication_time_approved": true,
             "approved_text": "Невесты 2027, что выбирали первым: красивую дату и под неё всё остальное или площадку, а потом уже смотрели свободные дни?",
             "approved_text_version": 2,
-            "evidence": "После проверки четырёх изменений пользователь попросил переделать только 29; по установленной схеме остальные отмечаются как одобренные"
+            "evidence": "После проверки четырёх изменений пользователь попросил переделать только 29; по установленной схеме остальные отмечаются как одобренные",
+            "media_approved": true,
+            "timing_selection_delegated_by_user": true
           },
           "execution": {
-            "scheduled": false,
+            "scheduled": true,
             "published": false,
-            "metricool_post_id": null,
-            "post_url": null
+            "metricool_post_id": "440186355",
+            "post_url": null,
+            "post_uuid": "5590074980314923059",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=5590074980314923059",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-28T09:06:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
           },
           "revision_history": [
             {
@@ -51,26 +61,36 @@
           "idea_id": 16,
           "title": "Гость отменяет участие за день до свадьбы",
           "version": 1,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Гость пишет за день до свадьбы: \"Я не приду\"\n\nВ каком случае вы спокойно это примете, а в каком всё-таки обидитесь?",
             "media": [],
-            "publish_at": null
+            "publish_at": "2026-11-28T12:02:00+10:00"
           },
           "approval": {
-            "approved_by_user": false,
+            "approved_by_user": true,
             "text_approved": true,
-            "publication_time_approved": false,
+            "publication_time_approved": true,
             "approved_text": "Гость пишет за день до свадьбы: \"Я не приду\"\n\nВ каком случае вы спокойно это примете, а в каком всё-таки обидитесь?",
             "approved_text_version": 1,
-            "evidence": "Пользователь перечислил для правок только 16, 20, 28 и 29 в ответ на предложение назвать номера, остальные отметить как одобренные"
+            "evidence": "Пользователь перечислил для правок только 16, 20, 28 и 29 в ответ на предложение назвать номера, остальные отметить как одобренные",
+            "media_approved": true,
+            "timing_selection_delegated_by_user": true
           },
           "execution": {
-            "scheduled": false,
+            "scheduled": true,
             "published": false,
-            "metricool_post_id": null,
-            "post_url": null
+            "metricool_post_id": "440186444",
+            "post_url": null,
+            "post_uuid": "-7651106630483293012",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-7651106630483293012",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-28T12:02:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
           }
         },
         {
@@ -78,26 +98,36 @@
           "idea_id": 40,
           "title": "Указывать ли время окончания праздника?",
           "version": 1,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "В свадебном приглашении обычно понятно, во сколько приезжать\n\nА во сколько можно уезжать, чтобы не оказаться тем человеком, который \"что-то рано собрался\"? 🙂\n\nВремя окончания праздника вообще стоит указывать?",
             "media": [],
-            "publish_at": null
+            "publish_at": "2026-11-28T15:08:00+10:00"
           },
           "approval": {
-            "approved_by_user": false,
+            "approved_by_user": true,
             "text_approved": true,
-            "publication_time_approved": false,
+            "publication_time_approved": true,
             "approved_text": "В свадебном приглашении обычно понятно, во сколько приезжать\n\nА во сколько можно уезжать, чтобы не оказаться тем человеком, который \"что-то рано собрался\"? 🙂\n\nВремя окончания праздника вообще стоит указывать?",
             "approved_text_version": 1,
-            "evidence": "Пользователь перечислил для правок только 16, 20, 28 и 29 в ответ на предложение назвать номера, остальные отметить как одобренные"
+            "evidence": "Пользователь перечислил для правок только 16, 20, 28 и 29 в ответ на предложение назвать номера, остальные отметить как одобренные",
+            "media_approved": true,
+            "timing_selection_delegated_by_user": true
           },
           "execution": {
-            "scheduled": false,
+            "scheduled": true,
             "published": false,
-            "metricool_post_id": null,
-            "post_url": null
+            "metricool_post_id": "440186543",
+            "post_url": null,
+            "post_uuid": "5498641061191435438",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=5498641061191435438",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-28T15:08:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
           }
         },
         {
@@ -105,26 +135,36 @@
           "idea_id": 44,
           "title": "Фраза из переписки в приглашении",
           "version": 1,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Какая фраза из вашей переписки могла бы стать заголовком свадебного приглашения?\n\nТолько честно. Иногда там вместо \"люблю тебя\" что-нибудь вроде \"ты поел?\" 🙂",
             "media": [],
-            "publish_at": null
+            "publish_at": "2026-11-28T18:03:00+10:00"
           },
           "approval": {
-            "approved_by_user": false,
+            "approved_by_user": true,
             "text_approved": true,
-            "publication_time_approved": false,
+            "publication_time_approved": true,
             "approved_text": "Какая фраза из вашей переписки могла бы стать заголовком свадебного приглашения?\n\nТолько честно. Иногда там вместо \"люблю тебя\" что-нибудь вроде \"ты поел?\" 🙂",
             "approved_text_version": 1,
-            "evidence": "Пользователь перечислил для правок только 16, 20, 28 и 29 в ответ на предложение назвать номера, остальные отметить как одобренные"
+            "evidence": "Пользователь перечислил для правок только 16, 20, 28 и 29 в ответ на предложение назвать номера, остальные отметить как одобренные",
+            "media_approved": true,
+            "timing_selection_delegated_by_user": true
           },
           "execution": {
-            "scheduled": false,
+            "scheduled": true,
             "published": false,
-            "metricool_post_id": null,
-            "post_url": null
+            "metricool_post_id": "440186607",
+            "post_url": null,
+            "post_uuid": "560575288416684950",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=560575288416684950",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-28T18:03:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
           }
         },
         {
@@ -132,26 +172,36 @@
           "idea_id": 48,
           "title": "Что можно поменять после первого варианта?",
           "version": 2,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Если в первом варианте приглашения что-то не нравится — говорите\n\n\"Слишком официально\", \"эту фотку не хочу\", \"а можно вообще другие цвета?\" — всё это можно обсудить\n\nДелаю сайты-приглашения под вашу пару. Кому актуально — напишите \"+\"",
             "media": [],
-            "publish_at": null
+            "publish_at": "2026-11-28T20:58:00+10:00"
           },
           "approval": {
-            "approved_by_user": false,
+            "approved_by_user": true,
             "text_approved": true,
-            "publication_time_approved": false,
+            "publication_time_approved": true,
             "approved_text": "Если в первом варианте приглашения что-то не нравится — говорите\n\n\"Слишком официально\", \"эту фотку не хочу\", \"а можно вообще другие цвета?\" — всё это можно обсудить\n\nДелаю сайты-приглашения под вашу пару. Кому актуально — напишите \"+\"",
             "approved_text_version": 2,
-            "evidence": "После проверки четырёх изменений пользователь попросил переделать только 29; по установленной схеме остальные отмечаются как одобренные"
+            "evidence": "После проверки четырёх изменений пользователь попросил переделать только 29; по установленной схеме остальные отмечаются как одобренные",
+            "media_approved": true,
+            "timing_selection_delegated_by_user": true
           },
           "execution": {
-            "scheduled": false,
+            "scheduled": true,
             "published": false,
-            "metricool_post_id": null,
-            "post_url": null
+            "metricool_post_id": "440186677",
+            "post_url": null,
+            "post_uuid": "-4966346365608508547",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-4966346365608508547",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-28T20:58:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
           },
           "revision_history": [
             {
@@ -172,26 +222,36 @@
           "idea_id": 21,
           "title": "Какую часть подготовки жених взял на себя?",
           "version": 1,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Женихи 2027, какую часть подготовки вы сами захотели взять на себя?\n\nПлощадку, музыку, транспорт? Или у вас есть пункт, к которому вы вообще никого не подпускаете? 🙂",
             "media": [],
-            "publish_at": null
+            "publish_at": "2026-11-29T09:03:00+10:00"
           },
           "approval": {
-            "approved_by_user": false,
+            "approved_by_user": true,
             "text_approved": true,
-            "publication_time_approved": false,
+            "publication_time_approved": true,
             "approved_text": "Женихи 2027, какую часть подготовки вы сами захотели взять на себя?\n\nПлощадку, музыку, транспорт? Или у вас есть пункт, к которому вы вообще никого не подпускаете? 🙂",
             "approved_text_version": 1,
-            "evidence": "Пользователь перечислил для правок только 16, 20, 28 и 29 в ответ на предложение назвать номера, остальные отметить как одобренные"
+            "evidence": "Пользователь перечислил для правок только 16, 20, 28 и 29 в ответ на предложение назвать номера, остальные отметить как одобренные",
+            "media_approved": true,
+            "timing_selection_delegated_by_user": true
           },
           "execution": {
-            "scheduled": false,
+            "scheduled": true,
             "published": false,
-            "metricool_post_id": null,
-            "post_url": null
+            "metricool_post_id": "440187191",
+            "post_url": null,
+            "post_uuid": "165627439672413752",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=165627439672413752",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-29T09:03:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
           }
         },
         {
@@ -199,26 +259,36 @@
           "idea_id": 20,
           "title": "Что делать с гостями, которые пока не знают?",
           "version": 1,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Как вежливо ответить гостю на \"мы пока не знаем\", если ресторан уже хочет окончательное количество людей?\n\nВ какой момент можно перестать уточнять и просто считать, что человек не придёт?",
             "media": [],
-            "publish_at": null
+            "publish_at": "2026-11-29T12:09:00+10:00"
           },
           "approval": {
-            "approved_by_user": false,
+            "approved_by_user": true,
             "text_approved": true,
-            "publication_time_approved": false,
+            "publication_time_approved": true,
             "approved_text": "Как вежливо ответить гостю на \"мы пока не знаем\", если ресторан уже хочет окончательное количество людей?\n\nВ какой момент можно перестать уточнять и просто считать, что человек не придёт?",
             "approved_text_version": 1,
-            "evidence": "Пользователь перечислил для правок только 16, 20, 28 и 29 в ответ на предложение назвать номера, остальные отметить как одобренные"
+            "evidence": "Пользователь перечислил для правок только 16, 20, 28 и 29 в ответ на предложение назвать номера, остальные отметить как одобренные",
+            "media_approved": true,
+            "timing_selection_delegated_by_user": true
           },
           "execution": {
-            "scheduled": false,
+            "scheduled": true,
             "published": false,
-            "metricool_post_id": null,
-            "post_url": null
+            "metricool_post_id": "440187260",
+            "post_url": null,
+            "post_uuid": "-6319635788285653815",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-6319635788285653815",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-29T12:09:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
           }
         },
         {
@@ -226,26 +296,36 @@
           "idea_id": 35,
           "title": "Три вещи на первом экране приглашения",
           "version": 1,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Если на первом экране свадебного приглашения оставить только три вещи, что выберете?\n\nИмена, дата, место, фото пары, начало церемонии?\n\nОчень интересно, что для вас важнее всего",
             "media": [],
-            "publish_at": null
+            "publish_at": "2026-11-29T15:05:00+10:00"
           },
           "approval": {
-            "approved_by_user": false,
+            "approved_by_user": true,
             "text_approved": true,
-            "publication_time_approved": false,
+            "publication_time_approved": true,
             "approved_text": "Если на первом экране свадебного приглашения оставить только три вещи, что выберете?\n\nИмена, дата, место, фото пары, начало церемонии?\n\nОчень интересно, что для вас важнее всего",
             "approved_text_version": 1,
-            "evidence": "Пользователь перечислил для правок только 16, 20, 28 и 29 в ответ на предложение назвать номера, остальные отметить как одобренные"
+            "evidence": "Пользователь перечислил для правок только 16, 20, 28 и 29 в ответ на предложение назвать номера, остальные отметить как одобренные",
+            "media_approved": true,
+            "timing_selection_delegated_by_user": true
           },
           "execution": {
-            "scheduled": false,
+            "scheduled": true,
             "published": false,
-            "metricool_post_id": null,
-            "post_url": null
+            "metricool_post_id": "440187356",
+            "post_url": null,
+            "post_uuid": "-6102672060344153059",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-6102672060344153059",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-29T15:05:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
           }
         },
         {
@@ -253,26 +333,36 @@
           "idea_id": 54,
           "title": "Питомец на свадьбе",
           "version": 1,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Кто брал собаку на свою свадьбу — расскажите, как всё прошло?\n\nОна спокойно была рядом или в итоге у кого-то появился отдельный рабочий день \"слежу за собакой\"? 🙂",
             "media": [],
-            "publish_at": null
+            "publish_at": "2026-11-29T18:02:00+10:00"
           },
           "approval": {
-            "approved_by_user": false,
+            "approved_by_user": true,
             "text_approved": true,
-            "publication_time_approved": false,
+            "publication_time_approved": true,
             "approved_text": "Кто брал собаку на свою свадьбу — расскажите, как всё прошло?\n\nОна спокойно была рядом или в итоге у кого-то появился отдельный рабочий день \"слежу за собакой\"? 🙂",
             "approved_text_version": 1,
-            "evidence": "Пользователь перечислил для правок только 16, 20, 28 и 29 в ответ на предложение назвать номера, остальные отметить как одобренные"
+            "evidence": "Пользователь перечислил для правок только 16, 20, 28 и 29 в ответ на предложение назвать номера, остальные отметить как одобренные",
+            "media_approved": true,
+            "timing_selection_delegated_by_user": true
           },
           "execution": {
-            "scheduled": false,
+            "scheduled": true,
             "published": false,
-            "metricool_post_id": null,
-            "post_url": null
+            "metricool_post_id": "440187412",
+            "post_url": null,
+            "post_uuid": "-527663590826622941",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-527663590826622941",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-29T18:02:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
           }
         },
         {
@@ -280,26 +370,36 @@
           "idea_id": 45,
           "title": "Приглашение как экскурсия по истории пары",
           "version": 1,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Свадебное приглашение можно начать с места, где вы впервые встретились\n\nДобавить вашу песню, пару фоток и историю, которую друзья до сих пор вспоминают\n\nЯ делаю такие сайты-приглашения под пару. Кому актуально — напишите \"+\", покажу варианты",
             "media": [],
-            "publish_at": null
+            "publish_at": "2026-11-29T20:57:00+10:00"
           },
           "approval": {
-            "approved_by_user": false,
+            "approved_by_user": true,
             "text_approved": true,
-            "publication_time_approved": false,
+            "publication_time_approved": true,
             "approved_text": "Свадебное приглашение можно начать с места, где вы впервые встретились\n\nДобавить вашу песню, пару фоток и историю, которую друзья до сих пор вспоминают\n\nЯ делаю такие сайты-приглашения под пару. Кому актуально — напишите \"+\", покажу варианты",
             "approved_text_version": 1,
-            "evidence": "Пользователь перечислил для правок только 16, 20, 28 и 29 в ответ на предложение назвать номера, остальные отметить как одобренные"
+            "evidence": "Пользователь перечислил для правок только 16, 20, 28 и 29 в ответ на предложение назвать номера, остальные отметить как одобренные",
+            "media_approved": true,
+            "timing_selection_delegated_by_user": true
           },
           "execution": {
-            "scheduled": false,
+            "scheduled": true,
             "published": false,
-            "metricool_post_id": null,
-            "post_url": null
+            "metricool_post_id": "440187503",
+            "post_url": null,
+            "post_uuid": "8564739963938424420",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=8564739963938424420",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-29T20:57:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
           }
         }
       ]
@@ -313,26 +413,36 @@
           "idea_id": 24,
           "title": "Регистрация и праздник в разные дни",
           "version": 1,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Расписаться вдвоём в один день, а отметить со всеми позже — для вас хороший вариант?\n\nИли хочется, чтобы \"мы поженились\" и \"мы празднуем\" были одной датой?",
             "media": [],
-            "publish_at": null
+            "publish_at": "2026-11-30T09:08:00+10:00"
           },
           "approval": {
-            "approved_by_user": false,
+            "approved_by_user": true,
             "text_approved": true,
-            "publication_time_approved": false,
+            "publication_time_approved": true,
             "approved_text": "Расписаться вдвоём в один день, а отметить со всеми позже — для вас хороший вариант?\n\nИли хочется, чтобы \"мы поженились\" и \"мы празднуем\" были одной датой?",
             "approved_text_version": 1,
-            "evidence": "Пользователь перечислил для правок только 16, 20, 28 и 29 в ответ на предложение назвать номера, остальные отметить как одобренные"
+            "evidence": "Пользователь перечислил для правок только 16, 20, 28 и 29 в ответ на предложение назвать номера, остальные отметить как одобренные",
+            "media_approved": true,
+            "timing_selection_delegated_by_user": true
           },
           "execution": {
-            "scheduled": false,
+            "scheduled": true,
             "published": false,
-            "metricool_post_id": null,
-            "post_url": null
+            "metricool_post_id": "440187904",
+            "post_url": null,
+            "post_uuid": "-3563018276576474771",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-3563018276576474771",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-30T09:08:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
           }
         },
         {
@@ -340,26 +450,36 @@
           "idea_id": 27,
           "title": "Первый танец без постановки",
           "version": 1,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Первый танец обязательно ставить с хореографом?\n\nИли можно просто выбрать свою песню, обняться и потанцевать, даже если со стороны это будет выглядеть не как номер из шоу?",
             "media": [],
-            "publish_at": null
+            "publish_at": "2026-11-30T12:04:00+10:00"
           },
           "approval": {
-            "approved_by_user": false,
+            "approved_by_user": true,
             "text_approved": true,
-            "publication_time_approved": false,
+            "publication_time_approved": true,
             "approved_text": "Первый танец обязательно ставить с хореографом?\n\nИли можно просто выбрать свою песню, обняться и потанцевать, даже если со стороны это будет выглядеть не как номер из шоу?",
             "approved_text_version": 1,
-            "evidence": "Пользователь перечислил для правок только 16, 20, 28 и 29 в ответ на предложение назвать номера, остальные отметить как одобренные"
+            "evidence": "Пользователь перечислил для правок только 16, 20, 28 и 29 в ответ на предложение назвать номера, остальные отметить как одобренные",
+            "media_approved": true,
+            "timing_selection_delegated_by_user": true
           },
           "execution": {
-            "scheduled": false,
+            "scheduled": true,
             "published": false,
-            "metricool_post_id": null,
-            "post_url": null
+            "metricool_post_id": "440188007",
+            "post_url": null,
+            "post_uuid": "7996380432261005533",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=7996380432261005533",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-30T12:04:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
           }
         },
         {
@@ -367,26 +487,36 @@
           "idea_id": 38,
           "title": "Сколько информации в приглашении уже слишком много?",
           "version": 2,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "В приглашении может быть сколько угодно красивых фоток\n\nНо если гостю проще написать \"а куда ехать?\", чем найти адрес, кажется, мы немного перестарались 🙂",
             "media": [],
-            "publish_at": null
+            "publish_at": "2026-11-30T15:07:00+10:00"
           },
           "approval": {
-            "approved_by_user": false,
+            "approved_by_user": true,
             "text_approved": true,
-            "publication_time_approved": false,
+            "publication_time_approved": true,
             "approved_text": "В приглашении может быть сколько угодно красивых фоток\n\nНо если гостю проще написать \"а куда ехать?\", чем найти адрес, кажется, мы немного перестарались 🙂",
             "approved_text_version": 2,
-            "evidence": "После проверки четырёх изменений пользователь попросил переделать только 29; по установленной схеме остальные отмечаются как одобренные"
+            "evidence": "После проверки четырёх изменений пользователь попросил переделать только 29; по установленной схеме остальные отмечаются как одобренные",
+            "media_approved": true,
+            "timing_selection_delegated_by_user": true
           },
           "execution": {
-            "scheduled": false,
+            "scheduled": true,
             "published": false,
-            "metricool_post_id": null,
-            "post_url": null
+            "metricool_post_id": "440188078",
+            "post_url": null,
+            "post_uuid": "-8192434162685492773",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-8192434162685492773",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-30T15:07:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
           },
           "revision_history": [
             {
@@ -401,26 +531,36 @@
           "idea_id": 52,
           "title": "Гости выкладывают фотографии раньше пары",
           "version": 3,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Молодожёны просят пока не выкладывать фото со свадьбы\n\nДля вас это нормальная просьба или уже лишний контроль над чужими сторис?",
             "media": [],
-            "publish_at": null
+            "publish_at": "2026-11-30T18:06:00+10:00"
           },
           "approval": {
-            "approved_by_user": false,
+            "approved_by_user": true,
             "text_approved": true,
-            "publication_time_approved": false,
+            "publication_time_approved": true,
             "approved_text": "Молодожёны просят пока не выкладывать фото со свадьбы\n\nДля вас это нормальная просьба или уже лишний контроль над чужими сторис?",
             "approved_text_version": 3,
-            "evidence": "отлично !"
+            "evidence": "отлично !",
+            "media_approved": true,
+            "timing_selection_delegated_by_user": true
           },
           "execution": {
-            "scheduled": false,
+            "scheduled": true,
             "published": false,
-            "metricool_post_id": null,
-            "post_url": null
+            "metricool_post_id": "440188145",
+            "post_url": null,
+            "post_uuid": "3711184873405697895",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=3711184873405697895",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-30T18:06:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
           },
           "revision_history": [
             {
@@ -440,26 +580,36 @@
           "idea_id": 50,
           "title": "Концепция приглашения по трём словам из комментариев",
           "version": 1,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Опишите свою будущую свадьбу тремя словами\n\nБез \"красивая, весёлая, незабываемая\" 🙂\n\nХочу выбрать один ответ и придумать под него оформление сайта-приглашения",
             "media": [],
-            "publish_at": null
+            "publish_at": "2026-11-30T20:59:00+10:00"
           },
           "approval": {
-            "approved_by_user": false,
+            "approved_by_user": true,
             "text_approved": true,
-            "publication_time_approved": false,
+            "publication_time_approved": true,
             "approved_text": "Опишите свою будущую свадьбу тремя словами\n\nБез \"красивая, весёлая, незабываемая\" 🙂\n\nХочу выбрать один ответ и придумать под него оформление сайта-приглашения",
             "approved_text_version": 1,
-            "evidence": "Пользователь перечислил для правок только 16, 20, 28 и 29 в ответ на предложение назвать номера, остальные отметить как одобренные"
+            "evidence": "Пользователь перечислил для правок только 16, 20, 28 и 29 в ответ на предложение назвать номера, остальные отметить как одобренные",
+            "media_approved": true,
+            "timing_selection_delegated_by_user": true
           },
           "execution": {
-            "scheduled": false,
+            "scheduled": true,
             "published": false,
-            "metricool_post_id": null,
-            "post_url": null
+            "metricool_post_id": "440188202",
+            "post_url": null,
+            "post_uuid": "-6400208427887410393",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-6400208427887410393",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-30T20:59:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
           }
         }
       ]
@@ -473,26 +623,36 @@
           "idea_id": 51,
           "title": "Дождь в день свадьбы",
           "version": 1,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Невесты 2027, церемония на улице — это уже решено или вы ещё думаете, что делать, если пойдёт дождь?\n\nКто уже выбирал запасной вариант — что придумали?",
             "media": [],
-            "publish_at": null
+            "publish_at": "2026-12-01T09:05:00+10:00"
           },
           "approval": {
-            "approved_by_user": false,
+            "approved_by_user": true,
             "text_approved": true,
-            "publication_time_approved": false,
+            "publication_time_approved": true,
             "approved_text": "Невесты 2027, церемония на улице — это уже решено или вы ещё думаете, что делать, если пойдёт дождь?\n\nКто уже выбирал запасной вариант — что придумали?",
             "approved_text_version": 1,
-            "evidence": "Пользователь перечислил для правок только 16, 20, 28 и 29 в ответ на предложение назвать номера, остальные отметить как одобренные"
+            "evidence": "Пользователь перечислил для правок только 16, 20, 28 и 29 в ответ на предложение назвать номера, остальные отметить как одобренные",
+            "media_approved": true,
+            "timing_selection_delegated_by_user": true
           },
           "execution": {
-            "scheduled": false,
+            "scheduled": true,
             "published": false,
-            "metricool_post_id": null,
-            "post_url": null
+            "metricool_post_id": "440188577",
+            "post_url": null,
+            "post_uuid": "-5403484188124036755",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-5403484188124036755",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-12-01T09:05:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
           }
         },
         {
@@ -500,26 +660,36 @@
           "idea_id": 53,
           "title": "Фамилия после свадьбы",
           "version": 1,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Невесты 2027, фамилию после свадьбы меняете?\n\nИли уже столько лет представлялись своей, что новая пока вообще не ощущается вашей?",
             "media": [],
-            "publish_at": null
+            "publish_at": "2026-12-01T12:07:00+10:00"
           },
           "approval": {
-            "approved_by_user": false,
+            "approved_by_user": true,
             "text_approved": true,
-            "publication_time_approved": false,
+            "publication_time_approved": true,
             "approved_text": "Невесты 2027, фамилию после свадьбы меняете?\n\nИли уже столько лет представлялись своей, что новая пока вообще не ощущается вашей?",
             "approved_text_version": 1,
-            "evidence": "Пользователь перечислил для правок только 16, 20, 28 и 29 в ответ на предложение назвать номера, остальные отметить как одобренные"
+            "evidence": "Пользователь перечислил для правок только 16, 20, 28 и 29 в ответ на предложение назвать номера, остальные отметить как одобренные",
+            "media_approved": true,
+            "timing_selection_delegated_by_user": true
           },
           "execution": {
-            "scheduled": false,
+            "scheduled": true,
             "published": false,
-            "metricool_post_id": null,
-            "post_url": null
+            "metricool_post_id": "440188715",
+            "post_url": null,
+            "post_uuid": "1645364627171855323",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=1645364627171855323",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-12-01T12:07:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
           }
         },
         {
@@ -527,26 +697,36 @@
           "idea_id": 55,
           "title": "Свадебный плейлист",
           "version": 1,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Какую песню вы бы точно внесли в свадебный стоп-лист?\n\nТу самую, под которую все родственники скажут \"ну включи, нормальная же песня\" 🙂",
             "media": [],
-            "publish_at": null
+            "publish_at": "2026-12-01T15:04:00+10:00"
           },
           "approval": {
-            "approved_by_user": false,
+            "approved_by_user": true,
             "text_approved": true,
-            "publication_time_approved": false,
+            "publication_time_approved": true,
             "approved_text": "Какую песню вы бы точно внесли в свадебный стоп-лист?\n\nТу самую, под которую все родственники скажут \"ну включи, нормальная же песня\" 🙂",
             "approved_text_version": 1,
-            "evidence": "Пользователь перечислил для правок только 16, 20, 28 и 29 в ответ на предложение назвать номера, остальные отметить как одобренные"
+            "evidence": "Пользователь перечислил для правок только 16, 20, 28 и 29 в ответ на предложение назвать номера, остальные отметить как одобренные",
+            "media_approved": true,
+            "timing_selection_delegated_by_user": true
           },
           "execution": {
-            "scheduled": false,
+            "scheduled": true,
             "published": false,
-            "metricool_post_id": null,
-            "post_url": null
+            "metricool_post_id": "440188823",
+            "post_url": null,
+            "post_uuid": "5231357759478842815",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=5231357759478842815",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-12-01T15:04:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
           }
         },
         {
@@ -554,26 +734,36 @@
           "idea_id": 56,
           "title": "Еда и ограничения гостей",
           "version": 1,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Как вы собираете пожелания гостей по еде?\n\nОтдельно спрашиваете про ограничения в анкете или надеетесь, что человек сам напишет, если ему что-то нельзя?\n\nКажется, это лучше выяснить до банкета",
             "media": [],
-            "publish_at": null
+            "publish_at": "2026-12-01T18:09:00+10:00"
           },
           "approval": {
-            "approved_by_user": false,
+            "approved_by_user": true,
             "text_approved": true,
-            "publication_time_approved": false,
+            "publication_time_approved": true,
             "approved_text": "Как вы собираете пожелания гостей по еде?\n\nОтдельно спрашиваете про ограничения в анкете или надеетесь, что человек сам напишет, если ему что-то нельзя?\n\nКажется, это лучше выяснить до банкета",
             "approved_text_version": 1,
-            "evidence": "Пользователь перечислил для правок только 16, 20, 28 и 29 в ответ на предложение назвать номера, остальные отметить как одобренные"
+            "evidence": "Пользователь перечислил для правок только 16, 20, 28 и 29 в ответ на предложение назвать номера, остальные отметить как одобренные",
+            "media_approved": true,
+            "timing_selection_delegated_by_user": true
           },
           "execution": {
-            "scheduled": false,
+            "scheduled": true,
             "published": false,
-            "metricool_post_id": null,
-            "post_url": null
+            "metricool_post_id": "440188913",
+            "post_url": null,
+            "post_uuid": "-381328203330728461",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-381328203330728461",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-12-01T18:09:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
           }
         },
         {
@@ -581,26 +771,36 @@
           "idea_id": 57,
           "title": "Свадьба без ведущего",
           "version": 1,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Кто делал свадьбу без ведущего — как в итоге прошёл вечер?\n\nВсе спокойно общались или кто-нибудь всё равно взял организацию в свои руки?",
             "media": [],
-            "publish_at": null
+            "publish_at": "2026-12-01T20:58:00+10:00"
           },
           "approval": {
-            "approved_by_user": false,
+            "approved_by_user": true,
             "text_approved": true,
-            "publication_time_approved": false,
+            "publication_time_approved": true,
             "approved_text": "Кто делал свадьбу без ведущего — как в итоге прошёл вечер?\n\nВсе спокойно общались или кто-нибудь всё равно взял организацию в свои руки?",
             "approved_text_version": 1,
-            "evidence": "Пользователь перечислил для правок только 16, 20, 28 и 29 в ответ на предложение назвать номера, остальные отметить как одобренные"
+            "evidence": "Пользователь перечислил для правок только 16, 20, 28 и 29 в ответ на предложение назвать номера, остальные отметить как одобренные",
+            "media_approved": true,
+            "timing_selection_delegated_by_user": true
           },
           "execution": {
-            "scheduled": false,
+            "scheduled": true,
             "published": false,
-            "metricool_post_id": null,
-            "post_url": null
+            "metricool_post_id": "440188998",
+            "post_url": null,
+            "post_uuid": "-5858290545156338458",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-5858290545156338458",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-12-01T20:58:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
           }
         }
       ]
@@ -615,7 +815,18 @@
     "Ideas 51, 55, 57 appear once only, here on December 1. The earlier duplicate replacement proposals were withdrawn.",
     "Latest feedback approves the other sixteen texts in this package and requests edits only to display numbers 16, 20, 28, 29. Their version-2 replacements keep the same four topics and await approval. Dates and publishing times remain unapproved.",
     "Latest review leaves only text 29 pending; latest versions of texts 16, 20, 28 are accepted under the established numbered-feedback convention. Version 3 of text 29 asks for the guest's view of the photo-sharing request. Timing remains deferred.",
-    "The user accepted the final version of text 29. All twenty current texts in this package are approved as text; dates/times and publication remain unapproved."
+    "The user accepted the final version of text 29. All twenty current texts in this package are approved as text; dates/times and publication remain unapproved.",
+    "The latest user instruction authorized scheduling all approved texts five per day from 09:00 to 21:00 with minute selection delegated to the assistant. All posts in this package are scheduled and verified. This supersedes historical timing-deferred instructions. Read execution IDs and the execution journal; do not recreate these posts."
   ],
-  "latest_user_feedback": "отлично !"
+  "latest_user_feedback": "отлично !",
+  "timing_authorization": {
+    "approved_by_user": true,
+    "selection_delegated": true,
+    "timezone": "Asia/Vladivostok",
+    "daily_window": "09:00–21:00",
+    "posts_per_day": 5,
+    "spacing": "Approximately equal intervals with non-round minutes",
+    "evidence": "Вперёд. ... в течение дня, с утра, с девяти ... до девяти ... плюс-минус равные промежутки ... выставляй не ровно ... в 9:02 ... в день по пять постов, все согласованные распредели"
+  },
+  "execution_journal": ".agents/handoffs/threads-scheduling-2026-11-25-12-01.json"
 }
