@@ -1,7 +1,7 @@
 {
   "package_id": "threads-review-2026-11-25-27-v1",
-  "version": 5,
-  "status": "14_TEXTS_APPROVED_8_REVISED_TIMING_DEFERRED",
+  "version": 6,
+  "status": "ALL_15_TEXTS_APPROVED_TIMING_DEFERRED",
   "account": "nickkem_vl",
   "brand_id": "8224996",
   "timezone": "Asia/Vladivostok",
@@ -179,7 +179,7 @@
         },
         {
           "display_number": 7,
-          "idea_id": 12,
+          "idea_id": 58,
           "title": "Совместный девичник и мальчишник",
           "version": 4,
           "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
@@ -224,16 +224,14 @@
               "decision": "REMOVED_DUPLICATE_OF_EXISTING_SELECTED_IDEA"
             }
           ],
-          "original_idea_id": 12,
-          "proposed_replacement_idea_id": 58,
-          "proposed_replacement_title": "Совместный девичник и мальчишник"
+          "original_idea_id": 12
         },
         {
           "display_number": 8,
-          "idea_id": 37,
+          "idea_id": 59,
           "title": "Роль свидетелей на свадьбе",
           "version": 5,
-          "status": "REVISED_TEXT_AWAITING_USER_APPROVAL",
+          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Как считаете, свидетели на свадьбе — это ещё актуально или уже пережиток прошлого?",
@@ -243,7 +241,10 @@
           "approval": {
             "approved_by_user": false,
             "publication_time_approved": false,
-            "text_approved": false
+            "text_approved": true,
+            "approved_text": "Как считаете, свидетели на свадьбе — это ещё актуально или уже пережиток прошлого?",
+            "approved_text_version": 5,
+            "evidence": "Ну всё, отлично"
           },
           "execution": {
             "scheduled": false,
@@ -279,9 +280,7 @@
               "decision": "USER_REQUESTED_REFRAME_AS_TRADITION_RELEVANCE_QUESTION"
             }
           ],
-          "original_idea_id": 37,
-          "proposed_replacement_idea_id": 59,
-          "proposed_replacement_title": "Роль свидетелей на свадьбе"
+          "original_idea_id": 37
         },
         {
           "display_number": 9,
@@ -371,7 +370,7 @@
         },
         {
           "display_number": 12,
-          "idea_id": 13,
+          "idea_id": 60,
           "title": "Свадьба без алкоголя",
           "version": 4,
           "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
@@ -416,9 +415,7 @@
               "decision": "REMOVED_DUPLICATE_OF_EXISTING_SELECTED_IDEA"
             }
           ],
-          "original_idea_id": 13,
-          "proposed_replacement_idea_id": 60,
-          "proposed_replacement_title": "Свадьба без алкоголя"
+          "original_idea_id": 13
         },
         {
           "display_number": 13,
@@ -513,9 +510,10 @@
     "If times pass, obtain approval for replacement times instead of posting immediately.",
     "Latest user instruction: timing is deferred. Keep existing suggested dates/times only as unapproved proposals; do not interpret text approval as scheduling authorization. Texts 1–6, 9–11 and 13–15 are approved as written; versions 2 of texts 7, 8, 12 require fresh text review.",
     "Current proposed replacements are entirely new topics 58, 59, 60, not moved ideas from later dates. Existing ideas 51, 55, 57 keep their original weekly slots. Compare both topic and exact text against selected bank, excluded bank, previous proposals, revision history, and weekly assignments before calling a replacement new. Moving an existing idea must be described as a move, never as a new idea; do not schedule the same idea/text twice. The current replacements still require user approval; timing remains deferred.",
-    "Latest review: texts 7 and 12 accepted; text 8 reframed as a question about whether witnesses are still relevant. Fourteen texts approved, revised text 8 pending. Publication timing still deferred."
+    "Latest review: texts 7 and 12 accepted; text 8 reframed as a question about whether witnesses are still relevant. Fourteen texts approved, revised text 8 pending. Publication timing still deferred.",
+    "All fifteen current texts have now been accepted, including the revised relevance question at number 8. Timing remains deferred. Current idea_id values are authoritative; original_idea_id is history only."
   ],
-  "latest_user_feedback": "Новые темы и тексты подходят; 7 и 12 одобрены. В 8 пользователь просит вопрос об актуальности свидетелей и пережитке прошлого.",
+  "latest_user_feedback": "Ну всё, отлично, давай тогда остальные дни ещё разберём.",
   "publication_timing_status": "DEFERRED_BY_USER_NOT_APPROVED",
   "novelty_check": {
     "files_checked": 12,
@@ -537,7 +535,7 @@
       "display_number": 8,
       "title": "Роль свидетелей на свадьбе",
       "text": "Как считаете, свидетели на свадьбе — это ещё актуально или уже пережиток прошлого?",
-      "selection": "TOPIC_SELECTED_TEXT_REVISED"
+      "selection": "SELECTED_BY_USER"
     },
     {
       "id": 60,
