@@ -1,7 +1,7 @@
 {
   "package_id": "threads-review-2026-11-25-27-v1",
-  "version": 4,
-  "status": "12_TEXTS_APPROVED_3_ORIGINAL_REPLACEMENTS_PENDING_TIMING_DEFERRED",
+  "version": 5,
+  "status": "14_TEXTS_APPROVED_8_REVISED_TIMING_DEFERRED",
   "account": "nickkem_vl",
   "brand_id": "8224996",
   "timezone": "Asia/Vladivostok",
@@ -182,7 +182,7 @@
           "idea_id": 12,
           "title": "Совместный девичник и мальчишник",
           "version": 4,
-          "status": "NEW_TOPIC_AND_TEXT_AWAITING_USER_APPROVAL",
+          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Совместный девичник и мальчишник — нормальная идея или хочется хотя бы этот вечер провести раздельно? 🙂",
@@ -192,7 +192,10 @@
           "approval": {
             "approved_by_user": false,
             "publication_time_approved": false,
-            "text_approved": false
+            "text_approved": true,
+            "approved_text": "Совместный девичник и мальчишник — нормальная идея или хочется хотя бы этот вечер провести раздельно? 🙂",
+            "approved_text_version": 4,
+            "evidence": "Да, вот теперь отлично. Давай только восьмое чуть-чуть переделаем."
           },
           "execution": {
             "scheduled": false,
@@ -229,11 +232,11 @@
           "display_number": 8,
           "idea_id": 37,
           "title": "Роль свидетелей на свадьбе",
-          "version": 4,
-          "status": "NEW_TOPIC_AND_TEXT_AWAITING_USER_APPROVAL",
+          "version": 5,
+          "status": "REVISED_TEXT_AWAITING_USER_APPROVAL",
           "proposal": {
             "account": "nickkem_vl",
-            "text": "Свидетель на свадьбе — это почётная роль или человек, у которого весь день находятся чужие телефоны, документы и ключи? 🙂",
+            "text": "Как считаете, свидетели на свадьбе — это ещё актуально или уже пережиток прошлого?",
             "media": [],
             "publish_at": "2026-11-26T16:48:00+10:00"
           },
@@ -267,6 +270,13 @@
               "title": "Дождь в день свадьбы",
               "text": "Невесты 2027, вы уже придумали план на случай дождя или пока договариваетесь с погодой? 🙂",
               "decision": "REMOVED_DUPLICATE_OF_EXISTING_SELECTED_IDEA"
+            },
+            {
+              "version": 4,
+              "proposed_replacement_idea_id": 59,
+              "title": "Роль свидетелей на свадьбе",
+              "text": "Свидетель на свадьбе — это почётная роль или человек, у которого весь день находятся чужие телефоны, документы и ключи? 🙂",
+              "decision": "USER_REQUESTED_REFRAME_AS_TRADITION_RELEVANCE_QUESTION"
             }
           ],
           "original_idea_id": 37,
@@ -364,7 +374,7 @@
           "idea_id": 13,
           "title": "Свадьба без алкоголя",
           "version": 4,
-          "status": "NEW_TOPIC_AND_TEXT_AWAITING_USER_APPROVAL",
+          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Свадьба без алкоголя: вы бы спокойно пришли или начали договариваться насчёт \"ну хотя бы шампанского\"?",
@@ -374,7 +384,10 @@
           "approval": {
             "approved_by_user": false,
             "publication_time_approved": false,
-            "text_approved": false
+            "text_approved": true,
+            "approved_text": "Свадьба без алкоголя: вы бы спокойно пришли или начали договариваться насчёт \"ну хотя бы шампанского\"?",
+            "approved_text_version": 4,
+            "evidence": "Да, вот теперь отлично. Давай только восьмое чуть-чуть переделаем."
           },
           "execution": {
             "scheduled": false,
@@ -499,9 +512,10 @@
     "If substantive edits are requested, save a new proposal version and show it before publishing.",
     "If times pass, obtain approval for replacement times instead of posting immediately.",
     "Latest user instruction: timing is deferred. Keep existing suggested dates/times only as unapproved proposals; do not interpret text approval as scheduling authorization. Texts 1–6, 9–11 and 13–15 are approved as written; versions 2 of texts 7, 8, 12 require fresh text review.",
-    "Current proposed replacements are entirely new topics 58, 59, 60, not moved ideas from later dates. Existing ideas 51, 55, 57 keep their original weekly slots. Compare both topic and exact text against selected bank, excluded bank, previous proposals, revision history, and weekly assignments before calling a replacement new. Moving an existing idea must be described as a move, never as a new idea; do not schedule the same idea/text twice. The current replacements still require user approval; timing remains deferred."
+    "Current proposed replacements are entirely new topics 58, 59, 60, not moved ideas from later dates. Existing ideas 51, 55, 57 keep their original weekly slots. Compare both topic and exact text against selected bank, excluded bank, previous proposals, revision history, and weekly assignments before calling a replacement new. Moving an existing idea must be described as a move, never as a new idea; do not schedule the same idea/text twice. The current replacements still require user approval; timing remains deferred.",
+    "Latest review: texts 7 and 12 accepted; text 8 reframed as a question about whether witnesses are still relevant. Fourteen texts approved, revised text 8 pending. Publication timing still deferred."
   ],
-  "latest_user_feedback": "Последние замены были дословными дублями уже выбранных идей 55, 51, 57. Пользователь указал на повтор.",
+  "latest_user_feedback": "Новые темы и тексты подходят; 7 и 12 одобрены. В 8 пользователь просит вопрос об актуальности свидетелей и пережитке прошлого.",
   "publication_timing_status": "DEFERRED_BY_USER_NOT_APPROVED",
   "novelty_check": {
     "files_checked": 12,
@@ -516,21 +530,21 @@
       "display_number": 7,
       "title": "Совместный девичник и мальчишник",
       "text": "Совместный девичник и мальчишник — нормальная идея или хочется хотя бы этот вечер провести раздельно? 🙂",
-      "selection": "PROPOSED_NOT_APPROVED"
+      "selection": "SELECTED_BY_USER"
     },
     {
       "id": 59,
       "display_number": 8,
       "title": "Роль свидетелей на свадьбе",
-      "text": "Свидетель на свадьбе — это почётная роль или человек, у которого весь день находятся чужие телефоны, документы и ключи? 🙂",
-      "selection": "PROPOSED_NOT_APPROVED"
+      "text": "Как считаете, свидетели на свадьбе — это ещё актуально или уже пережиток прошлого?",
+      "selection": "TOPIC_SELECTED_TEXT_REVISED"
     },
     {
       "id": 60,
       "display_number": 12,
       "title": "Свадьба без алкоголя",
       "text": "Свадьба без алкоголя: вы бы спокойно пришли или начали договариваться насчёт \"ну хотя бы шампанского\"?",
-      "selection": "PROPOSED_NOT_APPROVED"
+      "selection": "SELECTED_BY_USER"
     }
   ]
 }
