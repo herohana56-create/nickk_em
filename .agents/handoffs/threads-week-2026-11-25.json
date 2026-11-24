@@ -1,7 +1,7 @@
 {
   "plan_id": "threads-week-2026-11-25",
-  "version": 2,
-  "status": "ALL_TEXTS_PREPARED_TIMING_DEFERRED",
+  "version": 3,
+  "status": "ALL_35_TEXTS_APPROVED_TIMING_DEFERRED",
   "timezone": "Asia/Vladivostok",
   "account": "nickkem_vl",
   "brand_id": "8224996",
@@ -297,8 +297,8 @@
           "title": "Красивая дата против удобной даты",
           "angle": "Готовы ли пары переплатить ради цифр в свидетельстве?",
           "hook": null,
-          "status": "AWAITING_TEXT_APPROVAL_TIMING_DEFERRED",
-          "text_approved": false,
+          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "text_approved": true,
           "media_approved": false,
           "publication_time": null,
           "publication_time_approved": false,
@@ -306,7 +306,7 @@
           "published": false,
           "review_display_number": 16,
           "review_package": ".agents/handoffs/threads-review-2026-11-28-12-01-v1.json",
-          "proposal_version": 1
+          "proposal_version": 2
         },
         {
           "order": 2,
@@ -314,8 +314,8 @@
           "title": "Гость отменяет участие за день до свадьбы",
           "angle": "Какие причины отмены участия пара спокойно примет?",
           "hook": null,
-          "status": "AWAITING_TEXT_APPROVAL_TIMING_DEFERRED",
-          "text_approved": false,
+          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "text_approved": true,
           "media_approved": false,
           "publication_time": null,
           "publication_time_approved": false,
@@ -331,8 +331,8 @@
           "title": "Указывать ли время окончания праздника?",
           "angle": "Планирование такси, присмотра за детьми и дороги домой",
           "hook": null,
-          "status": "AWAITING_TEXT_APPROVAL_TIMING_DEFERRED",
-          "text_approved": false,
+          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "text_approved": true,
           "media_approved": false,
           "publication_time": null,
           "publication_time_approved": false,
@@ -348,8 +348,8 @@
           "title": "Фраза из переписки в приглашении",
           "angle": "Фраза начала отношений или первое неловкое сообщение",
           "hook": null,
-          "status": "AWAITING_TEXT_APPROVAL_TIMING_DEFERRED",
-          "text_approved": false,
+          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "text_approved": true,
           "media_approved": false,
           "publication_time": null,
           "publication_time_approved": false,
@@ -365,8 +365,8 @@
           "title": "Что можно поменять после первого варианта?",
           "angle": "Обсуждение текста, фотографий и оформления без выдуманных клиентских историй",
           "hook": null,
-          "status": "AWAITING_TEXT_APPROVAL_TIMING_DEFERRED",
-          "text_approved": false,
+          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "text_approved": true,
           "media_approved": false,
           "publication_time": null,
           "publication_time_approved": false,
@@ -374,11 +374,11 @@
           "published": false,
           "review_display_number": 20,
           "review_package": ".agents/handoffs/threads-review-2026-11-28-12-01-v1.json",
-          "proposal_version": 1
+          "proposal_version": 2
         }
       ],
       "review_package": ".agents/handoffs/threads-review-2026-11-28-12-01-v1.json",
-      "status": "AWAITING_TEXT_APPROVAL_TIMING_DEFERRED"
+      "status": "TEXT_APPROVED_TIMING_NOT_APPROVED"
     },
     {
       "date": "2026-11-29",
@@ -389,8 +389,8 @@
           "title": "Какую часть подготовки жених взял на себя?",
           "angle": "Конкретные ответы женихов 2027 без шуток об их бесполезности",
           "hook": null,
-          "status": "AWAITING_TEXT_APPROVAL_TIMING_DEFERRED",
-          "text_approved": false,
+          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "text_approved": true,
           "media_approved": false,
           "publication_time": null,
           "publication_time_approved": false,
@@ -406,8 +406,8 @@
           "title": "Что делать с гостями, которые пока не знают?",
           "angle": "Как обозначить срок ответа, сохранив нормальный тон?",
           "hook": null,
-          "status": "AWAITING_TEXT_APPROVAL_TIMING_DEFERRED",
-          "text_approved": false,
+          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "text_approved": true,
           "media_approved": false,
           "publication_time": null,
           "publication_time_approved": false,
@@ -423,8 +423,8 @@
           "title": "Три вещи на первом экране приглашения",
           "angle": "Предложить выбрать три вещи, которые гости хотят видеть сразу",
           "hook": null,
-          "status": "AWAITING_TEXT_APPROVAL_TIMING_DEFERRED",
-          "text_approved": false,
+          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "text_approved": true,
           "media_approved": false,
           "publication_time": null,
           "publication_time_approved": false,
@@ -440,8 +440,8 @@
           "title": "Питомец на свадьбе",
           "angle": "Забавная, но конкретная организационная задача; предложить аудитории поделиться опытом",
           "hook": "Взять собаку на свадьбу — милая идея или потом весь день выяснять, кто сейчас с собакой? 🙂",
-          "status": "AWAITING_TEXT_APPROVAL_TIMING_DEFERRED",
-          "text_approved": false,
+          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "text_approved": true,
           "media_approved": false,
           "publication_time": null,
           "publication_time_approved": false,
@@ -457,8 +457,8 @@
           "title": "Приглашение как экскурсия по истории пары",
           "angle": "Любимая песня, место первого свидания и детали для друзей",
           "hook": null,
-          "status": "AWAITING_TEXT_APPROVAL_TIMING_DEFERRED",
-          "text_approved": false,
+          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "text_approved": true,
           "media_approved": false,
           "publication_time": null,
           "publication_time_approved": false,
@@ -470,7 +470,7 @@
         }
       ],
       "review_package": ".agents/handoffs/threads-review-2026-11-28-12-01-v1.json",
-      "status": "AWAITING_TEXT_APPROVAL_TIMING_DEFERRED"
+      "status": "TEXT_APPROVED_TIMING_NOT_APPROVED"
     },
     {
       "date": "2026-11-30",
@@ -481,8 +481,8 @@
           "title": "Регистрация и праздник в разные дни",
           "angle": "Меньше суеты или подготовка сразу к двум событиям?",
           "hook": null,
-          "status": "AWAITING_TEXT_APPROVAL_TIMING_DEFERRED",
-          "text_approved": false,
+          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "text_approved": true,
           "media_approved": false,
           "publication_time": null,
           "publication_time_approved": false,
@@ -498,8 +498,8 @@
           "title": "Первый танец без постановки",
           "angle": "Обняться и потанцевать либо подготовить номер",
           "hook": null,
-          "status": "AWAITING_TEXT_APPROVAL_TIMING_DEFERRED",
-          "text_approved": false,
+          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "text_approved": true,
           "media_approved": false,
           "publication_time": null,
           "publication_time_approved": false,
@@ -515,8 +515,8 @@
           "title": "Сколько информации в приглашении уже слишком много?",
           "angle": "Когда приглашение превращается в пугающую инструкцию?",
           "hook": null,
-          "status": "AWAITING_TEXT_APPROVAL_TIMING_DEFERRED",
-          "text_approved": false,
+          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "text_approved": true,
           "media_approved": false,
           "publication_time": null,
           "publication_time_approved": false,
@@ -524,7 +524,7 @@
           "published": false,
           "review_display_number": 28,
           "review_package": ".agents/handoffs/threads-review-2026-11-28-12-01-v1.json",
-          "proposal_version": 1
+          "proposal_version": 2
         },
         {
           "order": 4,
@@ -532,8 +532,8 @@
           "title": "Гости выкладывают фотографии раньше пары",
           "angle": "Личные границы пары и понятная просьба в приглашении",
           "hook": "Нормально попросить гостей не выкладывать свадебные фото, пока вы сами ничего не опубликовали?",
-          "status": "AWAITING_TEXT_APPROVAL_TIMING_DEFERRED",
-          "text_approved": false,
+          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "text_approved": true,
           "media_approved": false,
           "publication_time": null,
           "publication_time_approved": false,
@@ -541,7 +541,7 @@
           "published": false,
           "review_display_number": 29,
           "review_package": ".agents/handoffs/threads-review-2026-11-28-12-01-v1.json",
-          "proposal_version": 1
+          "proposal_version": 3
         },
         {
           "order": 5,
@@ -549,8 +549,8 @@
           "title": "Концепция приглашения по трём словам из комментариев",
           "angle": "Попросить описать свадьбу тремя словами; выбрать идею и показать концепцию",
           "hook": null,
-          "status": "AWAITING_TEXT_APPROVAL_TIMING_DEFERRED",
-          "text_approved": false,
+          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "text_approved": true,
           "media_approved": false,
           "publication_time": null,
           "publication_time_approved": false,
@@ -562,7 +562,7 @@
         }
       ],
       "review_package": ".agents/handoffs/threads-review-2026-11-28-12-01-v1.json",
-      "status": "AWAITING_TEXT_APPROVAL_TIMING_DEFERRED"
+      "status": "TEXT_APPROVED_TIMING_NOT_APPROVED"
     },
     {
       "date": "2026-12-01",
@@ -573,8 +573,8 @@
           "title": "Дождь в день свадьбы",
           "angle": "Обсудить запасной вариант для церемонии на улице и информацию, которую стоит заранее дать гостям",
           "hook": "Невесты 2027, вы уже придумали план на случай дождя или пока договариваетесь с погодой? 🙂",
-          "status": "AWAITING_TEXT_APPROVAL_TIMING_DEFERRED",
-          "text_approved": false,
+          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "text_approved": true,
           "media_approved": false,
           "publication_time": null,
           "publication_time_approved": false,
@@ -590,8 +590,8 @@
           "title": "Фамилия после свадьбы",
           "angle": "Лёгкое обсуждение личного выбора, без оценки правильности решения и юридических советов",
           "hook": "Невесты 2027, фамилию меняете или уже привыкли к своей и не хотите заново со всеми знакомиться?",
-          "status": "AWAITING_TEXT_APPROVAL_TIMING_DEFERRED",
-          "text_approved": false,
+          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "text_approved": true,
           "media_approved": false,
           "publication_time": null,
           "publication_time_approved": false,
@@ -607,8 +607,8 @@
           "title": "Свадебный плейлист",
           "angle": "Собрать конкретные ответы; обсудить пожелания пары по музыке вне темы постановки первого танца",
           "hook": "Какую песню вы бы запретили включать на своей свадьбе, даже если её попросит самый любимый родственник?",
-          "status": "AWAITING_TEXT_APPROVAL_TIMING_DEFERRED",
-          "text_approved": false,
+          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "text_approved": true,
           "media_approved": false,
           "publication_time": null,
           "publication_time_approved": false,
@@ -624,8 +624,8 @@
           "title": "Еда и ограничения гостей",
           "angle": "Полезная ветка о добровольном уточнении пищевых ограничений при подтверждении участия, без медицинских рекомендаций",
           "hook": "В какой момент подготовки к свадьбе выясняется, что один не ест мясо, второй рыбу, а третьему нельзя орехи?",
-          "status": "AWAITING_TEXT_APPROVAL_TIMING_DEFERRED",
-          "text_approved": false,
+          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "text_approved": true,
           "media_approved": false,
           "publication_time": null,
           "publication_time_approved": false,
@@ -641,8 +641,8 @@
           "title": "Свадьба без ведущего",
           "angle": "Обсудить свободный формат праздника и то, кто берёт на себя организацию вечера",
           "hook": "Свадьба без ведущего — реально весело или в итоге ведущим становится самый громкий родственник? 🙂",
-          "status": "AWAITING_TEXT_APPROVAL_TIMING_DEFERRED",
-          "text_approved": false,
+          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "text_approved": true,
           "media_approved": false,
           "publication_time": null,
           "publication_time_approved": false,
@@ -654,7 +654,7 @@
         }
       ],
       "review_package": ".agents/handoffs/threads-review-2026-11-28-12-01-v1.json",
-      "status": "AWAITING_TEXT_APPROVAL_TIMING_DEFERRED"
+      "status": "TEXT_APPROVED_TIMING_NOT_APPROVED"
     }
   ],
   "rules": [
@@ -665,10 +665,11 @@
     "Do not recycle excluded original themes or the discarded photograph-collection version of idea 57.",
     "If a day was missed or its drafts were not approved, keep them unapproved. Do not move them into another day's publishing queue automatically.",
     "The texts for November 25–27 have already been prepared for advance review in .agents/handoffs/threads-review-2026-11-25-27-v1.json, display numbers 1–15. Read their latest approval/execution state before preparing anything. Do not generate unrequested replacement texts for these dates; if they are already approved or scheduled, report their real status instead of presenting a new competing package.",
-    "All 35 current week texts are now prepared in the two review packages. Use their latest approval and execution states rather than generating competing variants. The first package uses approved replacement ideas 58, 59, 60 at display numbers 7, 8, 12. Display numbers 16–35 are pending review in the second package. The user explicitly deferred time selection for all posts."
+    "All 35 current week texts are now prepared in the two review packages. Use their latest approval and execution states rather than generating competing variants. The first package uses approved replacement ideas 58, 59, 60 at display numbers 7, 8, 12. Display numbers 16–35 are pending review in the second package. The user explicitly deferred time selection for all posts.",
+    "All 35 final texts are approved. No publication date/time has been accepted for this week. Do not treat this status as permission to schedule; request agreement on dates/times separately when the user is ready."
   ],
   "text_review_summary": {
-    "approved": 15,
-    "pending": 20
+    "approved": 35,
+    "pending": 0
   }
 }
