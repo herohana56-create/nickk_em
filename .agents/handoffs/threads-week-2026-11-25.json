@@ -1,7 +1,7 @@
 {
   "plan_id": "threads-week-2026-11-25",
-  "version": 3,
-  "status": "ALL_35_TEXTS_APPROVED_TIMING_DEFERRED",
+  "version": 4,
+  "status": "ALL_35_SCHEDULED_VERIFIED",
   "timezone": "Asia/Vladivostok",
   "account": "nickkem_vl",
   "brand_id": "8224996",
@@ -21,16 +21,29 @@
           "title": "На чём готовы экономить, а на чём ни за что?",
           "angle": "Спросить невест 2027 про одну обязательную для них свадебную трату",
           "hook": null,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "text_approved": true,
           "media_approved": false,
-          "publication_time": null,
-          "publication_time_approved": false,
-          "scheduled": false,
+          "publication_time": "2026-11-25T09:02:00+10:00",
+          "publication_time_approved": true,
+          "scheduled": true,
           "published": false,
           "review_display_number": 1,
           "review_package": ".agents/handoffs/threads-review-2026-11-25-27-v1.json",
-          "proposal_version": 1
+          "proposal_version": 1,
+          "execution": {
+            "scheduled": true,
+            "published": false,
+            "metricool_post_id": "440183941",
+            "post_uuid": "2051161854556194259",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=2051161854556194259",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-25T09:02:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
+          }
         },
         {
           "order": 2,
@@ -38,16 +51,29 @@
           "title": "Нужно ли звать человека, который когда-то позвал вас?",
           "angle": "Свадебное приглашение как негласный долг",
           "hook": null,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "text_approved": true,
           "media_approved": false,
-          "publication_time": null,
-          "publication_time_approved": false,
-          "scheduled": false,
+          "publication_time": "2026-11-25T12:06:00+10:00",
+          "publication_time_approved": true,
+          "scheduled": true,
           "published": false,
           "review_display_number": 2,
           "review_package": ".agents/handoffs/threads-review-2026-11-25-27-v1.json",
-          "proposal_version": 1
+          "proposal_version": 1,
+          "execution": {
+            "scheduled": true,
+            "published": false,
+            "metricool_post_id": "440184024",
+            "post_uuid": "3957354934954574575",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=3957354934954574575",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-25T12:06:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
+          }
         },
         {
           "order": 3,
@@ -55,16 +81,29 @@
           "title": "Понятное описание дресс-кода",
           "angle": "Названия цветов, примеры одежды и степень строгости",
           "hook": null,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "text_approved": true,
           "media_approved": false,
-          "publication_time": null,
-          "publication_time_approved": false,
-          "scheduled": false,
+          "publication_time": "2026-11-25T15:03:00+10:00",
+          "publication_time_approved": true,
+          "scheduled": true,
           "published": false,
           "review_display_number": 3,
           "review_package": ".agents/handoffs/threads-review-2026-11-25-27-v1.json",
-          "proposal_version": 1
+          "proposal_version": 1,
+          "execution": {
+            "scheduled": true,
+            "published": false,
+            "metricool_post_id": "440184121",
+            "post_uuid": "-6121830009000539731",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-6121830009000539731",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-25T15:03:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
+          }
         },
         {
           "order": 4,
@@ -72,16 +111,29 @@
           "title": "Идеальная фотография или любимый живой снимок?",
           "angle": "Выбор между идеальной съёмкой и любимой непринуждённой фотографией",
           "hook": null,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "text_approved": true,
           "media_approved": false,
-          "publication_time": null,
-          "publication_time_approved": false,
-          "scheduled": false,
+          "publication_time": "2026-11-25T18:08:00+10:00",
+          "publication_time_approved": true,
+          "scheduled": true,
           "published": false,
           "review_display_number": 4,
           "review_package": ".agents/handoffs/threads-review-2026-11-25-27-v1.json",
-          "proposal_version": 1
+          "proposal_version": 1,
+          "execution": {
+            "scheduled": true,
+            "published": false,
+            "metricool_post_id": "440184199",
+            "post_uuid": "-8784396007585984661",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-8784396007585984661",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-25T18:08:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
+          }
         },
         {
           "order": 5,
@@ -89,20 +141,33 @@
           "title": "Что прислать для начала работы над приглашением?",
           "angle": "Дата, место, фотографии, пожелания и примеры",
           "hook": null,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "text_approved": true,
           "media_approved": false,
-          "publication_time": null,
-          "publication_time_approved": false,
-          "scheduled": false,
+          "publication_time": "2026-11-25T20:57:00+10:00",
+          "publication_time_approved": true,
+          "scheduled": true,
           "published": false,
           "review_display_number": 5,
           "review_package": ".agents/handoffs/threads-review-2026-11-25-27-v1.json",
-          "proposal_version": 1
+          "proposal_version": 1,
+          "execution": {
+            "scheduled": true,
+            "published": false,
+            "metricool_post_id": "440184263",
+            "post_uuid": "6607519854552171568",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=6607519854552171568",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-25T20:57:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
+          }
         }
       ],
       "review_package": ".agents/handoffs/threads-review-2026-11-25-27-v1.json",
-      "status": "TEXT_APPROVED_TIMING_NOT_APPROVED"
+      "status": "SCHEDULED"
     },
     {
       "date": "2026-11-26",
@@ -113,16 +178,29 @@
           "title": "\"Сделаем сами, так дешевле\" — что проще заказать?",
           "angle": "Что при подготовке оказалось проще заказать, чем делать своими руками?",
           "hook": null,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "text_approved": true,
           "media_approved": false,
-          "publication_time": null,
-          "publication_time_approved": false,
-          "scheduled": false,
+          "publication_time": "2026-11-26T09:07:00+10:00",
+          "publication_time_approved": true,
+          "scheduled": true,
           "published": false,
           "review_display_number": 6,
           "review_package": ".agents/handoffs/threads-review-2026-11-25-27-v1.json",
-          "proposal_version": 1
+          "proposal_version": 1,
+          "execution": {
+            "scheduled": true,
+            "published": false,
+            "metricool_post_id": "440184745",
+            "post_uuid": "2174425830283626048",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=2174425830283626048",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-26T09:07:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
+          }
         },
         {
           "order": 2,
@@ -130,16 +208,29 @@
           "title": "Совместный девичник и мальчишник",
           "angle": "Как реагировать на просьбу гостя взять с собой незнакомого человека?",
           "hook": null,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "text_approved": true,
           "media_approved": false,
-          "publication_time": null,
-          "publication_time_approved": false,
-          "scheduled": false,
+          "publication_time": "2026-11-26T12:03:00+10:00",
+          "publication_time_approved": true,
+          "scheduled": true,
           "published": false,
           "review_display_number": 7,
           "review_package": ".agents/handoffs/threads-review-2026-11-25-27-v1.json",
-          "proposal_version": 4
+          "proposal_version": 4,
+          "execution": {
+            "scheduled": true,
+            "published": false,
+            "metricool_post_id": "440184826",
+            "post_uuid": "-7383685998614983430",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-7383685998614983430",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-26T12:03:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
+          }
         },
         {
           "order": 3,
@@ -147,16 +238,29 @@
           "title": "Роль свидетелей на свадьбе",
           "angle": "Как убедиться, что гости увидели обновление?",
           "hook": null,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "text_approved": true,
           "media_approved": false,
-          "publication_time": null,
-          "publication_time_approved": false,
-          "scheduled": false,
+          "publication_time": "2026-11-26T15:09:00+10:00",
+          "publication_time_approved": true,
+          "scheduled": true,
           "published": false,
           "review_display_number": 8,
           "review_package": ".agents/handoffs/threads-review-2026-11-25-27-v1.json",
-          "proposal_version": 5
+          "proposal_version": 5,
+          "execution": {
+            "scheduled": true,
+            "published": false,
+            "metricool_post_id": "440184888",
+            "post_uuid": "-177803296139885054",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-177803296139885054",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-26T15:09:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
+          }
         },
         {
           "order": 4,
@@ -164,16 +268,29 @@
           "title": "Сравнить две версии истории знакомства",
           "angle": "Пара отдельно пишет по три предложения и сравнивает версии",
           "hook": null,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "text_approved": true,
           "media_approved": false,
-          "publication_time": null,
-          "publication_time_approved": false,
-          "scheduled": false,
+          "publication_time": "2026-11-26T18:04:00+10:00",
+          "publication_time_approved": true,
+          "scheduled": true,
           "published": false,
           "review_display_number": 9,
           "review_package": ".agents/handoffs/threads-review-2026-11-25-27-v1.json",
-          "proposal_version": 1
+          "proposal_version": 1,
+          "execution": {
+            "scheduled": true,
+            "published": false,
+            "metricool_post_id": "440185019",
+            "post_uuid": "6318356718820280131",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=6318356718820280131",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-26T18:04:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
+          }
         },
         {
           "order": 5,
@@ -181,20 +298,33 @@
           "title": "Можно прийти без готовой идеи оформления",
           "angle": "Вопросы, с которых начинается работа, когда пара не знает, чего хочет",
           "hook": null,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "text_approved": true,
           "media_approved": false,
-          "publication_time": null,
-          "publication_time_approved": false,
-          "scheduled": false,
+          "publication_time": "2026-11-26T20:59:00+10:00",
+          "publication_time_approved": true,
+          "scheduled": true,
           "published": false,
           "review_display_number": 10,
           "review_package": ".agents/handoffs/threads-review-2026-11-25-27-v1.json",
-          "proposal_version": 1
+          "proposal_version": 1,
+          "execution": {
+            "scheduled": true,
+            "published": false,
+            "metricool_post_id": "440185110",
+            "post_uuid": "-8016615495253540712",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-8016615495253540712",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-26T20:59:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
+          }
         }
       ],
       "review_package": ".agents/handoffs/threads-review-2026-11-25-27-v1.json",
-      "status": "TEXT_APPROVED_TIMING_NOT_APPROVED"
+      "status": "SCHEDULED"
     },
     {
       "date": "2026-11-27",
@@ -205,16 +335,29 @@
           "title": "Что убрали бы со свадьбы, если бы планировали заново?",
           "angle": "Вопрос уже женатым; собрать реальные ответы, не придумывать их",
           "hook": null,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "text_approved": true,
           "media_approved": false,
-          "publication_time": null,
-          "publication_time_approved": false,
-          "scheduled": false,
+          "publication_time": "2026-11-27T09:04:00+10:00",
+          "publication_time_approved": true,
+          "scheduled": true,
           "published": false,
           "review_display_number": 11,
           "review_package": ".agents/handoffs/threads-review-2026-11-25-27-v1.json",
-          "proposal_version": 1
+          "proposal_version": 1,
+          "execution": {
+            "scheduled": true,
+            "published": false,
+            "metricool_post_id": "440185561",
+            "post_uuid": "2116480824631837946",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=2116480824631837946",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-27T09:04:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
+          }
         },
         {
           "order": 2,
@@ -222,16 +365,29 @@
           "title": "Свадьба без алкоголя",
           "angle": "Кто определяет список гостей, когда у родителей свои пожелания?",
           "hook": null,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "text_approved": true,
           "media_approved": false,
-          "publication_time": null,
-          "publication_time_approved": false,
-          "scheduled": false,
+          "publication_time": "2026-11-27T12:08:00+10:00",
+          "publication_time_approved": true,
+          "scheduled": true,
           "published": false,
           "review_display_number": 12,
           "review_package": ".agents/handoffs/threads-review-2026-11-25-27-v1.json",
-          "proposal_version": 4
+          "proposal_version": 4,
+          "execution": {
+            "scheduled": true,
+            "published": false,
+            "metricool_post_id": "440185620",
+            "post_uuid": "6970534332372111096",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=6970534332372111096",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-27T12:08:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
+          }
         },
         {
           "order": 3,
@@ -239,16 +395,29 @@
           "title": "Информация для гостей из другого города",
           "angle": "Проживание, дорога, трансфер и неочевидные для приезжих детали",
           "hook": null,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "text_approved": true,
           "media_approved": false,
-          "publication_time": null,
-          "publication_time_approved": false,
-          "scheduled": false,
+          "publication_time": "2026-11-27T15:02:00+10:00",
+          "publication_time_approved": true,
+          "scheduled": true,
           "published": false,
           "review_display_number": 13,
           "review_package": ".agents/handoffs/threads-review-2026-11-25-27-v1.json",
-          "proposal_version": 1
+          "proposal_version": 1,
+          "execution": {
+            "scheduled": true,
+            "published": false,
+            "metricool_post_id": "440185690",
+            "post_uuid": "-6514455863781536370",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-6514455863781536370",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-27T15:02:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
+          }
         },
         {
           "order": 4,
@@ -256,16 +425,29 @@
           "title": "Приглашение на основе общей привычки пары",
           "angle": "Поездки, походы, настольные игры, кофе по воскресеньям",
           "hook": null,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "text_approved": true,
           "media_approved": false,
-          "publication_time": null,
-          "publication_time_approved": false,
-          "scheduled": false,
+          "publication_time": "2026-11-27T18:07:00+10:00",
+          "publication_time_approved": true,
+          "scheduled": true,
           "published": false,
           "review_display_number": 14,
           "review_package": ".agents/handoffs/threads-review-2026-11-25-27-v1.json",
-          "proposal_version": 1
+          "proposal_version": 1,
+          "execution": {
+            "scheduled": true,
+            "published": false,
+            "metricool_post_id": "440185773",
+            "post_uuid": "-7279153698560586946",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-7279153698560586946",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-27T18:07:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
+          }
         },
         {
           "order": 5,
@@ -273,20 +455,33 @@
           "title": "Почему оплата после того, как устроит результат",
           "angle": "Объяснить ранее согласованное условие оплаты",
           "hook": null,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "text_approved": true,
           "media_approved": false,
-          "publication_time": null,
-          "publication_time_approved": false,
-          "scheduled": false,
+          "publication_time": "2026-11-27T20:56:00+10:00",
+          "publication_time_approved": true,
+          "scheduled": true,
           "published": false,
           "review_display_number": 15,
           "review_package": ".agents/handoffs/threads-review-2026-11-25-27-v1.json",
-          "proposal_version": 1
+          "proposal_version": 1,
+          "execution": {
+            "scheduled": true,
+            "published": false,
+            "metricool_post_id": "440185866",
+            "post_uuid": "-1346711928224201315",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-1346711928224201315",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-27T20:56:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
+          }
         }
       ],
       "review_package": ".agents/handoffs/threads-review-2026-11-25-27-v1.json",
-      "status": "TEXT_APPROVED_TIMING_NOT_APPROVED"
+      "status": "SCHEDULED"
     },
     {
       "date": "2026-11-28",
@@ -297,16 +492,29 @@
           "title": "Красивая дата против удобной даты",
           "angle": "Готовы ли пары переплатить ради цифр в свидетельстве?",
           "hook": null,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "text_approved": true,
           "media_approved": false,
-          "publication_time": null,
-          "publication_time_approved": false,
-          "scheduled": false,
+          "publication_time": "2026-11-28T09:06:00+10:00",
+          "publication_time_approved": true,
+          "scheduled": true,
           "published": false,
           "review_display_number": 16,
           "review_package": ".agents/handoffs/threads-review-2026-11-28-12-01-v1.json",
-          "proposal_version": 2
+          "proposal_version": 2,
+          "execution": {
+            "scheduled": true,
+            "published": false,
+            "metricool_post_id": "440186355",
+            "post_uuid": "5590074980314923059",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=5590074980314923059",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-28T09:06:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
+          }
         },
         {
           "order": 2,
@@ -314,16 +522,29 @@
           "title": "Гость отменяет участие за день до свадьбы",
           "angle": "Какие причины отмены участия пара спокойно примет?",
           "hook": null,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "text_approved": true,
           "media_approved": false,
-          "publication_time": null,
-          "publication_time_approved": false,
-          "scheduled": false,
+          "publication_time": "2026-11-28T12:02:00+10:00",
+          "publication_time_approved": true,
+          "scheduled": true,
           "published": false,
           "review_display_number": 17,
           "review_package": ".agents/handoffs/threads-review-2026-11-28-12-01-v1.json",
-          "proposal_version": 1
+          "proposal_version": 1,
+          "execution": {
+            "scheduled": true,
+            "published": false,
+            "metricool_post_id": "440186444",
+            "post_uuid": "-7651106630483293012",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-7651106630483293012",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-28T12:02:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
+          }
         },
         {
           "order": 3,
@@ -331,16 +552,29 @@
           "title": "Указывать ли время окончания праздника?",
           "angle": "Планирование такси, присмотра за детьми и дороги домой",
           "hook": null,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "text_approved": true,
           "media_approved": false,
-          "publication_time": null,
-          "publication_time_approved": false,
-          "scheduled": false,
+          "publication_time": "2026-11-28T15:08:00+10:00",
+          "publication_time_approved": true,
+          "scheduled": true,
           "published": false,
           "review_display_number": 18,
           "review_package": ".agents/handoffs/threads-review-2026-11-28-12-01-v1.json",
-          "proposal_version": 1
+          "proposal_version": 1,
+          "execution": {
+            "scheduled": true,
+            "published": false,
+            "metricool_post_id": "440186543",
+            "post_uuid": "5498641061191435438",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=5498641061191435438",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-28T15:08:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
+          }
         },
         {
           "order": 4,
@@ -348,16 +582,29 @@
           "title": "Фраза из переписки в приглашении",
           "angle": "Фраза начала отношений или первое неловкое сообщение",
           "hook": null,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "text_approved": true,
           "media_approved": false,
-          "publication_time": null,
-          "publication_time_approved": false,
-          "scheduled": false,
+          "publication_time": "2026-11-28T18:03:00+10:00",
+          "publication_time_approved": true,
+          "scheduled": true,
           "published": false,
           "review_display_number": 19,
           "review_package": ".agents/handoffs/threads-review-2026-11-28-12-01-v1.json",
-          "proposal_version": 1
+          "proposal_version": 1,
+          "execution": {
+            "scheduled": true,
+            "published": false,
+            "metricool_post_id": "440186607",
+            "post_uuid": "560575288416684950",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=560575288416684950",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-28T18:03:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
+          }
         },
         {
           "order": 5,
@@ -365,20 +612,33 @@
           "title": "Что можно поменять после первого варианта?",
           "angle": "Обсуждение текста, фотографий и оформления без выдуманных клиентских историй",
           "hook": null,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "text_approved": true,
           "media_approved": false,
-          "publication_time": null,
-          "publication_time_approved": false,
-          "scheduled": false,
+          "publication_time": "2026-11-28T20:58:00+10:00",
+          "publication_time_approved": true,
+          "scheduled": true,
           "published": false,
           "review_display_number": 20,
           "review_package": ".agents/handoffs/threads-review-2026-11-28-12-01-v1.json",
-          "proposal_version": 2
+          "proposal_version": 2,
+          "execution": {
+            "scheduled": true,
+            "published": false,
+            "metricool_post_id": "440186677",
+            "post_uuid": "-4966346365608508547",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-4966346365608508547",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-28T20:58:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
+          }
         }
       ],
       "review_package": ".agents/handoffs/threads-review-2026-11-28-12-01-v1.json",
-      "status": "TEXT_APPROVED_TIMING_NOT_APPROVED"
+      "status": "SCHEDULED"
     },
     {
       "date": "2026-11-29",
@@ -389,16 +649,29 @@
           "title": "Какую часть подготовки жених взял на себя?",
           "angle": "Конкретные ответы женихов 2027 без шуток об их бесполезности",
           "hook": null,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "text_approved": true,
           "media_approved": false,
-          "publication_time": null,
-          "publication_time_approved": false,
-          "scheduled": false,
+          "publication_time": "2026-11-29T09:03:00+10:00",
+          "publication_time_approved": true,
+          "scheduled": true,
           "published": false,
           "review_display_number": 21,
           "review_package": ".agents/handoffs/threads-review-2026-11-28-12-01-v1.json",
-          "proposal_version": 1
+          "proposal_version": 1,
+          "execution": {
+            "scheduled": true,
+            "published": false,
+            "metricool_post_id": "440187191",
+            "post_uuid": "165627439672413752",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=165627439672413752",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-29T09:03:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
+          }
         },
         {
           "order": 2,
@@ -406,16 +679,29 @@
           "title": "Что делать с гостями, которые пока не знают?",
           "angle": "Как обозначить срок ответа, сохранив нормальный тон?",
           "hook": null,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "text_approved": true,
           "media_approved": false,
-          "publication_time": null,
-          "publication_time_approved": false,
-          "scheduled": false,
+          "publication_time": "2026-11-29T12:09:00+10:00",
+          "publication_time_approved": true,
+          "scheduled": true,
           "published": false,
           "review_display_number": 22,
           "review_package": ".agents/handoffs/threads-review-2026-11-28-12-01-v1.json",
-          "proposal_version": 1
+          "proposal_version": 1,
+          "execution": {
+            "scheduled": true,
+            "published": false,
+            "metricool_post_id": "440187260",
+            "post_uuid": "-6319635788285653815",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-6319635788285653815",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-29T12:09:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
+          }
         },
         {
           "order": 3,
@@ -423,16 +709,29 @@
           "title": "Три вещи на первом экране приглашения",
           "angle": "Предложить выбрать три вещи, которые гости хотят видеть сразу",
           "hook": null,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "text_approved": true,
           "media_approved": false,
-          "publication_time": null,
-          "publication_time_approved": false,
-          "scheduled": false,
+          "publication_time": "2026-11-29T15:05:00+10:00",
+          "publication_time_approved": true,
+          "scheduled": true,
           "published": false,
           "review_display_number": 23,
           "review_package": ".agents/handoffs/threads-review-2026-11-28-12-01-v1.json",
-          "proposal_version": 1
+          "proposal_version": 1,
+          "execution": {
+            "scheduled": true,
+            "published": false,
+            "metricool_post_id": "440187356",
+            "post_uuid": "-6102672060344153059",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-6102672060344153059",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-29T15:05:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
+          }
         },
         {
           "order": 4,
@@ -440,16 +739,29 @@
           "title": "Питомец на свадьбе",
           "angle": "Забавная, но конкретная организационная задача; предложить аудитории поделиться опытом",
           "hook": "Взять собаку на свадьбу — милая идея или потом весь день выяснять, кто сейчас с собакой? 🙂",
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "text_approved": true,
           "media_approved": false,
-          "publication_time": null,
-          "publication_time_approved": false,
-          "scheduled": false,
+          "publication_time": "2026-11-29T18:02:00+10:00",
+          "publication_time_approved": true,
+          "scheduled": true,
           "published": false,
           "review_display_number": 24,
           "review_package": ".agents/handoffs/threads-review-2026-11-28-12-01-v1.json",
-          "proposal_version": 1
+          "proposal_version": 1,
+          "execution": {
+            "scheduled": true,
+            "published": false,
+            "metricool_post_id": "440187412",
+            "post_uuid": "-527663590826622941",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-527663590826622941",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-29T18:02:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
+          }
         },
         {
           "order": 5,
@@ -457,20 +769,33 @@
           "title": "Приглашение как экскурсия по истории пары",
           "angle": "Любимая песня, место первого свидания и детали для друзей",
           "hook": null,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "text_approved": true,
           "media_approved": false,
-          "publication_time": null,
-          "publication_time_approved": false,
-          "scheduled": false,
+          "publication_time": "2026-11-29T20:57:00+10:00",
+          "publication_time_approved": true,
+          "scheduled": true,
           "published": false,
           "review_display_number": 25,
           "review_package": ".agents/handoffs/threads-review-2026-11-28-12-01-v1.json",
-          "proposal_version": 1
+          "proposal_version": 1,
+          "execution": {
+            "scheduled": true,
+            "published": false,
+            "metricool_post_id": "440187503",
+            "post_uuid": "8564739963938424420",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=8564739963938424420",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-29T20:57:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
+          }
         }
       ],
       "review_package": ".agents/handoffs/threads-review-2026-11-28-12-01-v1.json",
-      "status": "TEXT_APPROVED_TIMING_NOT_APPROVED"
+      "status": "SCHEDULED"
     },
     {
       "date": "2026-11-30",
@@ -481,16 +806,29 @@
           "title": "Регистрация и праздник в разные дни",
           "angle": "Меньше суеты или подготовка сразу к двум событиям?",
           "hook": null,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "text_approved": true,
           "media_approved": false,
-          "publication_time": null,
-          "publication_time_approved": false,
-          "scheduled": false,
+          "publication_time": "2026-11-30T09:08:00+10:00",
+          "publication_time_approved": true,
+          "scheduled": true,
           "published": false,
           "review_display_number": 26,
           "review_package": ".agents/handoffs/threads-review-2026-11-28-12-01-v1.json",
-          "proposal_version": 1
+          "proposal_version": 1,
+          "execution": {
+            "scheduled": true,
+            "published": false,
+            "metricool_post_id": "440187904",
+            "post_uuid": "-3563018276576474771",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-3563018276576474771",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-30T09:08:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
+          }
         },
         {
           "order": 2,
@@ -498,16 +836,29 @@
           "title": "Первый танец без постановки",
           "angle": "Обняться и потанцевать либо подготовить номер",
           "hook": null,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "text_approved": true,
           "media_approved": false,
-          "publication_time": null,
-          "publication_time_approved": false,
-          "scheduled": false,
+          "publication_time": "2026-11-30T12:04:00+10:00",
+          "publication_time_approved": true,
+          "scheduled": true,
           "published": false,
           "review_display_number": 27,
           "review_package": ".agents/handoffs/threads-review-2026-11-28-12-01-v1.json",
-          "proposal_version": 1
+          "proposal_version": 1,
+          "execution": {
+            "scheduled": true,
+            "published": false,
+            "metricool_post_id": "440188007",
+            "post_uuid": "7996380432261005533",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=7996380432261005533",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-30T12:04:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
+          }
         },
         {
           "order": 3,
@@ -515,16 +866,29 @@
           "title": "Сколько информации в приглашении уже слишком много?",
           "angle": "Когда приглашение превращается в пугающую инструкцию?",
           "hook": null,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "text_approved": true,
           "media_approved": false,
-          "publication_time": null,
-          "publication_time_approved": false,
-          "scheduled": false,
+          "publication_time": "2026-11-30T15:07:00+10:00",
+          "publication_time_approved": true,
+          "scheduled": true,
           "published": false,
           "review_display_number": 28,
           "review_package": ".agents/handoffs/threads-review-2026-11-28-12-01-v1.json",
-          "proposal_version": 2
+          "proposal_version": 2,
+          "execution": {
+            "scheduled": true,
+            "published": false,
+            "metricool_post_id": "440188078",
+            "post_uuid": "-8192434162685492773",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-8192434162685492773",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-30T15:07:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
+          }
         },
         {
           "order": 4,
@@ -532,16 +896,29 @@
           "title": "Гости выкладывают фотографии раньше пары",
           "angle": "Личные границы пары и понятная просьба в приглашении",
           "hook": "Нормально попросить гостей не выкладывать свадебные фото, пока вы сами ничего не опубликовали?",
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "text_approved": true,
           "media_approved": false,
-          "publication_time": null,
-          "publication_time_approved": false,
-          "scheduled": false,
+          "publication_time": "2026-11-30T18:06:00+10:00",
+          "publication_time_approved": true,
+          "scheduled": true,
           "published": false,
           "review_display_number": 29,
           "review_package": ".agents/handoffs/threads-review-2026-11-28-12-01-v1.json",
-          "proposal_version": 3
+          "proposal_version": 3,
+          "execution": {
+            "scheduled": true,
+            "published": false,
+            "metricool_post_id": "440188145",
+            "post_uuid": "3711184873405697895",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=3711184873405697895",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-30T18:06:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
+          }
         },
         {
           "order": 5,
@@ -549,20 +926,33 @@
           "title": "Концепция приглашения по трём словам из комментариев",
           "angle": "Попросить описать свадьбу тремя словами; выбрать идею и показать концепцию",
           "hook": null,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "text_approved": true,
           "media_approved": false,
-          "publication_time": null,
-          "publication_time_approved": false,
-          "scheduled": false,
+          "publication_time": "2026-11-30T20:59:00+10:00",
+          "publication_time_approved": true,
+          "scheduled": true,
           "published": false,
           "review_display_number": 30,
           "review_package": ".agents/handoffs/threads-review-2026-11-28-12-01-v1.json",
-          "proposal_version": 1
+          "proposal_version": 1,
+          "execution": {
+            "scheduled": true,
+            "published": false,
+            "metricool_post_id": "440188202",
+            "post_uuid": "-6400208427887410393",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-6400208427887410393",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-30T20:59:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
+          }
         }
       ],
       "review_package": ".agents/handoffs/threads-review-2026-11-28-12-01-v1.json",
-      "status": "TEXT_APPROVED_TIMING_NOT_APPROVED"
+      "status": "SCHEDULED"
     },
     {
       "date": "2026-12-01",
@@ -573,16 +963,29 @@
           "title": "Дождь в день свадьбы",
           "angle": "Обсудить запасной вариант для церемонии на улице и информацию, которую стоит заранее дать гостям",
           "hook": "Невесты 2027, вы уже придумали план на случай дождя или пока договариваетесь с погодой? 🙂",
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "text_approved": true,
           "media_approved": false,
-          "publication_time": null,
-          "publication_time_approved": false,
-          "scheduled": false,
+          "publication_time": "2026-12-01T09:05:00+10:00",
+          "publication_time_approved": true,
+          "scheduled": true,
           "published": false,
           "review_display_number": 31,
           "review_package": ".agents/handoffs/threads-review-2026-11-28-12-01-v1.json",
-          "proposal_version": 1
+          "proposal_version": 1,
+          "execution": {
+            "scheduled": true,
+            "published": false,
+            "metricool_post_id": "440188577",
+            "post_uuid": "-5403484188124036755",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-5403484188124036755",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-12-01T09:05:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
+          }
         },
         {
           "order": 2,
@@ -590,16 +993,29 @@
           "title": "Фамилия после свадьбы",
           "angle": "Лёгкое обсуждение личного выбора, без оценки правильности решения и юридических советов",
           "hook": "Невесты 2027, фамилию меняете или уже привыкли к своей и не хотите заново со всеми знакомиться?",
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "text_approved": true,
           "media_approved": false,
-          "publication_time": null,
-          "publication_time_approved": false,
-          "scheduled": false,
+          "publication_time": "2026-12-01T12:07:00+10:00",
+          "publication_time_approved": true,
+          "scheduled": true,
           "published": false,
           "review_display_number": 32,
           "review_package": ".agents/handoffs/threads-review-2026-11-28-12-01-v1.json",
-          "proposal_version": 1
+          "proposal_version": 1,
+          "execution": {
+            "scheduled": true,
+            "published": false,
+            "metricool_post_id": "440188715",
+            "post_uuid": "1645364627171855323",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=1645364627171855323",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-12-01T12:07:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
+          }
         },
         {
           "order": 3,
@@ -607,16 +1023,29 @@
           "title": "Свадебный плейлист",
           "angle": "Собрать конкретные ответы; обсудить пожелания пары по музыке вне темы постановки первого танца",
           "hook": "Какую песню вы бы запретили включать на своей свадьбе, даже если её попросит самый любимый родственник?",
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "text_approved": true,
           "media_approved": false,
-          "publication_time": null,
-          "publication_time_approved": false,
-          "scheduled": false,
+          "publication_time": "2026-12-01T15:04:00+10:00",
+          "publication_time_approved": true,
+          "scheduled": true,
           "published": false,
           "review_display_number": 33,
           "review_package": ".agents/handoffs/threads-review-2026-11-28-12-01-v1.json",
-          "proposal_version": 1
+          "proposal_version": 1,
+          "execution": {
+            "scheduled": true,
+            "published": false,
+            "metricool_post_id": "440188823",
+            "post_uuid": "5231357759478842815",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=5231357759478842815",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-12-01T15:04:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
+          }
         },
         {
           "order": 4,
@@ -624,16 +1053,29 @@
           "title": "Еда и ограничения гостей",
           "angle": "Полезная ветка о добровольном уточнении пищевых ограничений при подтверждении участия, без медицинских рекомендаций",
           "hook": "В какой момент подготовки к свадьбе выясняется, что один не ест мясо, второй рыбу, а третьему нельзя орехи?",
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "text_approved": true,
           "media_approved": false,
-          "publication_time": null,
-          "publication_time_approved": false,
-          "scheduled": false,
+          "publication_time": "2026-12-01T18:09:00+10:00",
+          "publication_time_approved": true,
+          "scheduled": true,
           "published": false,
           "review_display_number": 34,
           "review_package": ".agents/handoffs/threads-review-2026-11-28-12-01-v1.json",
-          "proposal_version": 1
+          "proposal_version": 1,
+          "execution": {
+            "scheduled": true,
+            "published": false,
+            "metricool_post_id": "440188913",
+            "post_uuid": "-381328203330728461",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-381328203330728461",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-12-01T18:09:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
+          }
         },
         {
           "order": 5,
@@ -641,20 +1083,33 @@
           "title": "Свадьба без ведущего",
           "angle": "Обсудить свободный формат праздника и то, кто берёт на себя организацию вечера",
           "hook": "Свадьба без ведущего — реально весело или в итоге ведущим становится самый громкий родственник? 🙂",
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "text_approved": true,
           "media_approved": false,
-          "publication_time": null,
-          "publication_time_approved": false,
-          "scheduled": false,
+          "publication_time": "2026-12-01T20:58:00+10:00",
+          "publication_time_approved": true,
+          "scheduled": true,
           "published": false,
           "review_display_number": 35,
           "review_package": ".agents/handoffs/threads-review-2026-11-28-12-01-v1.json",
-          "proposal_version": 1
+          "proposal_version": 1,
+          "execution": {
+            "scheduled": true,
+            "published": false,
+            "metricool_post_id": "440188998",
+            "post_uuid": "-5858290545156338458",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-5858290545156338458",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-12-01T20:58:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
+          }
         }
       ],
       "review_package": ".agents/handoffs/threads-review-2026-11-28-12-01-v1.json",
-      "status": "TEXT_APPROVED_TIMING_NOT_APPROVED"
+      "status": "SCHEDULED"
     }
   ],
   "rules": [
@@ -666,10 +1121,24 @@
     "If a day was missed or its drafts were not approved, keep them unapproved. Do not move them into another day's publishing queue automatically.",
     "The texts for November 25–27 have already been prepared for advance review in .agents/handoffs/threads-review-2026-11-25-27-v1.json, display numbers 1–15. Read their latest approval/execution state before preparing anything. Do not generate unrequested replacement texts for these dates; if they are already approved or scheduled, report their real status instead of presenting a new competing package.",
     "All 35 current week texts are now prepared in the two review packages. Use their latest approval and execution states rather than generating competing variants. The first package uses approved replacement ideas 58, 59, 60 at display numbers 7, 8, 12. Display numbers 16–35 are pending review in the second package. The user explicitly deferred time selection for all posts.",
-    "All 35 final texts are approved. No publication date/time has been accepted for this week. Do not treat this status as permission to schedule; request agreement on dates/times separately when the user is ready."
+    "All 35 final texts are approved. No publication date/time has been accepted for this week. Do not treat this status as permission to schedule; request agreement on dates/times separately when the user is ready.",
+    "All 35 posts have now been scheduled and read back from Metricool under the user's delegated timing instruction. They cover November 25 through December 1 inclusive. Do not create duplicate scheduled entries or regenerate replacements for this week. Timing-deferred notes above are historical and superseded."
   ],
   "text_review_summary": {
     "approved": 35,
     "pending": 0
-  }
+  },
+  "timing_authorization": {
+    "approved_by_user": true,
+    "selection_delegated": true,
+    "timezone": "Asia/Vladivostok",
+    "daily_window": "09:00–21:00",
+    "posts_per_day": 5,
+    "spacing": "Approximately equal intervals with non-round minutes",
+    "evidence": "Вперёд. ... в течение дня, с утра, с девяти ... до девяти ... плюс-минус равные промежутки ... выставляй не ровно ... в 9:02 ... в день по пять постов, все согласованные распредели"
+  },
+  "execution_journal": ".agents/handoffs/threads-scheduling-2026-11-25-12-01.json",
+  "scheduled_count": 35,
+  "content_scheduled_through": "2026-12-01",
+  "last_scheduled_at": "2026-12-01T20:58:00+10:00"
 }
