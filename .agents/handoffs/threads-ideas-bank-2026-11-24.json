@@ -1,9 +1,9 @@
 {
   "bank_id": "threads-ideas-bank-2026-11-24",
-  "version": 1,
+  "version": 2,
   "account": "nickkem_vl",
   "timezone": "Asia/Vladivostok",
-  "status": "IDEAS_MODERATED_POSTS_NOT_APPROVED",
+  "status": "ALL_35_IDEAS_SELECTED_POSTS_NOT_APPROVED",
   "source": "50 ideas shown in this chat; user selected all except the listed original numbers",
   "original_numbering_preserved": true,
   "selected_ids": [
@@ -34,7 +34,14 @@
     47,
     48,
     49,
-    50
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57
   ],
   "excluded_ids": [
     3,
@@ -60,13 +67,13 @@
     34,
     36
   ],
-  "selected_count": 28,
+  "selected_count": 35,
   "excluded_count": 22,
   "weekly_target": {
     "days": 7,
     "posts_per_day": 5,
     "needed": 35,
-    "missing_selected_ideas": 7,
+    "missing_selected_ideas": 0,
     "schedule_approved": false
   },
   "ideas": [
@@ -447,6 +454,70 @@
       "selection": "SELECTED_BY_USER",
       "post_text_approved": false,
       "publication_time_approved": false
+    },
+    {
+      "id": 51,
+      "title": "Дождь в день свадьбы",
+      "hook": "Невесты 2027, вы уже придумали план на случай дождя или пока договариваетесь с погодой? 🙂",
+      "angle": "Обсудить запасной вариант для церемонии на улице и информацию, которую стоит заранее дать гостям",
+      "selection": "SELECTED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 52,
+      "title": "Гости выкладывают фотографии раньше пары",
+      "hook": "Нормально попросить гостей не выкладывать свадебные фото, пока вы сами ничего не опубликовали?",
+      "angle": "Личные границы пары и понятная просьба в приглашении",
+      "selection": "SELECTED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 53,
+      "title": "Фамилия после свадьбы",
+      "hook": "Невесты 2027, фамилию меняете или уже привыкли к своей и не хотите заново со всеми знакомиться?",
+      "angle": "Лёгкое обсуждение личного выбора, без оценки правильности решения и юридических советов",
+      "selection": "SELECTED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 54,
+      "title": "Питомец на свадьбе",
+      "hook": "Взять собаку на свадьбу — милая идея или потом весь день выяснять, кто сейчас с собакой? 🙂",
+      "angle": "Забавная, но конкретная организационная задача; предложить аудитории поделиться опытом",
+      "selection": "SELECTED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 55,
+      "title": "Свадебный плейлист",
+      "hook": "Какую песню вы бы запретили включать на своей свадьбе, даже если её попросит самый любимый родственник?",
+      "angle": "Собрать конкретные ответы; обсудить пожелания пары по музыке вне темы постановки первого танца",
+      "selection": "SELECTED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 56,
+      "title": "Еда и ограничения гостей",
+      "hook": "В какой момент подготовки к свадьбе выясняется, что один не ест мясо, второй рыбу, а третьему нельзя орехи?",
+      "angle": "Полезная ветка о добровольном уточнении пищевых ограничений при подтверждении участия, без медицинских рекомендаций",
+      "selection": "SELECTED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false
+    },
+    {
+      "id": 57,
+      "title": "Свадьба без ведущего",
+      "hook": "Свадьба без ведущего — реально весело или в итоге ведущим становится самый громкий родственник? 🙂",
+      "angle": "Обсудить свободный формат праздника и то, кто берёт на себя организацию вечера",
+      "selection": "SELECTED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false,
+      "revision": 2
     }
   ],
   "instructions": [
@@ -454,5 +525,19 @@
     "Selection approves topics, not final post text, images, account/time or publication.",
     "Keep original numbers for moderation. Do not infer why a topic was excluded; no reasons were supplied.",
     "Prepare publication drafts and a weekly plan only from selected ideas or newly reviewed replacements. No new Metricool posts were created by this decision."
+  ],
+  "original_selected_count": 28,
+  "additions_selected_count": 7,
+  "rejected_revisions": [
+    {
+      "id": 57,
+      "title": "Фотографии с телефонов гостей после свадьбы",
+      "hook": "После свадьбы начинается ещё один квест: найти человека, который снимал тот самый момент, когда все смеялись",
+      "angle": "Обсудить простой способ заранее договориться, куда гости потом отправят фото и видео; не обещать неподтверждённые функции сайта",
+      "selection": "EXCLUDED_BY_USER",
+      "post_text_approved": false,
+      "publication_time_approved": false,
+      "reason": null
+    }
   ]
 }
