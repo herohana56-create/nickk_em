@@ -1,6 +1,6 @@
 {
   "bank_id": "threads-ideas-bank-2026-11-24",
-  "version": 2,
+  "version": 3,
   "account": "nickkem_vl",
   "timezone": "Asia/Vladivostok",
   "status": "ALL_35_IDEAS_SELECTED_POSTS_NOT_APPROVED",
@@ -12,8 +12,6 @@
     6,
     8,
     11,
-    12,
-    13,
     16,
     20,
     21,
@@ -21,7 +19,6 @@
     27,
     31,
     35,
-    37,
     38,
     39,
     40,
@@ -41,7 +38,10 @@
     54,
     55,
     56,
-    57
+    57,
+    58,
+    59,
+    60
   ],
   "excluded_ids": [
     3,
@@ -163,17 +163,21 @@
       "id": 12,
       "title": "Можно ли гостю взять незнакомого паре спутника?",
       "angle": "Как реагировать на просьбу гостя взять с собой незнакомого человека?",
-      "selection": "SELECTED_BY_USER",
+      "selection": "REPLACED_IN_CURRENT_WEEK",
       "post_text_approved": false,
-      "publication_time_approved": false
+      "publication_time_approved": false,
+      "previous_selection": "SELECTED_BY_USER",
+      "replaced_by_idea_id": 58
     },
     {
       "id": 13,
       "title": "Родители хотят позвать своих друзей",
       "angle": "Кто определяет список гостей, когда у родителей свои пожелания?",
-      "selection": "SELECTED_BY_USER",
+      "selection": "REPLACED_IN_CURRENT_WEEK",
       "post_text_approved": false,
-      "publication_time_approved": false
+      "publication_time_approved": false,
+      "previous_selection": "SELECTED_BY_USER",
+      "replaced_by_idea_id": 60
     },
     {
       "id": 14,
@@ -347,9 +351,11 @@
       "id": 37,
       "title": "Изменения времени или площадки после рассылки",
       "angle": "Как убедиться, что гости увидели обновление?",
-      "selection": "SELECTED_BY_USER",
+      "selection": "REPLACED_IN_CURRENT_WEEK",
       "post_text_approved": false,
-      "publication_time_approved": false
+      "publication_time_approved": false,
+      "previous_selection": "SELECTED_BY_USER",
+      "replaced_by_idea_id": 59
     },
     {
       "id": 38,
@@ -518,13 +524,41 @@
       "post_text_approved": false,
       "publication_time_approved": false,
       "revision": 2
+    },
+    {
+      "id": 58,
+      "title": "Совместный девичник и мальчишник",
+      "hook": "Совместный девичник и мальчишник — нормальная идея или хочется хотя бы этот вечер провести раздельно? 🙂",
+      "selection": "SELECTED_BY_USER",
+      "post_text_approved": true,
+      "publication_time_approved": false,
+      "replaces_idea_id": 12
+    },
+    {
+      "id": 59,
+      "title": "Роль свидетелей на свадьбе",
+      "hook": "Как считаете, свидетели на свадьбе — это ещё актуально или уже пережиток прошлого?",
+      "selection": "SELECTED_BY_USER",
+      "post_text_approved": true,
+      "publication_time_approved": false,
+      "replaces_idea_id": 37
+    },
+    {
+      "id": 60,
+      "title": "Свадьба без алкоголя",
+      "hook": "Свадьба без алкоголя: вы бы спокойно пришли или начали договариваться насчёт \"ну хотя бы шампанского\"?",
+      "selection": "SELECTED_BY_USER",
+      "post_text_approved": true,
+      "publication_time_approved": false,
+      "replaces_idea_id": 13
     }
   ],
   "instructions": [
     "Use this as the latest topic selection; excluded themes should not be proposed again as if selected.",
     "Selection approves topics, not final post text, images, account/time or publication.",
     "Keep original numbers for moderation. Do not infer why a topic was excluded; no reasons were supplied.",
-    "Prepare publication drafts and a weekly plan only from selected ideas or newly reviewed replacements. No new Metricool posts were created by this decision."
+    "Prepare publication drafts and a weekly plan only from selected ideas or newly reviewed replacements. No new Metricool posts were created by this decision.",
+    "The user accepted new replacement themes 58, 59, 60 for the first-three-day review. They replace original ideas 12, 37, 13 in this week. The rejected duplicate proposals based on 55, 51, 57 do not move those ideas from December 1."
   ],
   "original_selected_count": 28,
   "additions_selected_count": 7,
@@ -539,5 +573,6 @@
       "publication_time_approved": false,
       "reason": null
     }
-  ]
+  ],
+  "replaced_count": 3
 }
