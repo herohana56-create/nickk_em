@@ -1,7 +1,7 @@
 {
   "bank_id": "threads-ideas-bank-2026-11-24",
   "addition_id": "threads-ideas-additions-2026-11-24",
-  "status": "SIX_SELECTED_REPLACEMENT_57_AWAITING_APPROVAL",
+  "status": "ALL_ADDITIONAL_IDEAS_SELECTED_POSTS_NOT_APPROVED",
   "account": "nickkem_vl",
   "original_selected_count": 28,
   "proposed_additional_count": 7,
@@ -66,7 +66,7 @@
       "title": "Свадьба без ведущего",
       "hook": "Свадьба без ведущего — реально весело или в итоге ведущим становится самый громкий родственник? 🙂",
       "angle": "Обсудить свободный формат праздника и то, кто берёт на себя организацию вечера",
-      "selection": "PROPOSED_NOT_APPROVED",
+      "selection": "SELECTED_BY_USER",
       "post_text_approved": false,
       "publication_time_approved": false,
       "revision": 2
@@ -74,7 +74,7 @@
   ],
   "instructions": [
     "Keep numbers 51–57 for moderation.",
-    "These are proposed additional topics, not approved posts or a publishing schedule.",
+    "All seven final topic ideas are selected; final posts, media and publication times still require explicit approval.",
     "Do not replace the 28 selected original ideas or reintroduce the 22 excluded original ideas.",
     "Prepare a weekly plan after topic selection; obtain explicit approval of final texts, media, profile and publication times before any Metricool write."
   ],
@@ -96,9 +96,11 @@
     53,
     54,
     55,
-    56
+    56,
+    57
   ],
-  "selected_additional_count": 6,
-  "total_selected_with_original_bank": 34,
-  "user_decision": "Всё оставляем, кроме 57. Давай его заменим."
+  "selected_additional_count": 7,
+  "total_selected_with_original_bank": 35,
+  "user_decision": "Всё оставляем, кроме 57. Давай его заменим.",
+  "user_decision_57": "да"
 }
