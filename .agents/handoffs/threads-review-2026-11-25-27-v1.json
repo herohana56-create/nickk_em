@@ -1,7 +1,7 @@
 {
   "package_id": "threads-review-2026-11-25-27-v1",
-  "version": 6,
-  "status": "ALL_15_TEXTS_APPROVED_TIMING_DEFERRED",
+  "version": 7,
+  "status": "ALL_POSTS_SCHEDULED_VERIFIED",
   "account": "nickkem_vl",
   "brand_id": "8224996",
   "timezone": "Asia/Vladivostok",
@@ -15,26 +15,36 @@
           "idea_id": 1,
           "title": "На чём готовы экономить, а на чём ни за что?",
           "version": 1,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Невесты 2027, на чём вы готовы сэкономить, а где сразу говорите \"даже не предлагайте\"? 🙂",
             "media": [],
-            "publish_at": "2026-11-25T12:17:00+10:00"
+            "publish_at": "2026-11-25T09:02:00+10:00"
           },
           "approval": {
-            "approved_by_user": false,
-            "publication_time_approved": false,
+            "approved_by_user": true,
+            "publication_time_approved": true,
             "text_approved": true,
             "approved_text": "Невесты 2027, на чём вы готовы сэкономить, а где сразу говорите \"даже не предлагайте\"? 🙂",
             "approved_text_version": 1,
-            "evidence": "Мне всё нравится, кроме седьмого, восьмого и двенадцатого"
+            "evidence": "Мне всё нравится, кроме седьмого, восьмого и двенадцатого",
+            "media_approved": true,
+            "timing_selection_delegated_by_user": true
           },
           "execution": {
-            "scheduled": false,
+            "scheduled": true,
             "published": false,
-            "metricool_post_id": null,
-            "post_url": null
+            "metricool_post_id": "440183941",
+            "post_url": null,
+            "post_uuid": "2051161854556194259",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=2051161854556194259",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-25T09:02:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
           }
         },
         {
@@ -42,26 +52,36 @@
           "idea_id": 11,
           "title": "Нужно ли звать человека, который когда-то позвал вас?",
           "version": 1,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Вы были у друзей на свадьбе. Теперь женитесь сами, но хотите праздник в два раза меньше\n\nНужно звать их в ответ или это всё-таки не взаимозачёт?",
             "media": [],
-            "publish_at": "2026-11-25T14:36:00+10:00"
+            "publish_at": "2026-11-25T12:06:00+10:00"
           },
           "approval": {
-            "approved_by_user": false,
-            "publication_time_approved": false,
+            "approved_by_user": true,
+            "publication_time_approved": true,
             "text_approved": true,
             "approved_text": "Вы были у друзей на свадьбе. Теперь женитесь сами, но хотите праздник в два раза меньше\n\nНужно звать их в ответ или это всё-таки не взаимозачёт?",
             "approved_text_version": 1,
-            "evidence": "Мне всё нравится, кроме седьмого, восьмого и двенадцатого"
+            "evidence": "Мне всё нравится, кроме седьмого, восьмого и двенадцатого",
+            "media_approved": true,
+            "timing_selection_delegated_by_user": true
           },
           "execution": {
-            "scheduled": false,
+            "scheduled": true,
             "published": false,
-            "metricool_post_id": null,
-            "post_url": null
+            "metricool_post_id": "440184024",
+            "post_url": null,
+            "post_uuid": "3957354934954574575",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=3957354934954574575",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-25T12:06:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
           }
         },
         {
@@ -69,26 +89,36 @@
           "idea_id": 31,
           "title": "Понятное описание дресс-кода",
           "version": 1,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Написать в приглашении \"пыльная роза\" — красиво\n\nДобавить фото одежды такого цвета — заботливо\n\nЧтобы гости выбирали наряд, а не защищали диплом по оттенкам 🙂",
             "media": [],
-            "publish_at": "2026-11-25T16:48:00+10:00"
+            "publish_at": "2026-11-25T15:03:00+10:00"
           },
           "approval": {
-            "approved_by_user": false,
-            "publication_time_approved": false,
+            "approved_by_user": true,
+            "publication_time_approved": true,
             "text_approved": true,
             "approved_text": "Написать в приглашении \"пыльная роза\" — красиво\n\nДобавить фото одежды такого цвета — заботливо\n\nЧтобы гости выбирали наряд, а не защищали диплом по оттенкам 🙂",
             "approved_text_version": 1,
-            "evidence": "Мне всё нравится, кроме седьмого, восьмого и двенадцатого"
+            "evidence": "Мне всё нравится, кроме седьмого, восьмого и двенадцатого",
+            "media_approved": true,
+            "timing_selection_delegated_by_user": true
           },
           "execution": {
-            "scheduled": false,
+            "scheduled": true,
             "published": false,
-            "metricool_post_id": null,
-            "post_url": null
+            "metricool_post_id": "440184121",
+            "post_url": null,
+            "post_uuid": "-6121830009000539731",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-6121830009000539731",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-25T15:03:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
           }
         },
         {
@@ -96,26 +126,36 @@
           "idea_id": 41,
           "title": "Идеальная фотография или любимый живой снимок?",
           "version": 1,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Что бы вы поставили на обложку свадебного приглашения: идеальную фотку со съёмки или ту, где вы оба ржёте и у одного закрыты глаза?",
             "media": [],
-            "publish_at": "2026-11-25T19:13:00+10:00"
+            "publish_at": "2026-11-25T18:08:00+10:00"
           },
           "approval": {
-            "approved_by_user": false,
-            "publication_time_approved": false,
+            "approved_by_user": true,
+            "publication_time_approved": true,
             "text_approved": true,
             "approved_text": "Что бы вы поставили на обложку свадебного приглашения: идеальную фотку со съёмки или ту, где вы оба ржёте и у одного закрыты глаза?",
             "approved_text_version": 1,
-            "evidence": "Мне всё нравится, кроме седьмого, восьмого и двенадцатого"
+            "evidence": "Мне всё нравится, кроме седьмого, восьмого и двенадцатого",
+            "media_approved": true,
+            "timing_selection_delegated_by_user": true
           },
           "execution": {
-            "scheduled": false,
+            "scheduled": true,
             "published": false,
-            "metricool_post_id": null,
-            "post_url": null
+            "metricool_post_id": "440184199",
+            "post_url": null,
+            "post_uuid": "-8784396007585984661",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-8784396007585984661",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-25T18:08:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
           }
         },
         {
@@ -123,26 +163,36 @@
           "idea_id": 46,
           "title": "Что прислать для начала работы над приглашением?",
           "version": 1,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Чтобы начать делать приглашение, мне нужны дата, место, ваши фотки и пара слов о том, какую свадьбу вы хотите\n\nВсё остальное обсудим по ходу\n\nКому актуально — напишите \"+\", покажу варианты",
             "media": [],
-            "publish_at": "2026-11-25T21:07:00+10:00"
+            "publish_at": "2026-11-25T20:57:00+10:00"
           },
           "approval": {
-            "approved_by_user": false,
-            "publication_time_approved": false,
+            "approved_by_user": true,
+            "publication_time_approved": true,
             "text_approved": true,
             "approved_text": "Чтобы начать делать приглашение, мне нужны дата, место, ваши фотки и пара слов о том, какую свадьбу вы хотите\n\nВсё остальное обсудим по ходу\n\nКому актуально — напишите \"+\", покажу варианты",
             "approved_text_version": 1,
-            "evidence": "Мне всё нравится, кроме седьмого, восьмого и двенадцатого"
+            "evidence": "Мне всё нравится, кроме седьмого, восьмого и двенадцатого",
+            "media_approved": true,
+            "timing_selection_delegated_by_user": true
           },
           "execution": {
-            "scheduled": false,
+            "scheduled": true,
             "published": false,
-            "metricool_post_id": null,
-            "post_url": null
+            "metricool_post_id": "440184263",
+            "post_url": null,
+            "post_uuid": "6607519854552171568",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=6607519854552171568",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-25T20:57:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
           }
         }
       ]
@@ -155,26 +205,36 @@
           "idea_id": 2,
           "title": "\"Сделаем сами, так дешевле\" — что проще заказать?",
           "version": 1,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Невесты 2027, что вы сначала решили сделать для свадьбы сами, а потом такие: \"Всё, дайте номер человека, который этим занимается\"? 🙂",
             "media": [],
-            "publish_at": "2026-11-26T12:17:00+10:00"
+            "publish_at": "2026-11-26T09:07:00+10:00"
           },
           "approval": {
-            "approved_by_user": false,
-            "publication_time_approved": false,
+            "approved_by_user": true,
+            "publication_time_approved": true,
             "text_approved": true,
             "approved_text": "Невесты 2027, что вы сначала решили сделать для свадьбы сами, а потом такие: \"Всё, дайте номер человека, который этим занимается\"? 🙂",
             "approved_text_version": 1,
-            "evidence": "Мне всё нравится, кроме седьмого, восьмого и двенадцатого"
+            "evidence": "Мне всё нравится, кроме седьмого, восьмого и двенадцатого",
+            "media_approved": true,
+            "timing_selection_delegated_by_user": true
           },
           "execution": {
-            "scheduled": false,
+            "scheduled": true,
             "published": false,
-            "metricool_post_id": null,
-            "post_url": null
+            "metricool_post_id": "440184745",
+            "post_url": null,
+            "post_uuid": "2174425830283626048",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=2174425830283626048",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-26T09:07:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
           }
         },
         {
@@ -182,26 +242,36 @@
           "idea_id": 58,
           "title": "Совместный девичник и мальчишник",
           "version": 4,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Совместный девичник и мальчишник — нормальная идея или хочется хотя бы этот вечер провести раздельно? 🙂",
             "media": [],
-            "publish_at": "2026-11-26T14:36:00+10:00"
+            "publish_at": "2026-11-26T12:03:00+10:00"
           },
           "approval": {
-            "approved_by_user": false,
-            "publication_time_approved": false,
+            "approved_by_user": true,
+            "publication_time_approved": true,
             "text_approved": true,
             "approved_text": "Совместный девичник и мальчишник — нормальная идея или хочется хотя бы этот вечер провести раздельно? 🙂",
             "approved_text_version": 4,
-            "evidence": "Да, вот теперь отлично. Давай только восьмое чуть-чуть переделаем."
+            "evidence": "Да, вот теперь отлично. Давай только восьмое чуть-чуть переделаем.",
+            "media_approved": true,
+            "timing_selection_delegated_by_user": true
           },
           "execution": {
-            "scheduled": false,
+            "scheduled": true,
             "published": false,
-            "metricool_post_id": null,
-            "post_url": null
+            "metricool_post_id": "440184826",
+            "post_url": null,
+            "post_uuid": "-7383685998614983430",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-7383685998614983430",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-26T12:03:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
           },
           "revision_history": [
             {
@@ -231,26 +301,36 @@
           "idea_id": 59,
           "title": "Роль свидетелей на свадьбе",
           "version": 5,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Как считаете, свидетели на свадьбе — это ещё актуально или уже пережиток прошлого?",
             "media": [],
-            "publish_at": "2026-11-26T16:48:00+10:00"
+            "publish_at": "2026-11-26T15:09:00+10:00"
           },
           "approval": {
-            "approved_by_user": false,
-            "publication_time_approved": false,
+            "approved_by_user": true,
+            "publication_time_approved": true,
             "text_approved": true,
             "approved_text": "Как считаете, свидетели на свадьбе — это ещё актуально или уже пережиток прошлого?",
             "approved_text_version": 5,
-            "evidence": "Ну всё, отлично"
+            "evidence": "Ну всё, отлично",
+            "media_approved": true,
+            "timing_selection_delegated_by_user": true
           },
           "execution": {
-            "scheduled": false,
+            "scheduled": true,
             "published": false,
-            "metricool_post_id": null,
-            "post_url": null
+            "metricool_post_id": "440184888",
+            "post_url": null,
+            "post_uuid": "-177803296139885054",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-177803296139885054",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-26T15:09:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
           },
           "revision_history": [
             {
@@ -287,26 +367,36 @@
           "idea_id": 42,
           "title": "Сравнить две версии истории знакомства",
           "version": 1,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Попросите друг друга отдельно написать, как вы познакомились\n\nЕсть шанс получить две разные истории: \"Я сразу всё понял\" и \"Я вообще думала, что он просто вежливый\" 🙂",
             "media": [],
-            "publish_at": "2026-11-26T19:13:00+10:00"
+            "publish_at": "2026-11-26T18:04:00+10:00"
           },
           "approval": {
-            "approved_by_user": false,
-            "publication_time_approved": false,
+            "approved_by_user": true,
+            "publication_time_approved": true,
             "text_approved": true,
             "approved_text": "Попросите друг друга отдельно написать, как вы познакомились\n\nЕсть шанс получить две разные истории: \"Я сразу всё понял\" и \"Я вообще думала, что он просто вежливый\" 🙂",
             "approved_text_version": 1,
-            "evidence": "Мне всё нравится, кроме седьмого, восьмого и двенадцатого"
+            "evidence": "Мне всё нравится, кроме седьмого, восьмого и двенадцатого",
+            "media_approved": true,
+            "timing_selection_delegated_by_user": true
           },
           "execution": {
-            "scheduled": false,
+            "scheduled": true,
             "published": false,
-            "metricool_post_id": null,
-            "post_url": null
+            "metricool_post_id": "440185019",
+            "post_url": null,
+            "post_uuid": "6318356718820280131",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=6318356718820280131",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-26T18:04:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
           }
         },
         {
@@ -314,26 +404,36 @@
           "idea_id": 47,
           "title": "Можно прийти без готовой идеи оформления",
           "version": 1,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Если пока непонятно, каким должно быть приглашение, начнём с самой свадьбы\n\nГде будете праздновать, какие фотки вам нравятся, что хочется по настроению\n\nИз \"хотим красиво, но не знаем как\" тоже можно собрать понятную идею 🙂\n\nКому актуально — напишите \"+\"",
             "media": [],
-            "publish_at": "2026-11-26T21:07:00+10:00"
+            "publish_at": "2026-11-26T20:59:00+10:00"
           },
           "approval": {
-            "approved_by_user": false,
-            "publication_time_approved": false,
+            "approved_by_user": true,
+            "publication_time_approved": true,
             "text_approved": true,
             "approved_text": "Если пока непонятно, каким должно быть приглашение, начнём с самой свадьбы\n\nГде будете праздновать, какие фотки вам нравятся, что хочется по настроению\n\nИз \"хотим красиво, но не знаем как\" тоже можно собрать понятную идею 🙂\n\nКому актуально — напишите \"+\"",
             "approved_text_version": 1,
-            "evidence": "Мне всё нравится, кроме седьмого, восьмого и двенадцатого"
+            "evidence": "Мне всё нравится, кроме седьмого, восьмого и двенадцатого",
+            "media_approved": true,
+            "timing_selection_delegated_by_user": true
           },
           "execution": {
-            "scheduled": false,
+            "scheduled": true,
             "published": false,
-            "metricool_post_id": null,
-            "post_url": null
+            "metricool_post_id": "440185110",
+            "post_url": null,
+            "post_uuid": "-8016615495253540712",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-8016615495253540712",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-26T20:59:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
           }
         }
       ]
@@ -346,26 +446,36 @@
           "idea_id": 6,
           "title": "Что убрали бы со свадьбы, если бы планировали заново?",
           "version": 1,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Те, кто уже сыграл свадьбу: на что вы смотрите сейчас и думаете \"господи, зачем мы вообще на это тратились\"?",
             "media": [],
-            "publish_at": "2026-11-27T12:17:00+10:00"
+            "publish_at": "2026-11-27T09:04:00+10:00"
           },
           "approval": {
-            "approved_by_user": false,
-            "publication_time_approved": false,
+            "approved_by_user": true,
+            "publication_time_approved": true,
             "text_approved": true,
             "approved_text": "Те, кто уже сыграл свадьбу: на что вы смотрите сейчас и думаете \"господи, зачем мы вообще на это тратились\"?",
             "approved_text_version": 1,
-            "evidence": "Мне всё нравится, кроме седьмого, восьмого и двенадцатого"
+            "evidence": "Мне всё нравится, кроме седьмого, восьмого и двенадцатого",
+            "media_approved": true,
+            "timing_selection_delegated_by_user": true
           },
           "execution": {
-            "scheduled": false,
+            "scheduled": true,
             "published": false,
-            "metricool_post_id": null,
-            "post_url": null
+            "metricool_post_id": "440185561",
+            "post_url": null,
+            "post_uuid": "2116480824631837946",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=2116480824631837946",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-27T09:04:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
           }
         },
         {
@@ -373,26 +483,36 @@
           "idea_id": 60,
           "title": "Свадьба без алкоголя",
           "version": 4,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Свадьба без алкоголя: вы бы спокойно пришли или начали договариваться насчёт \"ну хотя бы шампанского\"?",
             "media": [],
-            "publish_at": "2026-11-27T14:36:00+10:00"
+            "publish_at": "2026-11-27T12:08:00+10:00"
           },
           "approval": {
-            "approved_by_user": false,
-            "publication_time_approved": false,
+            "approved_by_user": true,
+            "publication_time_approved": true,
             "text_approved": true,
             "approved_text": "Свадьба без алкоголя: вы бы спокойно пришли или начали договариваться насчёт \"ну хотя бы шампанского\"?",
             "approved_text_version": 4,
-            "evidence": "Да, вот теперь отлично. Давай только восьмое чуть-чуть переделаем."
+            "evidence": "Да, вот теперь отлично. Давай только восьмое чуть-чуть переделаем.",
+            "media_approved": true,
+            "timing_selection_delegated_by_user": true
           },
           "execution": {
-            "scheduled": false,
+            "scheduled": true,
             "published": false,
-            "metricool_post_id": null,
-            "post_url": null
+            "metricool_post_id": "440185620",
+            "post_url": null,
+            "post_uuid": "6970534332372111096",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=6970534332372111096",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-27T12:08:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
           },
           "revision_history": [
             {
@@ -422,26 +542,36 @@
           "idea_id": 39,
           "title": "Информация для гостей из другого города",
           "version": 1,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Для гостей из другого города свадьба начинается с \"где жить и как доехать\"\n\nЯ бы добавил в приглашение варианты проживания и информацию о трансфере, если он есть\n\nЧтобы после покупки билетов не начинался второй квест 🙂",
             "media": [],
-            "publish_at": "2026-11-27T16:48:00+10:00"
+            "publish_at": "2026-11-27T15:02:00+10:00"
           },
           "approval": {
-            "approved_by_user": false,
-            "publication_time_approved": false,
+            "approved_by_user": true,
+            "publication_time_approved": true,
             "text_approved": true,
             "approved_text": "Для гостей из другого города свадьба начинается с \"где жить и как доехать\"\n\nЯ бы добавил в приглашение варианты проживания и информацию о трансфере, если он есть\n\nЧтобы после покупки билетов не начинался второй квест 🙂",
             "approved_text_version": 1,
-            "evidence": "Мне всё нравится, кроме седьмого, восьмого и двенадцатого"
+            "evidence": "Мне всё нравится, кроме седьмого, восьмого и двенадцатого",
+            "media_approved": true,
+            "timing_selection_delegated_by_user": true
           },
           "execution": {
-            "scheduled": false,
+            "scheduled": true,
             "published": false,
-            "metricool_post_id": null,
-            "post_url": null
+            "metricool_post_id": "440185690",
+            "post_url": null,
+            "post_uuid": "-6514455863781536370",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-6514455863781536370",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-27T15:02:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
           }
         },
         {
@@ -449,26 +579,36 @@
           "idea_id": 43,
           "title": "Приглашение на основе общей привычки пары",
           "version": 1,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Какую вашу общую привычку друзья узнают сразу?\n\nТо, что вы каждую субботу идёте за одним и тем же кофе? Или не можете спокойно пройти мимо настолок?\n\nИз таких вещей тоже можно придумать свадебное приглашение",
             "media": [],
-            "publish_at": "2026-11-27T19:13:00+10:00"
+            "publish_at": "2026-11-27T18:07:00+10:00"
           },
           "approval": {
-            "approved_by_user": false,
-            "publication_time_approved": false,
+            "approved_by_user": true,
+            "publication_time_approved": true,
             "text_approved": true,
             "approved_text": "Какую вашу общую привычку друзья узнают сразу?\n\nТо, что вы каждую субботу идёте за одним и тем же кофе? Или не можете спокойно пройти мимо настолок?\n\nИз таких вещей тоже можно придумать свадебное приглашение",
             "approved_text_version": 1,
-            "evidence": "Мне всё нравится, кроме седьмого, восьмого и двенадцатого"
+            "evidence": "Мне всё нравится, кроме седьмого, восьмого и двенадцатого",
+            "media_approved": true,
+            "timing_selection_delegated_by_user": true
           },
           "execution": {
-            "scheduled": false,
+            "scheduled": true,
             "published": false,
-            "metricool_post_id": null,
-            "post_url": null
+            "metricool_post_id": "440185773",
+            "post_url": null,
+            "post_uuid": "-7279153698560586946",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-7279153698560586946",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-27T18:07:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
           }
         },
         {
@@ -476,26 +616,36 @@
           "idea_id": 49,
           "title": "Почему оплата после того, как устроит результат",
           "version": 1,
-          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
+          "status": "SCHEDULED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Заказывать свадебное приглашение и переживать \"а если мне не понравится?\" — так себе удовольствие\n\nПоэтому у меня оплата после того, как вас устроит результат\n\nДелаю сайты-приглашения под вашу пару. Кому актуально — напишите \"+\", покажу варианты",
             "media": [],
-            "publish_at": "2026-11-27T21:07:00+10:00"
+            "publish_at": "2026-11-27T20:56:00+10:00"
           },
           "approval": {
-            "approved_by_user": false,
-            "publication_time_approved": false,
+            "approved_by_user": true,
+            "publication_time_approved": true,
             "text_approved": true,
             "approved_text": "Заказывать свадебное приглашение и переживать \"а если мне не понравится?\" — так себе удовольствие\n\nПоэтому у меня оплата после того, как вас устроит результат\n\nДелаю сайты-приглашения под вашу пару. Кому актуально — напишите \"+\", покажу варианты",
             "approved_text_version": 1,
-            "evidence": "Мне всё нравится, кроме седьмого, восьмого и двенадцатого"
+            "evidence": "Мне всё нравится, кроме седьмого, восьмого и двенадцатого",
+            "media_approved": true,
+            "timing_selection_delegated_by_user": true
           },
           "execution": {
-            "scheduled": false,
+            "scheduled": true,
             "published": false,
-            "metricool_post_id": null,
-            "post_url": null
+            "metricool_post_id": "440185866",
+            "post_url": null,
+            "post_uuid": "-1346711928224201315",
+            "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-1346711928224201315",
+            "provider_status": "PENDING",
+            "confirmed_publication_date": {
+              "dateTime": "2026-11-27T20:56:00",
+              "timezone": "Asia/Vladivostok"
+            },
+            "verified_in_queue": true
           }
         }
       ]
@@ -511,10 +661,11 @@
     "Latest user instruction: timing is deferred. Keep existing suggested dates/times only as unapproved proposals; do not interpret text approval as scheduling authorization. Texts 1–6, 9–11 and 13–15 are approved as written; versions 2 of texts 7, 8, 12 require fresh text review.",
     "Current proposed replacements are entirely new topics 58, 59, 60, not moved ideas from later dates. Existing ideas 51, 55, 57 keep their original weekly slots. Compare both topic and exact text against selected bank, excluded bank, previous proposals, revision history, and weekly assignments before calling a replacement new. Moving an existing idea must be described as a move, never as a new idea; do not schedule the same idea/text twice. The current replacements still require user approval; timing remains deferred.",
     "Latest review: texts 7 and 12 accepted; text 8 reframed as a question about whether witnesses are still relevant. Fourteen texts approved, revised text 8 pending. Publication timing still deferred.",
-    "All fifteen current texts have now been accepted, including the revised relevance question at number 8. Timing remains deferred. Current idea_id values are authoritative; original_idea_id is history only."
+    "All fifteen current texts have now been accepted, including the revised relevance question at number 8. Timing remains deferred. Current idea_id values are authoritative; original_idea_id is history only.",
+    "The latest user instruction authorized scheduling all approved texts five per day from 09:00 to 21:00 with minute selection delegated to the assistant. All posts in this package are scheduled and verified. This supersedes historical timing-deferred instructions. Read execution IDs and the execution journal; do not recreate these posts."
   ],
   "latest_user_feedback": "Ну всё, отлично, давай тогда остальные дни ещё разберём.",
-  "publication_timing_status": "DEFERRED_BY_USER_NOT_APPROVED",
+  "publication_timing_status": "AUTHORIZED_AND_SCHEDULED",
   "novelty_check": {
     "files_checked": 12,
     "reference_items_compared": 208,
@@ -544,5 +695,15 @@
       "text": "Свадьба без алкоголя: вы бы спокойно пришли или начали договариваться насчёт \"ну хотя бы шампанского\"?",
       "selection": "SELECTED_BY_USER"
     }
-  ]
+  ],
+  "timing_authorization": {
+    "approved_by_user": true,
+    "selection_delegated": true,
+    "timezone": "Asia/Vladivostok",
+    "daily_window": "09:00–21:00",
+    "posts_per_day": 5,
+    "spacing": "Approximately equal intervals with non-round minutes",
+    "evidence": "Вперёд. ... в течение дня, с утра, с девяти ... до девяти ... плюс-минус равные промежутки ... выставляй не ровно ... в 9:02 ... в день по пять постов, все согласованные распредели"
+  },
+  "execution_journal": ".agents/handoffs/threads-scheduling-2026-11-25-12-01.json"
 }
