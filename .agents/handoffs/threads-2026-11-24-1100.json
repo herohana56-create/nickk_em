@@ -1,0 +1,115 @@
+{
+  "package_id": "threads-2026-11-24-1100",
+  "source_automation": "Automation_305d0efc315881918c39b24b022289b7",
+  "status": "AWAITING_USER_APPROVAL",
+  "date": "2026-11-24",
+  "timezone": "Asia/Vladivostok",
+  "account": "nickkem_vl",
+  "brand_id": "8224996",
+  "account_verified": true,
+  "queue_checked": true,
+  "queue_result": "No records for 2026-11-24 returned at preparation time",
+  "posts": [
+    {
+      "id": "A24-01",
+      "genre": "question",
+      "status": "AWAITING_USER_APPROVAL",
+      "proposal": {
+        "account": "nickkem_vl",
+        "text": "Невесты 2027, у вас с женихом совпали представления о свадьбе?\n\nИли один уже выбирает ведущего, а второй всё ещё предлагает просто улететь куда-нибудь? 🙂",
+        "media": [],
+        "publish_at": "2026-11-24T12:19:00+10:00"
+      },
+      "approval": {
+        "approved_by_user": false
+      },
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_url": null
+      }
+    },
+    {
+      "id": "A24-02",
+      "genre": "observation",
+      "status": "AWAITING_USER_APPROVAL",
+      "proposal": {
+        "account": "nickkem_vl",
+        "text": "Свадебная рассадка — это когда ты внезапно знаешь, кто с кем не разговаривает с 2014 года",
+        "media": [],
+        "publish_at": "2026-11-24T14:37:00+10:00"
+      },
+      "approval": {
+        "approved_by_user": false
+      },
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_url": null
+      }
+    },
+    {
+      "id": "A24-03",
+      "genre": "practical_tip",
+      "status": "AWAITING_USER_APPROVAL",
+      "proposal": {
+        "account": "nickkem_vl",
+        "text": "Перед отправкой приглашений откройте ссылку на маршрут и посмотрите, куда она ведёт\n\nГостю нужен вход в ресторан. Точка посреди огромной территории усадьбы — начало отдельного приключения 🙂",
+        "media": [],
+        "publish_at": "2026-11-24T16:53:00+10:00"
+      },
+      "approval": {
+        "approved_by_user": false
+      },
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_url": null
+      }
+    },
+    {
+      "id": "A24-04",
+      "genre": "opinion",
+      "status": "AWAITING_USER_APPROVAL",
+      "proposal": {
+        "account": "nickkem_vl",
+        "text": "Я нормально отношусь к свадьбам в будни\n\nТолько гостям об этом хорошо бы узнать раньше, чем они начнут просить отгул \"на завтра\" 🙂\n\nВы бы пошли на свадьбу в четверг?",
+        "media": [],
+        "publish_at": "2026-11-24T19:11:00+10:00"
+      },
+      "approval": {
+        "approved_by_user": false
+      },
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_url": null
+      }
+    },
+    {
+      "id": "A24-05",
+      "genre": "offer",
+      "status": "AWAITING_USER_APPROVAL",
+      "proposal": {
+        "account": "nickkem_vl",
+        "text": "Если заказываете свадебное приглашение, хочется сначала увидеть, что вообще получилось\n\nУ меня так и можно: оплата после того, как вас устроит результат\n\nДелаю сайты под вашу пару — с фотками, программой и всей информацией для гостей\n\nКому актуально — напишите \"+\", покажу варианты",
+        "media": [],
+        "publish_at": "2026-11-24T21:17:00+10:00"
+      },
+      "approval": {
+        "approved_by_user": false
+      },
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_url": null
+      }
+    }
+  ],
+  "note": "Previous automated packages remain unapproved. No new feedback received. Draft viewpoints and generic scenarios are proposals, not claims about real client events. No Metricool writes performed."
+}
