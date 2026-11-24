@@ -21,13 +21,16 @@
           "title": "На чём готовы экономить, а на чём ни за что?",
           "angle": "Спросить невест 2027 про одну обязательную для них свадебную трату",
           "hook": null,
-          "status": "DRAFT_TO_PREPARE",
+          "status": "AWAITING_USER_APPROVAL",
           "text_approved": false,
           "media_approved": false,
           "publication_time": null,
           "publication_time_approved": false,
           "scheduled": false,
-          "published": false
+          "published": false,
+          "review_display_number": 1,
+          "review_package": ".agents/handoffs/threads-review-2026-11-25-27-v1.json",
+          "proposal_version": 1
         },
         {
           "order": 2,
@@ -35,13 +38,16 @@
           "title": "Нужно ли звать человека, который когда-то позвал вас?",
           "angle": "Свадебное приглашение как негласный долг",
           "hook": null,
-          "status": "DRAFT_TO_PREPARE",
+          "status": "AWAITING_USER_APPROVAL",
           "text_approved": false,
           "media_approved": false,
           "publication_time": null,
           "publication_time_approved": false,
           "scheduled": false,
-          "published": false
+          "published": false,
+          "review_display_number": 2,
+          "review_package": ".agents/handoffs/threads-review-2026-11-25-27-v1.json",
+          "proposal_version": 1
         },
         {
           "order": 3,
@@ -49,13 +55,16 @@
           "title": "Понятное описание дресс-кода",
           "angle": "Названия цветов, примеры одежды и степень строгости",
           "hook": null,
-          "status": "DRAFT_TO_PREPARE",
+          "status": "AWAITING_USER_APPROVAL",
           "text_approved": false,
           "media_approved": false,
           "publication_time": null,
           "publication_time_approved": false,
           "scheduled": false,
-          "published": false
+          "published": false,
+          "review_display_number": 3,
+          "review_package": ".agents/handoffs/threads-review-2026-11-25-27-v1.json",
+          "proposal_version": 1
         },
         {
           "order": 4,
@@ -63,13 +72,16 @@
           "title": "Идеальная фотография или любимый живой снимок?",
           "angle": "Выбор между идеальной съёмкой и любимой непринуждённой фотографией",
           "hook": null,
-          "status": "DRAFT_TO_PREPARE",
+          "status": "AWAITING_USER_APPROVAL",
           "text_approved": false,
           "media_approved": false,
           "publication_time": null,
           "publication_time_approved": false,
           "scheduled": false,
-          "published": false
+          "published": false,
+          "review_display_number": 4,
+          "review_package": ".agents/handoffs/threads-review-2026-11-25-27-v1.json",
+          "proposal_version": 1
         },
         {
           "order": 5,
@@ -77,15 +89,20 @@
           "title": "Что прислать для начала работы над приглашением?",
           "angle": "Дата, место, фотографии, пожелания и примеры",
           "hook": null,
-          "status": "DRAFT_TO_PREPARE",
+          "status": "AWAITING_USER_APPROVAL",
           "text_approved": false,
           "media_approved": false,
           "publication_time": null,
           "publication_time_approved": false,
           "scheduled": false,
-          "published": false
+          "published": false,
+          "review_display_number": 5,
+          "review_package": ".agents/handoffs/threads-review-2026-11-25-27-v1.json",
+          "proposal_version": 1
         }
-      ]
+      ],
+      "review_package": ".agents/handoffs/threads-review-2026-11-25-27-v1.json",
+      "status": "DRAFTS_PREPARED_AWAITING_USER_APPROVAL"
     },
     {
       "date": "2026-11-26",
@@ -96,13 +113,16 @@
           "title": "\"Сделаем сами, так дешевле\" — что проще заказать?",
           "angle": "Что при подготовке оказалось проще заказать, чем делать своими руками?",
           "hook": null,
-          "status": "DRAFT_TO_PREPARE",
+          "status": "AWAITING_USER_APPROVAL",
           "text_approved": false,
           "media_approved": false,
           "publication_time": null,
           "publication_time_approved": false,
           "scheduled": false,
-          "published": false
+          "published": false,
+          "review_display_number": 6,
+          "review_package": ".agents/handoffs/threads-review-2026-11-25-27-v1.json",
+          "proposal_version": 1
         },
         {
           "order": 2,
@@ -110,13 +130,16 @@
           "title": "Можно ли гостю взять незнакомого паре спутника?",
           "angle": "Как реагировать на просьбу гостя взять с собой незнакомого человека?",
           "hook": null,
-          "status": "DRAFT_TO_PREPARE",
+          "status": "AWAITING_USER_APPROVAL",
           "text_approved": false,
           "media_approved": false,
           "publication_time": null,
           "publication_time_approved": false,
           "scheduled": false,
-          "published": false
+          "published": false,
+          "review_display_number": 7,
+          "review_package": ".agents/handoffs/threads-review-2026-11-25-27-v1.json",
+          "proposal_version": 1
         },
         {
           "order": 3,
@@ -124,13 +147,16 @@
           "title": "Изменения времени или площадки после рассылки",
           "angle": "Как убедиться, что гости увидели обновление?",
           "hook": null,
-          "status": "DRAFT_TO_PREPARE",
+          "status": "AWAITING_USER_APPROVAL",
           "text_approved": false,
           "media_approved": false,
           "publication_time": null,
           "publication_time_approved": false,
           "scheduled": false,
-          "published": false
+          "published": false,
+          "review_display_number": 8,
+          "review_package": ".agents/handoffs/threads-review-2026-11-25-27-v1.json",
+          "proposal_version": 1
         },
         {
           "order": 4,
@@ -138,13 +164,16 @@
           "title": "Сравнить две версии истории знакомства",
           "angle": "Пара отдельно пишет по три предложения и сравнивает версии",
           "hook": null,
-          "status": "DRAFT_TO_PREPARE",
+          "status": "AWAITING_USER_APPROVAL",
           "text_approved": false,
           "media_approved": false,
           "publication_time": null,
           "publication_time_approved": false,
           "scheduled": false,
-          "published": false
+          "published": false,
+          "review_display_number": 9,
+          "review_package": ".agents/handoffs/threads-review-2026-11-25-27-v1.json",
+          "proposal_version": 1
         },
         {
           "order": 5,
@@ -152,15 +181,20 @@
           "title": "Можно прийти без готовой идеи оформления",
           "angle": "Вопросы, с которых начинается работа, когда пара не знает, чего хочет",
           "hook": null,
-          "status": "DRAFT_TO_PREPARE",
+          "status": "AWAITING_USER_APPROVAL",
           "text_approved": false,
           "media_approved": false,
           "publication_time": null,
           "publication_time_approved": false,
           "scheduled": false,
-          "published": false
+          "published": false,
+          "review_display_number": 10,
+          "review_package": ".agents/handoffs/threads-review-2026-11-25-27-v1.json",
+          "proposal_version": 1
         }
-      ]
+      ],
+      "review_package": ".agents/handoffs/threads-review-2026-11-25-27-v1.json",
+      "status": "DRAFTS_PREPARED_AWAITING_USER_APPROVAL"
     },
     {
       "date": "2026-11-27",
@@ -171,13 +205,16 @@
           "title": "Что убрали бы со свадьбы, если бы планировали заново?",
           "angle": "Вопрос уже женатым; собрать реальные ответы, не придумывать их",
           "hook": null,
-          "status": "DRAFT_TO_PREPARE",
+          "status": "AWAITING_USER_APPROVAL",
           "text_approved": false,
           "media_approved": false,
           "publication_time": null,
           "publication_time_approved": false,
           "scheduled": false,
-          "published": false
+          "published": false,
+          "review_display_number": 11,
+          "review_package": ".agents/handoffs/threads-review-2026-11-25-27-v1.json",
+          "proposal_version": 1
         },
         {
           "order": 2,
@@ -185,13 +222,16 @@
           "title": "Родители хотят позвать своих друзей",
           "angle": "Кто определяет список гостей, когда у родителей свои пожелания?",
           "hook": null,
-          "status": "DRAFT_TO_PREPARE",
+          "status": "AWAITING_USER_APPROVAL",
           "text_approved": false,
           "media_approved": false,
           "publication_time": null,
           "publication_time_approved": false,
           "scheduled": false,
-          "published": false
+          "published": false,
+          "review_display_number": 12,
+          "review_package": ".agents/handoffs/threads-review-2026-11-25-27-v1.json",
+          "proposal_version": 1
         },
         {
           "order": 3,
@@ -199,13 +239,16 @@
           "title": "Информация для гостей из другого города",
           "angle": "Проживание, дорога, трансфер и неочевидные для приезжих детали",
           "hook": null,
-          "status": "DRAFT_TO_PREPARE",
+          "status": "AWAITING_USER_APPROVAL",
           "text_approved": false,
           "media_approved": false,
           "publication_time": null,
           "publication_time_approved": false,
           "scheduled": false,
-          "published": false
+          "published": false,
+          "review_display_number": 13,
+          "review_package": ".agents/handoffs/threads-review-2026-11-25-27-v1.json",
+          "proposal_version": 1
         },
         {
           "order": 4,
@@ -213,13 +256,16 @@
           "title": "Приглашение на основе общей привычки пары",
           "angle": "Поездки, походы, настольные игры, кофе по воскресеньям",
           "hook": null,
-          "status": "DRAFT_TO_PREPARE",
+          "status": "AWAITING_USER_APPROVAL",
           "text_approved": false,
           "media_approved": false,
           "publication_time": null,
           "publication_time_approved": false,
           "scheduled": false,
-          "published": false
+          "published": false,
+          "review_display_number": 14,
+          "review_package": ".agents/handoffs/threads-review-2026-11-25-27-v1.json",
+          "proposal_version": 1
         },
         {
           "order": 5,
@@ -227,15 +273,20 @@
           "title": "Почему оплата после того, как устроит результат",
           "angle": "Объяснить ранее согласованное условие оплаты",
           "hook": null,
-          "status": "DRAFT_TO_PREPARE",
+          "status": "AWAITING_USER_APPROVAL",
           "text_approved": false,
           "media_approved": false,
           "publication_time": null,
           "publication_time_approved": false,
           "scheduled": false,
-          "published": false
+          "published": false,
+          "review_display_number": 15,
+          "review_package": ".agents/handoffs/threads-review-2026-11-25-27-v1.json",
+          "proposal_version": 1
         }
-      ]
+      ],
+      "review_package": ".agents/handoffs/threads-review-2026-11-25-27-v1.json",
+      "status": "DRAFTS_PREPARED_AWAITING_USER_APPROVAL"
     },
     {
       "date": "2026-11-28",
@@ -544,6 +595,7 @@
     "Do not create or alter Metricool entries in a draft-preparation run.",
     "Topic selection does not approve final texts, media, publication time or a publishing queue.",
     "Do not recycle excluded original themes or the discarded photograph-collection version of idea 57.",
-    "If a day was missed or its drafts were not approved, keep them unapproved. Do not move them into another day's publishing queue automatically."
+    "If a day was missed or its drafts were not approved, keep them unapproved. Do not move them into another day's publishing queue automatically.",
+    "The texts for November 25–27 have already been prepared for advance review in .agents/handoffs/threads-review-2026-11-25-27-v1.json, display numbers 1–15. Read their latest approval/execution state before preparing anything. Do not generate unrequested replacement texts for these dates; if they are already approved or scheduled, report their real status instead of presenting a new competing package."
   ]
 }
