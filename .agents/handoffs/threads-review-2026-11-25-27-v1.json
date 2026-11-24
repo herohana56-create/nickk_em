@@ -1,0 +1,364 @@
+{
+  "package_id": "threads-review-2026-11-25-27-v1",
+  "version": 1,
+  "status": "AWAITING_USER_APPROVAL",
+  "account": "nickkem_vl",
+  "brand_id": "8224996",
+  "timezone": "Asia/Vladivostok",
+  "all_posts_without_images": true,
+  "days": [
+    {
+      "date": "2026-11-25",
+      "posts": [
+        {
+          "display_number": 1,
+          "idea_id": 1,
+          "title": "На чём готовы экономить, а на чём ни за что?",
+          "version": 1,
+          "status": "AWAITING_USER_APPROVAL",
+          "proposal": {
+            "account": "nickkem_vl",
+            "text": "Невесты 2027, на чём вы готовы сэкономить, а где сразу говорите \"даже не предлагайте\"? 🙂",
+            "media": [],
+            "publish_at": "2026-11-25T12:17:00+10:00"
+          },
+          "approval": {
+            "approved_by_user": false
+          },
+          "execution": {
+            "scheduled": false,
+            "published": false,
+            "metricool_post_id": null,
+            "post_url": null
+          }
+        },
+        {
+          "display_number": 2,
+          "idea_id": 11,
+          "title": "Нужно ли звать человека, который когда-то позвал вас?",
+          "version": 1,
+          "status": "AWAITING_USER_APPROVAL",
+          "proposal": {
+            "account": "nickkem_vl",
+            "text": "Вы были у друзей на свадьбе. Теперь женитесь сами, но хотите праздник в два раза меньше\n\nНужно звать их в ответ или это всё-таки не взаимозачёт?",
+            "media": [],
+            "publish_at": "2026-11-25T14:36:00+10:00"
+          },
+          "approval": {
+            "approved_by_user": false
+          },
+          "execution": {
+            "scheduled": false,
+            "published": false,
+            "metricool_post_id": null,
+            "post_url": null
+          }
+        },
+        {
+          "display_number": 3,
+          "idea_id": 31,
+          "title": "Понятное описание дресс-кода",
+          "version": 1,
+          "status": "AWAITING_USER_APPROVAL",
+          "proposal": {
+            "account": "nickkem_vl",
+            "text": "Написать в приглашении \"пыльная роза\" — красиво\n\nДобавить фото одежды такого цвета — заботливо\n\nЧтобы гости выбирали наряд, а не защищали диплом по оттенкам 🙂",
+            "media": [],
+            "publish_at": "2026-11-25T16:48:00+10:00"
+          },
+          "approval": {
+            "approved_by_user": false
+          },
+          "execution": {
+            "scheduled": false,
+            "published": false,
+            "metricool_post_id": null,
+            "post_url": null
+          }
+        },
+        {
+          "display_number": 4,
+          "idea_id": 41,
+          "title": "Идеальная фотография или любимый живой снимок?",
+          "version": 1,
+          "status": "AWAITING_USER_APPROVAL",
+          "proposal": {
+            "account": "nickkem_vl",
+            "text": "Что бы вы поставили на обложку свадебного приглашения: идеальную фотку со съёмки или ту, где вы оба ржёте и у одного закрыты глаза?",
+            "media": [],
+            "publish_at": "2026-11-25T19:13:00+10:00"
+          },
+          "approval": {
+            "approved_by_user": false
+          },
+          "execution": {
+            "scheduled": false,
+            "published": false,
+            "metricool_post_id": null,
+            "post_url": null
+          }
+        },
+        {
+          "display_number": 5,
+          "idea_id": 46,
+          "title": "Что прислать для начала работы над приглашением?",
+          "version": 1,
+          "status": "AWAITING_USER_APPROVAL",
+          "proposal": {
+            "account": "nickkem_vl",
+            "text": "Чтобы начать делать приглашение, мне нужны дата, место, ваши фотки и пара слов о том, какую свадьбу вы хотите\n\nВсё остальное обсудим по ходу\n\nКому актуально — напишите \"+\", покажу варианты",
+            "media": [],
+            "publish_at": "2026-11-25T21:07:00+10:00"
+          },
+          "approval": {
+            "approved_by_user": false
+          },
+          "execution": {
+            "scheduled": false,
+            "published": false,
+            "metricool_post_id": null,
+            "post_url": null
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-11-26",
+      "posts": [
+        {
+          "display_number": 6,
+          "idea_id": 2,
+          "title": "\"Сделаем сами, так дешевле\" — что проще заказать?",
+          "version": 1,
+          "status": "AWAITING_USER_APPROVAL",
+          "proposal": {
+            "account": "nickkem_vl",
+            "text": "Невесты 2027, что вы сначала решили сделать для свадьбы сами, а потом такие: \"Всё, дайте номер человека, который этим занимается\"? 🙂",
+            "media": [],
+            "publish_at": "2026-11-26T12:17:00+10:00"
+          },
+          "approval": {
+            "approved_by_user": false
+          },
+          "execution": {
+            "scheduled": false,
+            "published": false,
+            "metricool_post_id": null,
+            "post_url": null
+          }
+        },
+        {
+          "display_number": 7,
+          "idea_id": 12,
+          "title": "Можно ли гостю взять незнакомого паре спутника?",
+          "version": 1,
+          "status": "AWAITING_USER_APPROVAL",
+          "proposal": {
+            "account": "nickkem_vl",
+            "text": "Вас пригласили на свадьбу. Можно спросить \"а я могу с подругой?\", если её молодожёны вообще не знают?\n\nИли приглашение без \"+1\" уже достаточно понятный ответ?",
+            "media": [],
+            "publish_at": "2026-11-26T14:36:00+10:00"
+          },
+          "approval": {
+            "approved_by_user": false
+          },
+          "execution": {
+            "scheduled": false,
+            "published": false,
+            "metricool_post_id": null,
+            "post_url": null
+          }
+        },
+        {
+          "display_number": 8,
+          "idea_id": 37,
+          "title": "Изменения времени или площадки после рассылки",
+          "version": 1,
+          "status": "AWAITING_USER_APPROVAL",
+          "proposal": {
+            "account": "nickkem_vl",
+            "text": "В приглашении поменялось время. Вы уверены, что гости это увидели?\n\nЯ бы отдельно написал всем, кто уже подтвердил участие\n\nНовая цифра на сайте не отменяет старый скриншот в телефоне 🙂",
+            "media": [],
+            "publish_at": "2026-11-26T16:48:00+10:00"
+          },
+          "approval": {
+            "approved_by_user": false
+          },
+          "execution": {
+            "scheduled": false,
+            "published": false,
+            "metricool_post_id": null,
+            "post_url": null
+          }
+        },
+        {
+          "display_number": 9,
+          "idea_id": 42,
+          "title": "Сравнить две версии истории знакомства",
+          "version": 1,
+          "status": "AWAITING_USER_APPROVAL",
+          "proposal": {
+            "account": "nickkem_vl",
+            "text": "Попросите друг друга отдельно написать, как вы познакомились\n\nЕсть шанс получить две разные истории: \"Я сразу всё понял\" и \"Я вообще думала, что он просто вежливый\" 🙂",
+            "media": [],
+            "publish_at": "2026-11-26T19:13:00+10:00"
+          },
+          "approval": {
+            "approved_by_user": false
+          },
+          "execution": {
+            "scheduled": false,
+            "published": false,
+            "metricool_post_id": null,
+            "post_url": null
+          }
+        },
+        {
+          "display_number": 10,
+          "idea_id": 47,
+          "title": "Можно прийти без готовой идеи оформления",
+          "version": 1,
+          "status": "AWAITING_USER_APPROVAL",
+          "proposal": {
+            "account": "nickkem_vl",
+            "text": "Если пока непонятно, каким должно быть приглашение, начнём с самой свадьбы\n\nГде будете праздновать, какие фотки вам нравятся, что хочется по настроению\n\nИз \"хотим красиво, но не знаем как\" тоже можно собрать понятную идею 🙂\n\nКому актуально — напишите \"+\"",
+            "media": [],
+            "publish_at": "2026-11-26T21:07:00+10:00"
+          },
+          "approval": {
+            "approved_by_user": false
+          },
+          "execution": {
+            "scheduled": false,
+            "published": false,
+            "metricool_post_id": null,
+            "post_url": null
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "posts": [
+        {
+          "display_number": 11,
+          "idea_id": 6,
+          "title": "Что убрали бы со свадьбы, если бы планировали заново?",
+          "version": 1,
+          "status": "AWAITING_USER_APPROVAL",
+          "proposal": {
+            "account": "nickkem_vl",
+            "text": "Те, кто уже сыграл свадьбу: на что вы смотрите сейчас и думаете \"господи, зачем мы вообще на это тратились\"?",
+            "media": [],
+            "publish_at": "2026-11-27T12:17:00+10:00"
+          },
+          "approval": {
+            "approved_by_user": false
+          },
+          "execution": {
+            "scheduled": false,
+            "published": false,
+            "metricool_post_id": null,
+            "post_url": null
+          }
+        },
+        {
+          "display_number": 12,
+          "idea_id": 13,
+          "title": "Родители хотят позвать своих друзей",
+          "version": 1,
+          "status": "AWAITING_USER_APPROVAL",
+          "proposal": {
+            "account": "nickkem_vl",
+            "text": "Если родители помогают оплатить свадьбу, у них появляется право позвать своих друзей?\n\nИли список гостей всё равно остаётся за парой?",
+            "media": [],
+            "publish_at": "2026-11-27T14:36:00+10:00"
+          },
+          "approval": {
+            "approved_by_user": false
+          },
+          "execution": {
+            "scheduled": false,
+            "published": false,
+            "metricool_post_id": null,
+            "post_url": null
+          }
+        },
+        {
+          "display_number": 13,
+          "idea_id": 39,
+          "title": "Информация для гостей из другого города",
+          "version": 1,
+          "status": "AWAITING_USER_APPROVAL",
+          "proposal": {
+            "account": "nickkem_vl",
+            "text": "Для гостей из другого города свадьба начинается с \"где жить и как доехать\"\n\nЯ бы добавил в приглашение варианты проживания и информацию о трансфере, если он есть\n\nЧтобы после покупки билетов не начинался второй квест 🙂",
+            "media": [],
+            "publish_at": "2026-11-27T16:48:00+10:00"
+          },
+          "approval": {
+            "approved_by_user": false
+          },
+          "execution": {
+            "scheduled": false,
+            "published": false,
+            "metricool_post_id": null,
+            "post_url": null
+          }
+        },
+        {
+          "display_number": 14,
+          "idea_id": 43,
+          "title": "Приглашение на основе общей привычки пары",
+          "version": 1,
+          "status": "AWAITING_USER_APPROVAL",
+          "proposal": {
+            "account": "nickkem_vl",
+            "text": "Какую вашу общую привычку друзья узнают сразу?\n\nТо, что вы каждую субботу идёте за одним и тем же кофе? Или не можете спокойно пройти мимо настолок?\n\nИз таких вещей тоже можно придумать свадебное приглашение",
+            "media": [],
+            "publish_at": "2026-11-27T19:13:00+10:00"
+          },
+          "approval": {
+            "approved_by_user": false
+          },
+          "execution": {
+            "scheduled": false,
+            "published": false,
+            "metricool_post_id": null,
+            "post_url": null
+          }
+        },
+        {
+          "display_number": 15,
+          "idea_id": 49,
+          "title": "Почему оплата после того, как устроит результат",
+          "version": 1,
+          "status": "AWAITING_USER_APPROVAL",
+          "proposal": {
+            "account": "nickkem_vl",
+            "text": "Заказывать свадебное приглашение и переживать \"а если мне не понравится?\" — так себе удовольствие\n\nПоэтому у меня оплата после того, как вас устроит результат\n\nДелаю сайты-приглашения под вашу пару. Кому актуально — напишите \"+\", покажу варианты",
+            "media": [],
+            "publish_at": "2026-11-27T21:07:00+10:00"
+          },
+          "approval": {
+            "approved_by_user": false
+          },
+          "execution": {
+            "scheduled": false,
+            "published": false,
+            "metricool_post_id": null,
+            "post_url": null
+          }
+        }
+      ]
+    }
+  ],
+  "rules": [
+    "The user requested advance review of three days, not immediate publishing.",
+    "Use display numbers 1–15 when interpreting feedback on this package; idea_id preserves the original topic-bank reference.",
+    "Do not regenerate alternative versions of these same pending proposals automatically.",
+    "Only explicit approval of exact text, media absence, profile and proposed time permits scheduling.",
+    "If substantive edits are requested, save a new proposal version and show it before publishing.",
+    "If times pass, obtain approval for replacement times instead of posting immediately."
+  ]
+}
