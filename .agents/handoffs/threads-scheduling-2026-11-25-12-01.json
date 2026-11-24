@@ -7,7 +7,7 @@
   "through": "2026-12-01",
   "status": "SCHEDULING_IN_PROGRESS",
   "target_count": 35,
-  "scheduled_count": 0,
+  "scheduled_count": 5,
   "user_timing_authorization": "Вперёд. Согласованные посты, по пять в день, примерно равные промежутки, с 9 утра до 9 вечера по Владивостоку; минуты не ровные, выставляй сам.",
   "timing_selection_delegated_by_user": true,
   "posts": [
@@ -17,13 +17,18 @@
       "date": "2026-11-25T09:02:00+10:00",
       "text": "Невесты 2027, на чём вы готовы сэкономить, а где сразу говорите \"даже не предлагайте\"? 🙂",
       "media": [],
-      "status": "APPROVED_PENDING_SUBMISSION",
+      "status": "SCHEDULED",
       "execution": {
-        "scheduled": false,
+        "scheduled": true,
         "published": false,
-        "metricool_post_id": null,
-        "post_uuid": null,
-        "planner_url": null
+        "metricool_post_id": "440183941",
+        "post_uuid": "2051161854556194259",
+        "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=2051161854556194259",
+        "provider_status": "PENDING",
+        "confirmed_publication_date": {
+          "dateTime": "2026-11-25T09:02:00",
+          "timezone": "Asia/Vladivostok"
+        }
       }
     },
     {
@@ -32,13 +37,18 @@
       "date": "2026-11-25T12:06:00+10:00",
       "text": "Вы были у друзей на свадьбе. Теперь женитесь сами, но хотите праздник в два раза меньше\n\nНужно звать их в ответ или это всё-таки не взаимозачёт?",
       "media": [],
-      "status": "APPROVED_PENDING_SUBMISSION",
+      "status": "SCHEDULED",
       "execution": {
-        "scheduled": false,
+        "scheduled": true,
         "published": false,
-        "metricool_post_id": null,
-        "post_uuid": null,
-        "planner_url": null
+        "metricool_post_id": "440184024",
+        "post_uuid": "3957354934954574575",
+        "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=3957354934954574575",
+        "provider_status": "PENDING",
+        "confirmed_publication_date": {
+          "dateTime": "2026-11-25T12:06:00",
+          "timezone": "Asia/Vladivostok"
+        }
       }
     },
     {
@@ -47,13 +57,18 @@
       "date": "2026-11-25T15:03:00+10:00",
       "text": "Написать в приглашении \"пыльная роза\" — красиво\n\nДобавить фото одежды такого цвета — заботливо\n\nЧтобы гости выбирали наряд, а не защищали диплом по оттенкам 🙂",
       "media": [],
-      "status": "APPROVED_PENDING_SUBMISSION",
+      "status": "SCHEDULED",
       "execution": {
-        "scheduled": false,
+        "scheduled": true,
         "published": false,
-        "metricool_post_id": null,
-        "post_uuid": null,
-        "planner_url": null
+        "metricool_post_id": "440184121",
+        "post_uuid": "-6121830009000539731",
+        "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-6121830009000539731",
+        "provider_status": "PENDING",
+        "confirmed_publication_date": {
+          "dateTime": "2026-11-25T15:03:00",
+          "timezone": "Asia/Vladivostok"
+        }
       }
     },
     {
@@ -62,13 +77,18 @@
       "date": "2026-11-25T18:08:00+10:00",
       "text": "Что бы вы поставили на обложку свадебного приглашения: идеальную фотку со съёмки или ту, где вы оба ржёте и у одного закрыты глаза?",
       "media": [],
-      "status": "APPROVED_PENDING_SUBMISSION",
+      "status": "SCHEDULED",
       "execution": {
-        "scheduled": false,
+        "scheduled": true,
         "published": false,
-        "metricool_post_id": null,
-        "post_uuid": null,
-        "planner_url": null
+        "metricool_post_id": "440184199",
+        "post_uuid": "-8784396007585984661",
+        "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-8784396007585984661",
+        "provider_status": "PENDING",
+        "confirmed_publication_date": {
+          "dateTime": "2026-11-25T18:08:00",
+          "timezone": "Asia/Vladivostok"
+        }
       }
     },
     {
@@ -77,13 +97,18 @@
       "date": "2026-11-25T20:57:00+10:00",
       "text": "Чтобы начать делать приглашение, мне нужны дата, место, ваши фотки и пара слов о том, какую свадьбу вы хотите\n\nВсё остальное обсудим по ходу\n\nКому актуально — напишите \"+\", покажу варианты",
       "media": [],
-      "status": "APPROVED_PENDING_SUBMISSION",
+      "status": "SCHEDULED",
       "execution": {
-        "scheduled": false,
+        "scheduled": true,
         "published": false,
-        "metricool_post_id": null,
-        "post_uuid": null,
-        "planner_url": null
+        "metricool_post_id": "440184263",
+        "post_uuid": "6607519854552171568",
+        "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=6607519854552171568",
+        "provider_status": "PENDING",
+        "confirmed_publication_date": {
+          "dateTime": "2026-11-25T20:57:00",
+          "timezone": "Asia/Vladivostok"
+        }
       }
     },
     {
