@@ -1,0 +1,540 @@
+{
+  "execution_id": "threads-scheduling-2026-11-25-12-01",
+  "account": "nickkem_vl",
+  "brand_id": "8224996",
+  "timezone": "Asia/Vladivostok",
+  "from": "2026-11-25",
+  "through": "2026-12-01",
+  "status": "SCHEDULING_IN_PROGRESS",
+  "target_count": 35,
+  "scheduled_count": 0,
+  "user_timing_authorization": "Вперёд. Согласованные посты, по пять в день, примерно равные промежутки, с 9 утра до 9 вечера по Владивостоку; минуты не ровные, выставляй сам.",
+  "timing_selection_delegated_by_user": true,
+  "posts": [
+    {
+      "display_number": 1,
+      "idea_id": 1,
+      "date": "2026-11-25T09:02:00+10:00",
+      "text": "Невесты 2027, на чём вы готовы сэкономить, а где сразу говорите \"даже не предлагайте\"? 🙂",
+      "media": [],
+      "status": "APPROVED_PENDING_SUBMISSION",
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_uuid": null,
+        "planner_url": null
+      }
+    },
+    {
+      "display_number": 2,
+      "idea_id": 11,
+      "date": "2026-11-25T12:06:00+10:00",
+      "text": "Вы были у друзей на свадьбе. Теперь женитесь сами, но хотите праздник в два раза меньше\n\nНужно звать их в ответ или это всё-таки не взаимозачёт?",
+      "media": [],
+      "status": "APPROVED_PENDING_SUBMISSION",
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_uuid": null,
+        "planner_url": null
+      }
+    },
+    {
+      "display_number": 3,
+      "idea_id": 31,
+      "date": "2026-11-25T15:03:00+10:00",
+      "text": "Написать в приглашении \"пыльная роза\" — красиво\n\nДобавить фото одежды такого цвета — заботливо\n\nЧтобы гости выбирали наряд, а не защищали диплом по оттенкам 🙂",
+      "media": [],
+      "status": "APPROVED_PENDING_SUBMISSION",
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_uuid": null,
+        "planner_url": null
+      }
+    },
+    {
+      "display_number": 4,
+      "idea_id": 41,
+      "date": "2026-11-25T18:08:00+10:00",
+      "text": "Что бы вы поставили на обложку свадебного приглашения: идеальную фотку со съёмки или ту, где вы оба ржёте и у одного закрыты глаза?",
+      "media": [],
+      "status": "APPROVED_PENDING_SUBMISSION",
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_uuid": null,
+        "planner_url": null
+      }
+    },
+    {
+      "display_number": 5,
+      "idea_id": 46,
+      "date": "2026-11-25T20:57:00+10:00",
+      "text": "Чтобы начать делать приглашение, мне нужны дата, место, ваши фотки и пара слов о том, какую свадьбу вы хотите\n\nВсё остальное обсудим по ходу\n\nКому актуально — напишите \"+\", покажу варианты",
+      "media": [],
+      "status": "APPROVED_PENDING_SUBMISSION",
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_uuid": null,
+        "planner_url": null
+      }
+    },
+    {
+      "display_number": 6,
+      "idea_id": 2,
+      "date": "2026-11-26T09:07:00+10:00",
+      "text": "Невесты 2027, что вы сначала решили сделать для свадьбы сами, а потом такие: \"Всё, дайте номер человека, который этим занимается\"? 🙂",
+      "media": [],
+      "status": "APPROVED_PENDING_SUBMISSION",
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_uuid": null,
+        "planner_url": null
+      }
+    },
+    {
+      "display_number": 7,
+      "idea_id": 58,
+      "date": "2026-11-26T12:03:00+10:00",
+      "text": "Совместный девичник и мальчишник — нормальная идея или хочется хотя бы этот вечер провести раздельно? 🙂",
+      "media": [],
+      "status": "APPROVED_PENDING_SUBMISSION",
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_uuid": null,
+        "planner_url": null
+      }
+    },
+    {
+      "display_number": 8,
+      "idea_id": 59,
+      "date": "2026-11-26T15:09:00+10:00",
+      "text": "Как считаете, свидетели на свадьбе — это ещё актуально или уже пережиток прошлого?",
+      "media": [],
+      "status": "APPROVED_PENDING_SUBMISSION",
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_uuid": null,
+        "planner_url": null
+      }
+    },
+    {
+      "display_number": 9,
+      "idea_id": 42,
+      "date": "2026-11-26T18:04:00+10:00",
+      "text": "Попросите друг друга отдельно написать, как вы познакомились\n\nЕсть шанс получить две разные истории: \"Я сразу всё понял\" и \"Я вообще думала, что он просто вежливый\" 🙂",
+      "media": [],
+      "status": "APPROVED_PENDING_SUBMISSION",
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_uuid": null,
+        "planner_url": null
+      }
+    },
+    {
+      "display_number": 10,
+      "idea_id": 47,
+      "date": "2026-11-26T20:59:00+10:00",
+      "text": "Если пока непонятно, каким должно быть приглашение, начнём с самой свадьбы\n\nГде будете праздновать, какие фотки вам нравятся, что хочется по настроению\n\nИз \"хотим красиво, но не знаем как\" тоже можно собрать понятную идею 🙂\n\nКому актуально — напишите \"+\"",
+      "media": [],
+      "status": "APPROVED_PENDING_SUBMISSION",
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_uuid": null,
+        "planner_url": null
+      }
+    },
+    {
+      "display_number": 11,
+      "idea_id": 6,
+      "date": "2026-11-27T09:04:00+10:00",
+      "text": "Те, кто уже сыграл свадьбу: на что вы смотрите сейчас и думаете \"господи, зачем мы вообще на это тратились\"?",
+      "media": [],
+      "status": "APPROVED_PENDING_SUBMISSION",
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_uuid": null,
+        "planner_url": null
+      }
+    },
+    {
+      "display_number": 12,
+      "idea_id": 60,
+      "date": "2026-11-27T12:08:00+10:00",
+      "text": "Свадьба без алкоголя: вы бы спокойно пришли или начали договариваться насчёт \"ну хотя бы шампанского\"?",
+      "media": [],
+      "status": "APPROVED_PENDING_SUBMISSION",
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_uuid": null,
+        "planner_url": null
+      }
+    },
+    {
+      "display_number": 13,
+      "idea_id": 39,
+      "date": "2026-11-27T15:02:00+10:00",
+      "text": "Для гостей из другого города свадьба начинается с \"где жить и как доехать\"\n\nЯ бы добавил в приглашение варианты проживания и информацию о трансфере, если он есть\n\nЧтобы после покупки билетов не начинался второй квест 🙂",
+      "media": [],
+      "status": "APPROVED_PENDING_SUBMISSION",
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_uuid": null,
+        "planner_url": null
+      }
+    },
+    {
+      "display_number": 14,
+      "idea_id": 43,
+      "date": "2026-11-27T18:07:00+10:00",
+      "text": "Какую вашу общую привычку друзья узнают сразу?\n\nТо, что вы каждую субботу идёте за одним и тем же кофе? Или не можете спокойно пройти мимо настолок?\n\nИз таких вещей тоже можно придумать свадебное приглашение",
+      "media": [],
+      "status": "APPROVED_PENDING_SUBMISSION",
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_uuid": null,
+        "planner_url": null
+      }
+    },
+    {
+      "display_number": 15,
+      "idea_id": 49,
+      "date": "2026-11-27T20:56:00+10:00",
+      "text": "Заказывать свадебное приглашение и переживать \"а если мне не понравится?\" — так себе удовольствие\n\nПоэтому у меня оплата после того, как вас устроит результат\n\nДелаю сайты-приглашения под вашу пару. Кому актуально — напишите \"+\", покажу варианты",
+      "media": [],
+      "status": "APPROVED_PENDING_SUBMISSION",
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_uuid": null,
+        "planner_url": null
+      }
+    },
+    {
+      "display_number": 16,
+      "idea_id": 8,
+      "date": "2026-11-28T09:06:00+10:00",
+      "text": "Невесты 2027, что выбирали первым: красивую дату и под неё всё остальное или площадку, а потом уже смотрели свободные дни?",
+      "media": [],
+      "status": "APPROVED_PENDING_SUBMISSION",
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_uuid": null,
+        "planner_url": null
+      }
+    },
+    {
+      "display_number": 17,
+      "idea_id": 16,
+      "date": "2026-11-28T12:02:00+10:00",
+      "text": "Гость пишет за день до свадьбы: \"Я не приду\"\n\nВ каком случае вы спокойно это примете, а в каком всё-таки обидитесь?",
+      "media": [],
+      "status": "APPROVED_PENDING_SUBMISSION",
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_uuid": null,
+        "planner_url": null
+      }
+    },
+    {
+      "display_number": 18,
+      "idea_id": 40,
+      "date": "2026-11-28T15:08:00+10:00",
+      "text": "В свадебном приглашении обычно понятно, во сколько приезжать\n\nА во сколько можно уезжать, чтобы не оказаться тем человеком, который \"что-то рано собрался\"? 🙂\n\nВремя окончания праздника вообще стоит указывать?",
+      "media": [],
+      "status": "APPROVED_PENDING_SUBMISSION",
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_uuid": null,
+        "planner_url": null
+      }
+    },
+    {
+      "display_number": 19,
+      "idea_id": 44,
+      "date": "2026-11-28T18:03:00+10:00",
+      "text": "Какая фраза из вашей переписки могла бы стать заголовком свадебного приглашения?\n\nТолько честно. Иногда там вместо \"люблю тебя\" что-нибудь вроде \"ты поел?\" 🙂",
+      "media": [],
+      "status": "APPROVED_PENDING_SUBMISSION",
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_uuid": null,
+        "planner_url": null
+      }
+    },
+    {
+      "display_number": 20,
+      "idea_id": 48,
+      "date": "2026-11-28T20:58:00+10:00",
+      "text": "Если в первом варианте приглашения что-то не нравится — говорите\n\n\"Слишком официально\", \"эту фотку не хочу\", \"а можно вообще другие цвета?\" — всё это можно обсудить\n\nДелаю сайты-приглашения под вашу пару. Кому актуально — напишите \"+\"",
+      "media": [],
+      "status": "APPROVED_PENDING_SUBMISSION",
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_uuid": null,
+        "planner_url": null
+      }
+    },
+    {
+      "display_number": 21,
+      "idea_id": 21,
+      "date": "2026-11-29T09:03:00+10:00",
+      "text": "Женихи 2027, какую часть подготовки вы сами захотели взять на себя?\n\nПлощадку, музыку, транспорт? Или у вас есть пункт, к которому вы вообще никого не подпускаете? 🙂",
+      "media": [],
+      "status": "APPROVED_PENDING_SUBMISSION",
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_uuid": null,
+        "planner_url": null
+      }
+    },
+    {
+      "display_number": 22,
+      "idea_id": 20,
+      "date": "2026-11-29T12:09:00+10:00",
+      "text": "Как вежливо ответить гостю на \"мы пока не знаем\", если ресторан уже хочет окончательное количество людей?\n\nВ какой момент можно перестать уточнять и просто считать, что человек не придёт?",
+      "media": [],
+      "status": "APPROVED_PENDING_SUBMISSION",
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_uuid": null,
+        "planner_url": null
+      }
+    },
+    {
+      "display_number": 23,
+      "idea_id": 35,
+      "date": "2026-11-29T15:05:00+10:00",
+      "text": "Если на первом экране свадебного приглашения оставить только три вещи, что выберете?\n\nИмена, дата, место, фото пары, начало церемонии?\n\nОчень интересно, что для вас важнее всего",
+      "media": [],
+      "status": "APPROVED_PENDING_SUBMISSION",
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_uuid": null,
+        "planner_url": null
+      }
+    },
+    {
+      "display_number": 24,
+      "idea_id": 54,
+      "date": "2026-11-29T18:02:00+10:00",
+      "text": "Кто брал собаку на свою свадьбу — расскажите, как всё прошло?\n\nОна спокойно была рядом или в итоге у кого-то появился отдельный рабочий день \"слежу за собакой\"? 🙂",
+      "media": [],
+      "status": "APPROVED_PENDING_SUBMISSION",
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_uuid": null,
+        "planner_url": null
+      }
+    },
+    {
+      "display_number": 25,
+      "idea_id": 45,
+      "date": "2026-11-29T20:57:00+10:00",
+      "text": "Свадебное приглашение можно начать с места, где вы впервые встретились\n\nДобавить вашу песню, пару фоток и историю, которую друзья до сих пор вспоминают\n\nЯ делаю такие сайты-приглашения под пару. Кому актуально — напишите \"+\", покажу варианты",
+      "media": [],
+      "status": "APPROVED_PENDING_SUBMISSION",
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_uuid": null,
+        "planner_url": null
+      }
+    },
+    {
+      "display_number": 26,
+      "idea_id": 24,
+      "date": "2026-11-30T09:08:00+10:00",
+      "text": "Расписаться вдвоём в один день, а отметить со всеми позже — для вас хороший вариант?\n\nИли хочется, чтобы \"мы поженились\" и \"мы празднуем\" были одной датой?",
+      "media": [],
+      "status": "APPROVED_PENDING_SUBMISSION",
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_uuid": null,
+        "planner_url": null
+      }
+    },
+    {
+      "display_number": 27,
+      "idea_id": 27,
+      "date": "2026-11-30T12:04:00+10:00",
+      "text": "Первый танец обязательно ставить с хореографом?\n\nИли можно просто выбрать свою песню, обняться и потанцевать, даже если со стороны это будет выглядеть не как номер из шоу?",
+      "media": [],
+      "status": "APPROVED_PENDING_SUBMISSION",
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_uuid": null,
+        "planner_url": null
+      }
+    },
+    {
+      "display_number": 28,
+      "idea_id": 38,
+      "date": "2026-11-30T15:07:00+10:00",
+      "text": "В приглашении может быть сколько угодно красивых фоток\n\nНо если гостю проще написать \"а куда ехать?\", чем найти адрес, кажется, мы немного перестарались 🙂",
+      "media": [],
+      "status": "APPROVED_PENDING_SUBMISSION",
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_uuid": null,
+        "planner_url": null
+      }
+    },
+    {
+      "display_number": 29,
+      "idea_id": 52,
+      "date": "2026-11-30T18:06:00+10:00",
+      "text": "Молодожёны просят пока не выкладывать фото со свадьбы\n\nДля вас это нормальная просьба или уже лишний контроль над чужими сторис?",
+      "media": [],
+      "status": "APPROVED_PENDING_SUBMISSION",
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_uuid": null,
+        "planner_url": null
+      }
+    },
+    {
+      "display_number": 30,
+      "idea_id": 50,
+      "date": "2026-11-30T20:59:00+10:00",
+      "text": "Опишите свою будущую свадьбу тремя словами\n\nБез \"красивая, весёлая, незабываемая\" 🙂\n\nХочу выбрать один ответ и придумать под него оформление сайта-приглашения",
+      "media": [],
+      "status": "APPROVED_PENDING_SUBMISSION",
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_uuid": null,
+        "planner_url": null
+      }
+    },
+    {
+      "display_number": 31,
+      "idea_id": 51,
+      "date": "2026-12-01T09:05:00+10:00",
+      "text": "Невесты 2027, церемония на улице — это уже решено или вы ещё думаете, что делать, если пойдёт дождь?\n\nКто уже выбирал запасной вариант — что придумали?",
+      "media": [],
+      "status": "APPROVED_PENDING_SUBMISSION",
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_uuid": null,
+        "planner_url": null
+      }
+    },
+    {
+      "display_number": 32,
+      "idea_id": 53,
+      "date": "2026-12-01T12:07:00+10:00",
+      "text": "Невесты 2027, фамилию после свадьбы меняете?\n\nИли уже столько лет представлялись своей, что новая пока вообще не ощущается вашей?",
+      "media": [],
+      "status": "APPROVED_PENDING_SUBMISSION",
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_uuid": null,
+        "planner_url": null
+      }
+    },
+    {
+      "display_number": 33,
+      "idea_id": 55,
+      "date": "2026-12-01T15:04:00+10:00",
+      "text": "Какую песню вы бы точно внесли в свадебный стоп-лист?\n\nТу самую, под которую все родственники скажут \"ну включи, нормальная же песня\" 🙂",
+      "media": [],
+      "status": "APPROVED_PENDING_SUBMISSION",
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_uuid": null,
+        "planner_url": null
+      }
+    },
+    {
+      "display_number": 34,
+      "idea_id": 56,
+      "date": "2026-12-01T18:09:00+10:00",
+      "text": "Как вы собираете пожелания гостей по еде?\n\nОтдельно спрашиваете про ограничения в анкете или надеетесь, что человек сам напишет, если ему что-то нельзя?\n\nКажется, это лучше выяснить до банкета",
+      "media": [],
+      "status": "APPROVED_PENDING_SUBMISSION",
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_uuid": null,
+        "planner_url": null
+      }
+    },
+    {
+      "display_number": 35,
+      "idea_id": 57,
+      "date": "2026-12-01T20:58:00+10:00",
+      "text": "Кто делал свадьбу без ведущего — как в итоге прошёл вечер?\n\nВсе спокойно общались или кто-нибудь всё равно взял организацию в свои руки?",
+      "media": [],
+      "status": "APPROVED_PENDING_SUBMISSION",
+      "execution": {
+        "scheduled": false,
+        "published": false,
+        "metricool_post_id": null,
+        "post_uuid": null,
+        "planner_url": null
+      }
+    }
+  ]
+}
