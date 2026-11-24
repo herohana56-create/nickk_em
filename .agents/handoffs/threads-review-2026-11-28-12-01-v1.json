@@ -1,7 +1,7 @@
 {
   "package_id": "threads-review-2026-11-28-12-01-v1",
-  "version": 3,
-  "status": "19_TEXTS_APPROVED_29_REVISION_PENDING_TIMING_DEFERRED",
+  "version": 4,
+  "status": "ALL_20_TEXTS_APPROVED_TIMING_DEFERRED",
   "account": "nickkem_vl",
   "brand_id": "8224996",
   "timezone": "Asia/Vladivostok",
@@ -401,7 +401,7 @@
           "idea_id": 52,
           "title": "Гости выкладывают фотографии раньше пары",
           "version": 3,
-          "status": "REVISED_TEXT_AWAITING_USER_APPROVAL",
+          "status": "TEXT_APPROVED_TIMING_NOT_APPROVED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Молодожёны просят пока не выкладывать фото со свадьбы\n\nДля вас это нормальная просьба или уже лишний контроль над чужими сторис?",
@@ -410,8 +410,11 @@
           },
           "approval": {
             "approved_by_user": false,
-            "text_approved": false,
-            "publication_time_approved": false
+            "text_approved": true,
+            "publication_time_approved": false,
+            "approved_text": "Молодожёны просят пока не выкладывать фото со свадьбы\n\nДля вас это нормальная просьба или уже лишний контроль над чужими сторис?",
+            "approved_text_version": 3,
+            "evidence": "отлично !"
           },
           "execution": {
             "scheduled": false,
@@ -611,7 +614,8 @@
     "Do not schedule or publish until explicit approval of the final text, attachments, target account and future date/time.",
     "Ideas 51, 55, 57 appear once only, here on December 1. The earlier duplicate replacement proposals were withdrawn.",
     "Latest feedback approves the other sixteen texts in this package and requests edits only to display numbers 16, 20, 28, 29. Their version-2 replacements keep the same four topics and await approval. Dates and publishing times remain unapproved.",
-    "Latest review leaves only text 29 pending; latest versions of texts 16, 20, 28 are accepted under the established numbered-feedback convention. Version 3 of text 29 asks for the guest's view of the photo-sharing request. Timing remains deferred."
+    "Latest review leaves only text 29 pending; latest versions of texts 16, 20, 28 are accepted under the established numbered-feedback convention. Version 3 of text 29 asks for the guest's view of the photo-sharing request. Timing remains deferred.",
+    "The user accepted the final version of text 29. All twenty current texts in this package are approved as text; dates/times and publication remain unapproved."
   ],
-  "latest_user_feedback": "давай 29 переделаем"
+  "latest_user_feedback": "отлично !"
 }
