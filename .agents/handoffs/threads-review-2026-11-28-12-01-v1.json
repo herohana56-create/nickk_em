@@ -1,0 +1,524 @@
+{
+  "package_id": "threads-review-2026-11-28-12-01-v1",
+  "version": 1,
+  "status": "AWAITING_TEXT_APPROVAL_TIMING_DEFERRED",
+  "account": "nickkem_vl",
+  "brand_id": "8224996",
+  "timezone": "Asia/Vladivostok",
+  "all_posts_without_images": true,
+  "publication_timing_status": "DEFERRED_BY_USER_NOT_APPROVED",
+  "days": [
+    {
+      "date": "2026-11-28",
+      "date_status": "PROPOSED_DAY_ALLOCATION",
+      "posts": [
+        {
+          "display_number": 16,
+          "idea_id": 8,
+          "title": "Красивая дата против удобной даты",
+          "version": 1,
+          "status": "AWAITING_TEXT_APPROVAL_TIMING_DEFERRED",
+          "proposal": {
+            "account": "nickkem_vl",
+            "text": "Невесты 2027, вы бы выбрали красивую дату, если ради неё пришлось бы менять ресторан или фотографа?\n\nИли цифры в свидетельстве всё-таки не настолько важны?",
+            "media": [],
+            "publish_at": null
+          },
+          "approval": {
+            "approved_by_user": false,
+            "text_approved": false,
+            "publication_time_approved": false
+          },
+          "execution": {
+            "scheduled": false,
+            "published": false,
+            "metricool_post_id": null,
+            "post_url": null
+          }
+        },
+        {
+          "display_number": 17,
+          "idea_id": 16,
+          "title": "Гость отменяет участие за день до свадьбы",
+          "version": 1,
+          "status": "AWAITING_TEXT_APPROVAL_TIMING_DEFERRED",
+          "proposal": {
+            "account": "nickkem_vl",
+            "text": "Гость пишет за день до свадьбы: \"Я не приду\"\n\nВ каком случае вы спокойно это примете, а в каком всё-таки обидитесь?",
+            "media": [],
+            "publish_at": null
+          },
+          "approval": {
+            "approved_by_user": false,
+            "text_approved": false,
+            "publication_time_approved": false
+          },
+          "execution": {
+            "scheduled": false,
+            "published": false,
+            "metricool_post_id": null,
+            "post_url": null
+          }
+        },
+        {
+          "display_number": 18,
+          "idea_id": 40,
+          "title": "Указывать ли время окончания праздника?",
+          "version": 1,
+          "status": "AWAITING_TEXT_APPROVAL_TIMING_DEFERRED",
+          "proposal": {
+            "account": "nickkem_vl",
+            "text": "В свадебном приглашении обычно понятно, во сколько приезжать\n\nА во сколько можно уезжать, чтобы не оказаться тем человеком, который \"что-то рано собрался\"? 🙂\n\nВремя окончания праздника вообще стоит указывать?",
+            "media": [],
+            "publish_at": null
+          },
+          "approval": {
+            "approved_by_user": false,
+            "text_approved": false,
+            "publication_time_approved": false
+          },
+          "execution": {
+            "scheduled": false,
+            "published": false,
+            "metricool_post_id": null,
+            "post_url": null
+          }
+        },
+        {
+          "display_number": 19,
+          "idea_id": 44,
+          "title": "Фраза из переписки в приглашении",
+          "version": 1,
+          "status": "AWAITING_TEXT_APPROVAL_TIMING_DEFERRED",
+          "proposal": {
+            "account": "nickkem_vl",
+            "text": "Какая фраза из вашей переписки могла бы стать заголовком свадебного приглашения?\n\nТолько честно. Иногда там вместо \"люблю тебя\" что-нибудь вроде \"ты поел?\" 🙂",
+            "media": [],
+            "publish_at": null
+          },
+          "approval": {
+            "approved_by_user": false,
+            "text_approved": false,
+            "publication_time_approved": false
+          },
+          "execution": {
+            "scheduled": false,
+            "published": false,
+            "metricool_post_id": null,
+            "post_url": null
+          }
+        },
+        {
+          "display_number": 20,
+          "idea_id": 48,
+          "title": "Что можно поменять после первого варианта?",
+          "version": 1,
+          "status": "AWAITING_TEXT_APPROVAL_TIMING_DEFERRED",
+          "proposal": {
+            "account": "nickkem_vl",
+            "text": "В первом варианте приглашения можно сказать \"фотки нравятся, а текст вообще не наш\"\n\nИли попросить другие цвета и убрать лишние детали\n\nДелаю сайты-приглашения под вашу пару. Кому актуально — напишите \"+\"",
+            "media": [],
+            "publish_at": null
+          },
+          "approval": {
+            "approved_by_user": false,
+            "text_approved": false,
+            "publication_time_approved": false
+          },
+          "execution": {
+            "scheduled": false,
+            "published": false,
+            "metricool_post_id": null,
+            "post_url": null
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-11-29",
+      "date_status": "PROPOSED_DAY_ALLOCATION",
+      "posts": [
+        {
+          "display_number": 21,
+          "idea_id": 21,
+          "title": "Какую часть подготовки жених взял на себя?",
+          "version": 1,
+          "status": "AWAITING_TEXT_APPROVAL_TIMING_DEFERRED",
+          "proposal": {
+            "account": "nickkem_vl",
+            "text": "Женихи 2027, какую часть подготовки вы сами захотели взять на себя?\n\nПлощадку, музыку, транспорт? Или у вас есть пункт, к которому вы вообще никого не подпускаете? 🙂",
+            "media": [],
+            "publish_at": null
+          },
+          "approval": {
+            "approved_by_user": false,
+            "text_approved": false,
+            "publication_time_approved": false
+          },
+          "execution": {
+            "scheduled": false,
+            "published": false,
+            "metricool_post_id": null,
+            "post_url": null
+          }
+        },
+        {
+          "display_number": 22,
+          "idea_id": 20,
+          "title": "Что делать с гостями, которые пока не знают?",
+          "version": 1,
+          "status": "AWAITING_TEXT_APPROVAL_TIMING_DEFERRED",
+          "proposal": {
+            "account": "nickkem_vl",
+            "text": "Как вежливо ответить гостю на \"мы пока не знаем\", если ресторан уже хочет окончательное количество людей?\n\nВ какой момент можно перестать уточнять и просто считать, что человек не придёт?",
+            "media": [],
+            "publish_at": null
+          },
+          "approval": {
+            "approved_by_user": false,
+            "text_approved": false,
+            "publication_time_approved": false
+          },
+          "execution": {
+            "scheduled": false,
+            "published": false,
+            "metricool_post_id": null,
+            "post_url": null
+          }
+        },
+        {
+          "display_number": 23,
+          "idea_id": 35,
+          "title": "Три вещи на первом экране приглашения",
+          "version": 1,
+          "status": "AWAITING_TEXT_APPROVAL_TIMING_DEFERRED",
+          "proposal": {
+            "account": "nickkem_vl",
+            "text": "Если на первом экране свадебного приглашения оставить только три вещи, что выберете?\n\nИмена, дата, место, фото пары, начало церемонии?\n\nОчень интересно, что для вас важнее всего",
+            "media": [],
+            "publish_at": null
+          },
+          "approval": {
+            "approved_by_user": false,
+            "text_approved": false,
+            "publication_time_approved": false
+          },
+          "execution": {
+            "scheduled": false,
+            "published": false,
+            "metricool_post_id": null,
+            "post_url": null
+          }
+        },
+        {
+          "display_number": 24,
+          "idea_id": 54,
+          "title": "Питомец на свадьбе",
+          "version": 1,
+          "status": "AWAITING_TEXT_APPROVAL_TIMING_DEFERRED",
+          "proposal": {
+            "account": "nickkem_vl",
+            "text": "Кто брал собаку на свою свадьбу — расскажите, как всё прошло?\n\nОна спокойно была рядом или в итоге у кого-то появился отдельный рабочий день \"слежу за собакой\"? 🙂",
+            "media": [],
+            "publish_at": null
+          },
+          "approval": {
+            "approved_by_user": false,
+            "text_approved": false,
+            "publication_time_approved": false
+          },
+          "execution": {
+            "scheduled": false,
+            "published": false,
+            "metricool_post_id": null,
+            "post_url": null
+          }
+        },
+        {
+          "display_number": 25,
+          "idea_id": 45,
+          "title": "Приглашение как экскурсия по истории пары",
+          "version": 1,
+          "status": "AWAITING_TEXT_APPROVAL_TIMING_DEFERRED",
+          "proposal": {
+            "account": "nickkem_vl",
+            "text": "Свадебное приглашение можно начать с места, где вы впервые встретились\n\nДобавить вашу песню, пару фоток и историю, которую друзья до сих пор вспоминают\n\nЯ делаю такие сайты-приглашения под пару. Кому актуально — напишите \"+\", покажу варианты",
+            "media": [],
+            "publish_at": null
+          },
+          "approval": {
+            "approved_by_user": false,
+            "text_approved": false,
+            "publication_time_approved": false
+          },
+          "execution": {
+            "scheduled": false,
+            "published": false,
+            "metricool_post_id": null,
+            "post_url": null
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-11-30",
+      "date_status": "PROPOSED_DAY_ALLOCATION",
+      "posts": [
+        {
+          "display_number": 26,
+          "idea_id": 24,
+          "title": "Регистрация и праздник в разные дни",
+          "version": 1,
+          "status": "AWAITING_TEXT_APPROVAL_TIMING_DEFERRED",
+          "proposal": {
+            "account": "nickkem_vl",
+            "text": "Расписаться вдвоём в один день, а отметить со всеми позже — для вас хороший вариант?\n\nИли хочется, чтобы \"мы поженились\" и \"мы празднуем\" были одной датой?",
+            "media": [],
+            "publish_at": null
+          },
+          "approval": {
+            "approved_by_user": false,
+            "text_approved": false,
+            "publication_time_approved": false
+          },
+          "execution": {
+            "scheduled": false,
+            "published": false,
+            "metricool_post_id": null,
+            "post_url": null
+          }
+        },
+        {
+          "display_number": 27,
+          "idea_id": 27,
+          "title": "Первый танец без постановки",
+          "version": 1,
+          "status": "AWAITING_TEXT_APPROVAL_TIMING_DEFERRED",
+          "proposal": {
+            "account": "nickkem_vl",
+            "text": "Первый танец обязательно ставить с хореографом?\n\nИли можно просто выбрать свою песню, обняться и потанцевать, даже если со стороны это будет выглядеть не как номер из шоу?",
+            "media": [],
+            "publish_at": null
+          },
+          "approval": {
+            "approved_by_user": false,
+            "text_approved": false,
+            "publication_time_approved": false
+          },
+          "execution": {
+            "scheduled": false,
+            "published": false,
+            "metricool_post_id": null,
+            "post_url": null
+          }
+        },
+        {
+          "display_number": 28,
+          "idea_id": 38,
+          "title": "Сколько информации в приглашении уже слишком много?",
+          "version": 1,
+          "status": "AWAITING_TEXT_APPROVAL_TIMING_DEFERRED",
+          "proposal": {
+            "account": "nickkem_vl",
+            "text": "Открываешь приглашение: история пары, программа, дресс-код, подарки, анкета, ещё одна анкета\n\nВ какой момент вы уже просто пишете молодожёнам: \"Скажи, во сколько и куда приезжать\"? 🙂",
+            "media": [],
+            "publish_at": null
+          },
+          "approval": {
+            "approved_by_user": false,
+            "text_approved": false,
+            "publication_time_approved": false
+          },
+          "execution": {
+            "scheduled": false,
+            "published": false,
+            "metricool_post_id": null,
+            "post_url": null
+          }
+        },
+        {
+          "display_number": 29,
+          "idea_id": 52,
+          "title": "Гости выкладывают фотографии раньше пары",
+          "version": 1,
+          "status": "AWAITING_TEXT_APPROVAL_TIMING_DEFERRED",
+          "proposal": {
+            "account": "nickkem_vl",
+            "text": "Вас попросили не выкладывать фото со свадьбы до публикации молодожёнов\n\nСпокойно подождёте или считаете, что за свои сторис каждый решает сам?",
+            "media": [],
+            "publish_at": null
+          },
+          "approval": {
+            "approved_by_user": false,
+            "text_approved": false,
+            "publication_time_approved": false
+          },
+          "execution": {
+            "scheduled": false,
+            "published": false,
+            "metricool_post_id": null,
+            "post_url": null
+          }
+        },
+        {
+          "display_number": 30,
+          "idea_id": 50,
+          "title": "Концепция приглашения по трём словам из комментариев",
+          "version": 1,
+          "status": "AWAITING_TEXT_APPROVAL_TIMING_DEFERRED",
+          "proposal": {
+            "account": "nickkem_vl",
+            "text": "Опишите свою будущую свадьбу тремя словами\n\nБез \"красивая, весёлая, незабываемая\" 🙂\n\nХочу выбрать один ответ и придумать под него оформление сайта-приглашения",
+            "media": [],
+            "publish_at": null
+          },
+          "approval": {
+            "approved_by_user": false,
+            "text_approved": false,
+            "publication_time_approved": false
+          },
+          "execution": {
+            "scheduled": false,
+            "published": false,
+            "metricool_post_id": null,
+            "post_url": null
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-12-01",
+      "date_status": "PROPOSED_DAY_ALLOCATION",
+      "posts": [
+        {
+          "display_number": 31,
+          "idea_id": 51,
+          "title": "Дождь в день свадьбы",
+          "version": 1,
+          "status": "AWAITING_TEXT_APPROVAL_TIMING_DEFERRED",
+          "proposal": {
+            "account": "nickkem_vl",
+            "text": "Невесты 2027, церемония на улице — это уже решено или вы ещё думаете, что делать, если пойдёт дождь?\n\nКто уже выбирал запасной вариант — что придумали?",
+            "media": [],
+            "publish_at": null
+          },
+          "approval": {
+            "approved_by_user": false,
+            "text_approved": false,
+            "publication_time_approved": false
+          },
+          "execution": {
+            "scheduled": false,
+            "published": false,
+            "metricool_post_id": null,
+            "post_url": null
+          }
+        },
+        {
+          "display_number": 32,
+          "idea_id": 53,
+          "title": "Фамилия после свадьбы",
+          "version": 1,
+          "status": "AWAITING_TEXT_APPROVAL_TIMING_DEFERRED",
+          "proposal": {
+            "account": "nickkem_vl",
+            "text": "Невесты 2027, фамилию после свадьбы меняете?\n\nИли уже столько лет представлялись своей, что новая пока вообще не ощущается вашей?",
+            "media": [],
+            "publish_at": null
+          },
+          "approval": {
+            "approved_by_user": false,
+            "text_approved": false,
+            "publication_time_approved": false
+          },
+          "execution": {
+            "scheduled": false,
+            "published": false,
+            "metricool_post_id": null,
+            "post_url": null
+          }
+        },
+        {
+          "display_number": 33,
+          "idea_id": 55,
+          "title": "Свадебный плейлист",
+          "version": 1,
+          "status": "AWAITING_TEXT_APPROVAL_TIMING_DEFERRED",
+          "proposal": {
+            "account": "nickkem_vl",
+            "text": "Какую песню вы бы точно внесли в свадебный стоп-лист?\n\nТу самую, под которую все родственники скажут \"ну включи, нормальная же песня\" 🙂",
+            "media": [],
+            "publish_at": null
+          },
+          "approval": {
+            "approved_by_user": false,
+            "text_approved": false,
+            "publication_time_approved": false
+          },
+          "execution": {
+            "scheduled": false,
+            "published": false,
+            "metricool_post_id": null,
+            "post_url": null
+          }
+        },
+        {
+          "display_number": 34,
+          "idea_id": 56,
+          "title": "Еда и ограничения гостей",
+          "version": 1,
+          "status": "AWAITING_TEXT_APPROVAL_TIMING_DEFERRED",
+          "proposal": {
+            "account": "nickkem_vl",
+            "text": "Как вы собираете пожелания гостей по еде?\n\nОтдельно спрашиваете про ограничения в анкете или надеетесь, что человек сам напишет, если ему что-то нельзя?\n\nКажется, это лучше выяснить до банкета",
+            "media": [],
+            "publish_at": null
+          },
+          "approval": {
+            "approved_by_user": false,
+            "text_approved": false,
+            "publication_time_approved": false
+          },
+          "execution": {
+            "scheduled": false,
+            "published": false,
+            "metricool_post_id": null,
+            "post_url": null
+          }
+        },
+        {
+          "display_number": 35,
+          "idea_id": 57,
+          "title": "Свадьба без ведущего",
+          "version": 1,
+          "status": "AWAITING_TEXT_APPROVAL_TIMING_DEFERRED",
+          "proposal": {
+            "account": "nickkem_vl",
+            "text": "Кто делал свадьбу без ведущего — как в итоге прошёл вечер?\n\nВсе спокойно общались или кто-нибудь всё равно взял организацию в свои руки?",
+            "media": [],
+            "publish_at": null
+          },
+          "approval": {
+            "approved_by_user": false,
+            "text_approved": false,
+            "publication_time_approved": false
+          },
+          "execution": {
+            "scheduled": false,
+            "published": false,
+            "metricool_post_id": null,
+            "post_url": null
+          }
+        }
+      ]
+    }
+  ],
+  "rules": [
+    "This package is for text review only; the user explicitly deferred publishing times.",
+    "Display numbers 16–35 continue the numbering of accepted texts 1–15.",
+    "All images arrays are empty; no media needs to be generated for this version.",
+    "No exact text duplicate or repeated idea_id exists across the combined current 35-text week.",
+    "Do not schedule or publish until explicit approval of the final text, attachments, target account and future date/time.",
+    "Ideas 51, 55, 57 appear once only, here on December 1. The earlier duplicate replacement proposals were withdrawn."
+  ]
+}
