@@ -1,7 +1,7 @@
 {
   "package_id": "threads-review-2026-11-25-27-v1",
-  "version": 2,
-  "status": "12_TEXTS_APPROVED_3_REVISIONS_PENDING_TIMING_DEFERRED",
+  "version": 3,
+  "status": "12_TEXTS_APPROVED_3_NEW_TOPICS_PENDING_TIMING_DEFERRED",
   "account": "nickkem_vl",
   "brand_id": "8224996",
   "timezone": "Asia/Vladivostok",
@@ -180,12 +180,12 @@
         {
           "display_number": 7,
           "idea_id": 12,
-          "title": "Можно ли гостю взять незнакомого паре спутника?",
-          "version": 2,
-          "status": "REVISED_TEXT_AWAITING_USER_APPROVAL",
+          "title": "Свадебный плейлист",
+          "version": 3,
+          "status": "NEW_TOPIC_AND_TEXT_AWAITING_USER_APPROVAL",
           "proposal": {
             "account": "nickkem_vl",
-            "text": "Гость: \"Я буду с девушкой\"\n\nМолодожёны: \"Так, у нас две новости. У тебя есть девушка. И она тоже идёт на свадьбу\" 🙂",
+            "text": "Какую песню вы бы запретили включать на своей свадьбе, даже если её попросит самый любимый родственник?",
             "media": [],
             "publish_at": "2026-11-26T14:36:00+10:00"
           },
@@ -205,18 +205,28 @@
               "version": 1,
               "text": "Вас пригласили на свадьбу. Можно спросить \"а я могу с подругой?\", если её молодожёны вообще не знают?\n\nИли приглашение без \"+1\" уже достаточно понятный ответ?",
               "decision": "CHANGES_REQUESTED"
+            },
+            {
+              "version": 2,
+              "idea_id": 12,
+              "title": "Можно ли гостю взять незнакомого паре спутника?",
+              "text": "Гость: \"Я буду с девушкой\"\n\nМолодожёны: \"Так, у нас две новости. У тебя есть девушка. И она тоже идёт на свадьбу\" 🙂",
+              "decision": "REJECTED_USER_REQUESTED_ANOTHER_TOPIC"
             }
-          ]
+          ],
+          "original_idea_id": 12,
+          "proposed_replacement_idea_id": 55,
+          "proposed_replacement_title": "Свадебный плейлист"
         },
         {
           "display_number": 8,
           "idea_id": 37,
-          "title": "Изменения времени или площадки после рассылки",
-          "version": 2,
-          "status": "REVISED_TEXT_AWAITING_USER_APPROVAL",
+          "title": "Дождь в день свадьбы",
+          "version": 3,
+          "status": "NEW_TOPIC_AND_TEXT_AWAITING_USER_APPROVAL",
           "proposal": {
             "account": "nickkem_vl",
-            "text": "Если перед свадьбой поменялся адрес, кому вы доверите написать всем гостям?\n\nПотому что \"я думал, ты уже всем сказала\" звучит как начало очень интересного дня 🙂",
+            "text": "Невесты 2027, вы уже придумали план на случай дождя или пока договариваетесь с погодой? 🙂",
             "media": [],
             "publish_at": "2026-11-26T16:48:00+10:00"
           },
@@ -236,8 +246,18 @@
               "version": 1,
               "text": "В приглашении поменялось время. Вы уверены, что гости это увидели?\n\nЯ бы отдельно написал всем, кто уже подтвердил участие\n\nНовая цифра на сайте не отменяет старый скриншот в телефоне 🙂",
               "decision": "CHANGES_REQUESTED"
+            },
+            {
+              "version": 2,
+              "idea_id": 37,
+              "title": "Изменения времени или площадки после рассылки",
+              "text": "Если перед свадьбой поменялся адрес, кому вы доверите написать всем гостям?\n\nПотому что \"я думал, ты уже всем сказала\" звучит как начало очень интересного дня 🙂",
+              "decision": "REJECTED_USER_REQUESTED_ANOTHER_TOPIC"
             }
-          ]
+          ],
+          "original_idea_id": 37,
+          "proposed_replacement_idea_id": 51,
+          "proposed_replacement_title": "Дождь в день свадьбы"
         },
         {
           "display_number": 9,
@@ -328,12 +348,12 @@
         {
           "display_number": 12,
           "idea_id": 13,
-          "title": "Родители хотят позвать своих друзей",
-          "version": 2,
-          "status": "REVISED_TEXT_AWAITING_USER_APPROVAL",
+          "title": "Свадьба без ведущего",
+          "version": 3,
+          "status": "NEW_TOPIC_AND_TEXT_AWAITING_USER_APPROVAL",
           "proposal": {
             "account": "nickkem_vl",
-            "text": "Молодожёны: \"Список гостей наконец готов\"\n\nРодители: \"Мы тут ещё кое-кого вспомнили\" 🙂",
+            "text": "Свадьба без ведущего — реально весело или в итоге ведущим становится самый громкий родственник? 🙂",
             "media": [],
             "publish_at": "2026-11-27T14:36:00+10:00"
           },
@@ -353,8 +373,18 @@
               "version": 1,
               "text": "Если родители помогают оплатить свадьбу, у них появляется право позвать своих друзей?\n\nИли список гостей всё равно остаётся за парой?",
               "decision": "CHANGES_REQUESTED"
+            },
+            {
+              "version": 2,
+              "idea_id": 13,
+              "title": "Родители хотят позвать своих друзей",
+              "text": "Молодожёны: \"Список гостей наконец готов\"\n\nРодители: \"Мы тут ещё кое-кого вспомнили\" 🙂",
+              "decision": "REJECTED_USER_REQUESTED_ANOTHER_TOPIC"
             }
-          ]
+          ],
+          "original_idea_id": 13,
+          "proposed_replacement_idea_id": 57,
+          "proposed_replacement_title": "Свадьба без ведущего"
         },
         {
           "display_number": 13,
@@ -447,8 +477,9 @@
     "Only explicit approval of exact text, media absence, profile and proposed time permits scheduling.",
     "If substantive edits are requested, save a new proposal version and show it before publishing.",
     "If times pass, obtain approval for replacement times instead of posting immediately.",
-    "Latest user instruction: timing is deferred. Keep existing suggested dates/times only as unapproved proposals; do not interpret text approval as scheduling authorization. Texts 1–6, 9–11 and 13–15 are approved as written; versions 2 of texts 7, 8, 12 require fresh text review."
+    "Latest user instruction: timing is deferred. Keep existing suggested dates/times only as unapproved proposals; do not interpret text approval as scheduling authorization. Texts 1–6, 9–11 and 13–15 are approved as written; versions 2 of texts 7, 8, 12 require fresh text review.",
+    "Version 3 proposes different selected-bank themes for review numbers 7 (idea 55), 8 (idea 51) and 12 (idea 57), instead of rephrasing their rejected versions. Keep the original idea_id only as an audit reference until the new topic/text is accepted. After acceptance, reconcile weekly assignments so moved ideas are not repeated on December 1, and show any required replacement topics separately. Publication timing remains deferred; no Metricool writes are authorized."
   ],
-  "latest_user_feedback": "Всё нравится, кроме 7, 8 и 12; время пока не согласовываем.",
+  "latest_user_feedback": "Новые формулировки 7, 8 и 12 не подходят; пользователь просит другие темы, а не перефразирование.",
   "publication_timing_status": "DEFERRED_BY_USER_NOT_APPROVED"
 }
