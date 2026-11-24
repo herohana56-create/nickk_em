@@ -1,7 +1,7 @@
 {
   "package_id": "threads-review-2026-11-25-27-v1",
-  "version": 3,
-  "status": "12_TEXTS_APPROVED_3_NEW_TOPICS_PENDING_TIMING_DEFERRED",
+  "version": 4,
+  "status": "12_TEXTS_APPROVED_3_ORIGINAL_REPLACEMENTS_PENDING_TIMING_DEFERRED",
   "account": "nickkem_vl",
   "brand_id": "8224996",
   "timezone": "Asia/Vladivostok",
@@ -180,12 +180,12 @@
         {
           "display_number": 7,
           "idea_id": 12,
-          "title": "Свадебный плейлист",
-          "version": 3,
+          "title": "Совместный девичник и мальчишник",
+          "version": 4,
           "status": "NEW_TOPIC_AND_TEXT_AWAITING_USER_APPROVAL",
           "proposal": {
             "account": "nickkem_vl",
-            "text": "Какую песню вы бы запретили включать на своей свадьбе, даже если её попросит самый любимый родственник?",
+            "text": "Совместный девичник и мальчишник — нормальная идея или хочется хотя бы этот вечер провести раздельно? 🙂",
             "media": [],
             "publish_at": "2026-11-26T14:36:00+10:00"
           },
@@ -212,21 +212,28 @@
               "title": "Можно ли гостю взять незнакомого паре спутника?",
               "text": "Гость: \"Я буду с девушкой\"\n\nМолодожёны: \"Так, у нас две новости. У тебя есть девушка. И она тоже идёт на свадьбу\" 🙂",
               "decision": "REJECTED_USER_REQUESTED_ANOTHER_TOPIC"
+            },
+            {
+              "version": 3,
+              "proposed_replacement_idea_id": 55,
+              "title": "Свадебный плейлист",
+              "text": "Какую песню вы бы запретили включать на своей свадьбе, даже если её попросит самый любимый родственник?",
+              "decision": "REMOVED_DUPLICATE_OF_EXISTING_SELECTED_IDEA"
             }
           ],
           "original_idea_id": 12,
-          "proposed_replacement_idea_id": 55,
-          "proposed_replacement_title": "Свадебный плейлист"
+          "proposed_replacement_idea_id": 58,
+          "proposed_replacement_title": "Совместный девичник и мальчишник"
         },
         {
           "display_number": 8,
           "idea_id": 37,
-          "title": "Дождь в день свадьбы",
-          "version": 3,
+          "title": "Роль свидетелей на свадьбе",
+          "version": 4,
           "status": "NEW_TOPIC_AND_TEXT_AWAITING_USER_APPROVAL",
           "proposal": {
             "account": "nickkem_vl",
-            "text": "Невесты 2027, вы уже придумали план на случай дождя или пока договариваетесь с погодой? 🙂",
+            "text": "Свидетель на свадьбе — это почётная роль или человек, у которого весь день находятся чужие телефоны, документы и ключи? 🙂",
             "media": [],
             "publish_at": "2026-11-26T16:48:00+10:00"
           },
@@ -253,11 +260,18 @@
               "title": "Изменения времени или площадки после рассылки",
               "text": "Если перед свадьбой поменялся адрес, кому вы доверите написать всем гостям?\n\nПотому что \"я думал, ты уже всем сказала\" звучит как начало очень интересного дня 🙂",
               "decision": "REJECTED_USER_REQUESTED_ANOTHER_TOPIC"
+            },
+            {
+              "version": 3,
+              "proposed_replacement_idea_id": 51,
+              "title": "Дождь в день свадьбы",
+              "text": "Невесты 2027, вы уже придумали план на случай дождя или пока договариваетесь с погодой? 🙂",
+              "decision": "REMOVED_DUPLICATE_OF_EXISTING_SELECTED_IDEA"
             }
           ],
           "original_idea_id": 37,
-          "proposed_replacement_idea_id": 51,
-          "proposed_replacement_title": "Дождь в день свадьбы"
+          "proposed_replacement_idea_id": 59,
+          "proposed_replacement_title": "Роль свидетелей на свадьбе"
         },
         {
           "display_number": 9,
@@ -348,12 +362,12 @@
         {
           "display_number": 12,
           "idea_id": 13,
-          "title": "Свадьба без ведущего",
-          "version": 3,
+          "title": "Свадьба без алкоголя",
+          "version": 4,
           "status": "NEW_TOPIC_AND_TEXT_AWAITING_USER_APPROVAL",
           "proposal": {
             "account": "nickkem_vl",
-            "text": "Свадьба без ведущего — реально весело или в итоге ведущим становится самый громкий родственник? 🙂",
+            "text": "Свадьба без алкоголя: вы бы спокойно пришли или начали договариваться насчёт \"ну хотя бы шампанского\"?",
             "media": [],
             "publish_at": "2026-11-27T14:36:00+10:00"
           },
@@ -380,11 +394,18 @@
               "title": "Родители хотят позвать своих друзей",
               "text": "Молодожёны: \"Список гостей наконец готов\"\n\nРодители: \"Мы тут ещё кое-кого вспомнили\" 🙂",
               "decision": "REJECTED_USER_REQUESTED_ANOTHER_TOPIC"
+            },
+            {
+              "version": 3,
+              "proposed_replacement_idea_id": 57,
+              "title": "Свадьба без ведущего",
+              "text": "Свадьба без ведущего — реально весело или в итоге ведущим становится самый громкий родственник? 🙂",
+              "decision": "REMOVED_DUPLICATE_OF_EXISTING_SELECTED_IDEA"
             }
           ],
           "original_idea_id": 13,
-          "proposed_replacement_idea_id": 57,
-          "proposed_replacement_title": "Свадьба без ведущего"
+          "proposed_replacement_idea_id": 60,
+          "proposed_replacement_title": "Свадьба без алкоголя"
         },
         {
           "display_number": 13,
@@ -478,8 +499,38 @@
     "If substantive edits are requested, save a new proposal version and show it before publishing.",
     "If times pass, obtain approval for replacement times instead of posting immediately.",
     "Latest user instruction: timing is deferred. Keep existing suggested dates/times only as unapproved proposals; do not interpret text approval as scheduling authorization. Texts 1–6, 9–11 and 13–15 are approved as written; versions 2 of texts 7, 8, 12 require fresh text review.",
-    "Version 3 proposes different selected-bank themes for review numbers 7 (idea 55), 8 (idea 51) and 12 (idea 57), instead of rephrasing their rejected versions. Keep the original idea_id only as an audit reference until the new topic/text is accepted. After acceptance, reconcile weekly assignments so moved ideas are not repeated on December 1, and show any required replacement topics separately. Publication timing remains deferred; no Metricool writes are authorized."
+    "Current proposed replacements are entirely new topics 58, 59, 60, not moved ideas from later dates. Existing ideas 51, 55, 57 keep their original weekly slots. Compare both topic and exact text against selected bank, excluded bank, previous proposals, revision history, and weekly assignments before calling a replacement new. Moving an existing idea must be described as a move, never as a new idea; do not schedule the same idea/text twice. The current replacements still require user approval; timing remains deferred."
   ],
-  "latest_user_feedback": "Новые формулировки 7, 8 и 12 не подходят; пользователь просит другие темы, а не перефразирование.",
-  "publication_timing_status": "DEFERRED_BY_USER_NOT_APPROVED"
+  "latest_user_feedback": "Последние замены были дословными дублями уже выбранных идей 55, 51, 57. Пользователь указал на повтор.",
+  "publication_timing_status": "DEFERRED_BY_USER_NOT_APPROVED",
+  "novelty_check": {
+    "files_checked": 12,
+    "reference_items_compared": 208,
+    "all_sources_read": true,
+    "exact_text_duplicates_found": false,
+    "topic_overlap_found_for_new_proposals": false
+  },
+  "new_topic_proposals": [
+    {
+      "id": 58,
+      "display_number": 7,
+      "title": "Совместный девичник и мальчишник",
+      "text": "Совместный девичник и мальчишник — нормальная идея или хочется хотя бы этот вечер провести раздельно? 🙂",
+      "selection": "PROPOSED_NOT_APPROVED"
+    },
+    {
+      "id": 59,
+      "display_number": 8,
+      "title": "Роль свидетелей на свадьбе",
+      "text": "Свидетель на свадьбе — это почётная роль или человек, у которого весь день находятся чужие телефоны, документы и ключи? 🙂",
+      "selection": "PROPOSED_NOT_APPROVED"
+    },
+    {
+      "id": 60,
+      "display_number": 12,
+      "title": "Свадьба без алкоголя",
+      "text": "Свадьба без алкоголя: вы бы спокойно пришли или начали договариваться насчёт \"ну хотя бы шампанского\"?",
+      "selection": "PROPOSED_NOT_APPROVED"
+    }
+  ]
 }
