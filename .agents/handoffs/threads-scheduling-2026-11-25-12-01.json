@@ -5,7 +5,7 @@
   "timezone": "Asia/Vladivostok",
   "from": "2026-11-25",
   "through": "2026-12-01",
-  "status": "ALL_35_SCHEDULED_VERIFIED",
+  "status": "PUBLICATION_IN_PROGRESS",
   "target_count": 35,
   "scheduled_count": 35,
   "user_timing_authorization": "Вперёд. Согласованные посты, по пять в день, примерно равные промежутки, с 9 утра до 9 вечера по Владивостоку; минуты не ровные, выставляй сам.",
@@ -17,19 +17,21 @@
       "date": "2026-11-25T09:02:00+10:00",
       "text": "Невесты 2027, на чём вы готовы сэкономить, а где сразу говорите \"даже не предлагайте\"? 🙂",
       "media": [],
-      "status": "SCHEDULED",
+      "status": "PUBLISHED",
       "execution": {
-        "scheduled": true,
-        "published": false,
+        "scheduled": false,
+        "published": true,
         "metricool_post_id": "440183941",
         "post_uuid": "2051161854556194259",
         "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=2051161854556194259",
-        "provider_status": "PENDING",
+        "provider_status": "PUBLISHED",
         "confirmed_publication_date": {
           "dateTime": "2026-11-25T09:02:00",
           "timezone": "Asia/Vladivostok"
         },
-        "verified_in_queue": true
+        "verified_in_queue": true,
+        "post_url": "https://www.threads.com/@nickkem_vl/post/DgJF-bzjegk",
+        "network_post_id": "18036379307912325"
       }
     },
     {
@@ -799,5 +801,11 @@
       "20:58"
     ]
   },
-  "queue_count": 35
+  "queue_count": 35,
+  "last_live_check": {
+    "date": "2026-11-25",
+    "timezone": "Asia/Vladivostok",
+    "published_confirmed": 1,
+    "pending_confirmed": 4
+  }
 }
