@@ -1,7 +1,7 @@
 {
   "plan_id": "threads-week-2026-11-25",
-  "version": 4,
-  "status": "ALL_35_SCHEDULED_VERIFIED",
+  "version": 5,
+  "status": "PUBLICATION_IN_PROGRESS",
   "timezone": "Asia/Vladivostok",
   "account": "nickkem_vl",
   "brand_id": "8224996",
@@ -21,28 +21,30 @@
           "title": "На чём готовы экономить, а на чём ни за что?",
           "angle": "Спросить невест 2027 про одну обязательную для них свадебную трату",
           "hook": null,
-          "status": "SCHEDULED",
+          "status": "PUBLISHED",
           "text_approved": true,
           "media_approved": false,
           "publication_time": "2026-11-25T09:02:00+10:00",
           "publication_time_approved": true,
-          "scheduled": true,
-          "published": false,
+          "scheduled": false,
+          "published": true,
           "review_display_number": 1,
           "review_package": ".agents/handoffs/threads-review-2026-11-25-27-v1.json",
           "proposal_version": 1,
           "execution": {
-            "scheduled": true,
-            "published": false,
+            "scheduled": false,
+            "published": true,
             "metricool_post_id": "440183941",
             "post_uuid": "2051161854556194259",
             "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=2051161854556194259",
-            "provider_status": "PENDING",
+            "provider_status": "PUBLISHED",
             "confirmed_publication_date": {
               "dateTime": "2026-11-25T09:02:00",
               "timezone": "Asia/Vladivostok"
             },
-            "verified_in_queue": true
+            "verified_in_queue": true,
+            "post_url": "https://www.threads.com/@nickkem_vl/post/DgJF-bzjegk",
+            "network_post_id": "18036379307912325"
           }
         },
         {
@@ -167,7 +169,7 @@
         }
       ],
       "review_package": ".agents/handoffs/threads-review-2026-11-25-27-v1.json",
-      "status": "SCHEDULED"
+      "status": "PARTIALLY_PUBLISHED"
     },
     {
       "date": "2026-11-26",
@@ -1140,5 +1142,11 @@
   "execution_journal": ".agents/handoffs/threads-scheduling-2026-11-25-12-01.json",
   "scheduled_count": 35,
   "content_scheduled_through": "2026-12-01",
-  "last_scheduled_at": "2026-12-01T20:58:00+10:00"
+  "last_scheduled_at": "2026-12-01T20:58:00+10:00",
+  "last_live_check": {
+    "date": "2026-11-25",
+    "timezone": "Asia/Vladivostok",
+    "published_confirmed": 1,
+    "pending_confirmed": 4
+  }
 }
