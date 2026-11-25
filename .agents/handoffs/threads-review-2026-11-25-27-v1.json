@@ -1,7 +1,7 @@
 {
   "package_id": "threads-review-2026-11-25-27-v1",
-  "version": 7,
-  "status": "ALL_POSTS_SCHEDULED_VERIFIED",
+  "version": 8,
+  "status": "PUBLICATION_IN_PROGRESS",
   "account": "nickkem_vl",
   "brand_id": "8224996",
   "timezone": "Asia/Vladivostok",
@@ -15,7 +15,7 @@
           "idea_id": 1,
           "title": "На чём готовы экономить, а на чём ни за что?",
           "version": 1,
-          "status": "SCHEDULED",
+          "status": "PUBLISHED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Невесты 2027, на чём вы готовы сэкономить, а где сразу говорите \"даже не предлагайте\"? 🙂",
@@ -33,18 +33,19 @@
             "timing_selection_delegated_by_user": true
           },
           "execution": {
-            "scheduled": true,
-            "published": false,
+            "scheduled": false,
+            "published": true,
             "metricool_post_id": "440183941",
-            "post_url": null,
+            "post_url": "https://www.threads.com/@nickkem_vl/post/DgJF-bzjegk",
             "post_uuid": "2051161854556194259",
             "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=2051161854556194259",
-            "provider_status": "PENDING",
+            "provider_status": "PUBLISHED",
             "confirmed_publication_date": {
               "dateTime": "2026-11-25T09:02:00",
               "timezone": "Asia/Vladivostok"
             },
-            "verified_in_queue": true
+            "verified_in_queue": true,
+            "network_post_id": "18036379307912325"
           }
         },
         {
