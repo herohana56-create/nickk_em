@@ -1,6 +1,6 @@
 {
   "package_id": "threads-review-2026-11-25-27-v1",
-  "version": 8,
+  "version": 9,
   "status": "PUBLICATION_IN_PROGRESS",
   "account": "nickkem_vl",
   "brand_id": "8224996",
@@ -53,7 +53,7 @@
           "idea_id": 11,
           "title": "Нужно ли звать человека, который когда-то позвал вас?",
           "version": 1,
-          "status": "SCHEDULED",
+          "status": "PUBLISHED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Вы были у друзей на свадьбе. Теперь женитесь сами, но хотите праздник в два раза меньше\n\nНужно звать их в ответ или это всё-таки не взаимозачёт?",
@@ -71,18 +71,19 @@
             "timing_selection_delegated_by_user": true
           },
           "execution": {
-            "scheduled": true,
-            "published": false,
+            "scheduled": false,
+            "published": true,
             "metricool_post_id": "440184024",
-            "post_url": null,
+            "post_url": "https://www.threads.com/@nickkem_vl/post/DgJawX4COKc",
             "post_uuid": "3957354934954574575",
             "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=3957354934954574575",
-            "provider_status": "PENDING",
+            "provider_status": "PUBLISHED",
             "confirmed_publication_date": {
               "dateTime": "2026-11-25T12:06:00",
               "timezone": "Asia/Vladivostok"
             },
-            "verified_in_queue": true
+            "verified_in_queue": true,
+            "network_post_id": "18070912382619580"
           }
         },
         {
@@ -90,7 +91,7 @@
           "idea_id": 31,
           "title": "Понятное описание дресс-кода",
           "version": 1,
-          "status": "SCHEDULED",
+          "status": "PUBLISHED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Написать в приглашении \"пыльная роза\" — красиво\n\nДобавить фото одежды такого цвета — заботливо\n\nЧтобы гости выбирали наряд, а не защищали диплом по оттенкам 🙂",
@@ -108,18 +109,19 @@
             "timing_selection_delegated_by_user": true
           },
           "execution": {
-            "scheduled": true,
-            "published": false,
+            "scheduled": false,
+            "published": true,
             "metricool_post_id": "440184121",
-            "post_url": null,
+            "post_url": "https://www.threads.com/@nickkem_vl/post/DgJvA3iCiFX",
             "post_uuid": "-6121830009000539731",
             "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-6121830009000539731",
-            "provider_status": "PENDING",
+            "provider_status": "PUBLISHED",
             "confirmed_publication_date": {
               "dateTime": "2026-11-25T15:03:00",
               "timezone": "Asia/Vladivostok"
             },
-            "verified_in_queue": true
+            "verified_in_queue": true,
+            "network_post_id": "18142731979628337"
           }
         },
         {
@@ -127,7 +129,7 @@
           "idea_id": 41,
           "title": "Идеальная фотография или любимый живой снимок?",
           "version": 1,
-          "status": "SCHEDULED",
+          "status": "PUBLISHED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Что бы вы поставили на обложку свадебного приглашения: идеальную фотку со съёмки или ту, где вы оба ржёте и у одного закрыты глаза?",
@@ -145,18 +147,19 @@
             "timing_selection_delegated_by_user": true
           },
           "execution": {
-            "scheduled": true,
-            "published": false,
+            "scheduled": false,
+            "published": true,
             "metricool_post_id": "440184199",
-            "post_url": null,
+            "post_url": "https://www.threads.com/@nickkem_vl/post/DgKELxeig98",
             "post_uuid": "-8784396007585984661",
             "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-8784396007585984661",
-            "provider_status": "PENDING",
+            "provider_status": "PUBLISHED",
             "confirmed_publication_date": {
               "dateTime": "2026-11-25T18:08:00",
               "timezone": "Asia/Vladivostok"
             },
-            "verified_in_queue": true
+            "verified_in_queue": true,
+            "network_post_id": "18403750768206612"
           }
         },
         {
@@ -164,7 +167,7 @@
           "idea_id": 46,
           "title": "Что прислать для начала работы над приглашением?",
           "version": 1,
-          "status": "SCHEDULED",
+          "status": "PUBLISHED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Чтобы начать делать приглашение, мне нужны дата, место, ваши фотки и пара слов о том, какую свадьбу вы хотите\n\nВсё остальное обсудим по ходу\n\nКому актуально — напишите \"+\", покажу варианты",
@@ -182,18 +185,19 @@
             "timing_selection_delegated_by_user": true
           },
           "execution": {
-            "scheduled": true,
-            "published": false,
+            "scheduled": false,
+            "published": true,
             "metricool_post_id": "440184263",
-            "post_url": null,
+            "post_url": "https://www.threads.com/@nickkem_vl/post/DgKXhyjCvu7",
             "post_uuid": "6607519854552171568",
             "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=6607519854552171568",
-            "provider_status": "PENDING",
+            "provider_status": "PUBLISHED",
             "confirmed_publication_date": {
               "dateTime": "2026-11-25T20:57:00",
               "timezone": "Asia/Vladivostok"
             },
-            "verified_in_queue": true
+            "verified_in_queue": true,
+            "network_post_id": "17916759102288074"
           }
         }
       ]
@@ -206,7 +210,7 @@
           "idea_id": 2,
           "title": "\"Сделаем сами, так дешевле\" — что проще заказать?",
           "version": 1,
-          "status": "SCHEDULED",
+          "status": "PUBLISHED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Невесты 2027, что вы сначала решили сделать для свадьбы сами, а потом такие: \"Всё, дайте номер человека, который этим занимается\"? 🙂",
@@ -224,18 +228,19 @@
             "timing_selection_delegated_by_user": true
           },
           "execution": {
-            "scheduled": true,
-            "published": false,
+            "scheduled": false,
+            "published": true,
             "metricool_post_id": "440184745",
-            "post_url": null,
+            "post_url": "https://www.threads.com/@nickkem_vl/post/DgLrEWciKlR",
             "post_uuid": "2174425830283626048",
             "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=2174425830283626048",
-            "provider_status": "PENDING",
+            "provider_status": "PUBLISHED",
             "confirmed_publication_date": {
               "dateTime": "2026-11-26T09:07:00",
               "timezone": "Asia/Vladivostok"
             },
-            "verified_in_queue": true
+            "verified_in_queue": true,
+            "network_post_id": "17912524296575710"
           }
         },
         {
@@ -706,5 +711,17 @@
     "spacing": "Approximately equal intervals with non-round minutes",
     "evidence": "Вперёд. ... в течение дня, с утра, с девяти ... до девяти ... плюс-минус равные промежутки ... выставляй не ровно ... в 9:02 ... в день по пять постов, все согласованные распредели"
   },
-  "execution_journal": ".agents/handoffs/threads-scheduling-2026-11-25-12-01.json"
+  "execution_journal": ".agents/handoffs/threads-scheduling-2026-11-25-12-01.json",
+  "last_live_check": {
+    "date": "2026-11-26",
+    "timezone": "Asia/Vladivostok",
+    "observed_at_utc": "2026-11-26 01:01:37 UTC",
+    "published_confirmed_today": 1,
+    "pending_confirmed_today": 4,
+    "published_confirmed_in_checked_range": 6,
+    "checked_dates": [
+      "2026-11-25",
+      "2026-11-26"
+    ]
+  }
 }
