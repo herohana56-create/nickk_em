@@ -40,19 +40,21 @@
       "date": "2026-11-25T12:06:00+10:00",
       "text": "Вы были у друзей на свадьбе. Теперь женитесь сами, но хотите праздник в два раза меньше\n\nНужно звать их в ответ или это всё-таки не взаимозачёт?",
       "media": [],
-      "status": "SCHEDULED",
+      "status": "PUBLISHED",
       "execution": {
-        "scheduled": true,
-        "published": false,
+        "scheduled": false,
+        "published": true,
         "metricool_post_id": "440184024",
         "post_uuid": "3957354934954574575",
         "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=3957354934954574575",
-        "provider_status": "PENDING",
+        "provider_status": "PUBLISHED",
         "confirmed_publication_date": {
           "dateTime": "2026-11-25T12:06:00",
           "timezone": "Asia/Vladivostok"
         },
-        "verified_in_queue": true
+        "verified_in_queue": true,
+        "post_url": "https://www.threads.com/@nickkem_vl/post/DgJawX4COKc",
+        "network_post_id": "18070912382619580"
       }
     },
     {
@@ -61,19 +63,21 @@
       "date": "2026-11-25T15:03:00+10:00",
       "text": "Написать в приглашении \"пыльная роза\" — красиво\n\nДобавить фото одежды такого цвета — заботливо\n\nЧтобы гости выбирали наряд, а не защищали диплом по оттенкам 🙂",
       "media": [],
-      "status": "SCHEDULED",
+      "status": "PUBLISHED",
       "execution": {
-        "scheduled": true,
-        "published": false,
+        "scheduled": false,
+        "published": true,
         "metricool_post_id": "440184121",
         "post_uuid": "-6121830009000539731",
         "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-6121830009000539731",
-        "provider_status": "PENDING",
+        "provider_status": "PUBLISHED",
         "confirmed_publication_date": {
           "dateTime": "2026-11-25T15:03:00",
           "timezone": "Asia/Vladivostok"
         },
-        "verified_in_queue": true
+        "verified_in_queue": true,
+        "post_url": "https://www.threads.com/@nickkem_vl/post/DgJvA3iCiFX",
+        "network_post_id": "18142731979628337"
       }
     },
     {
@@ -82,19 +86,21 @@
       "date": "2026-11-25T18:08:00+10:00",
       "text": "Что бы вы поставили на обложку свадебного приглашения: идеальную фотку со съёмки или ту, где вы оба ржёте и у одного закрыты глаза?",
       "media": [],
-      "status": "SCHEDULED",
+      "status": "PUBLISHED",
       "execution": {
-        "scheduled": true,
-        "published": false,
+        "scheduled": false,
+        "published": true,
         "metricool_post_id": "440184199",
         "post_uuid": "-8784396007585984661",
         "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-8784396007585984661",
-        "provider_status": "PENDING",
+        "provider_status": "PUBLISHED",
         "confirmed_publication_date": {
           "dateTime": "2026-11-25T18:08:00",
           "timezone": "Asia/Vladivostok"
         },
-        "verified_in_queue": true
+        "verified_in_queue": true,
+        "post_url": "https://www.threads.com/@nickkem_vl/post/DgKELxeig98",
+        "network_post_id": "18403750768206612"
       }
     },
     {
@@ -103,19 +109,21 @@
       "date": "2026-11-25T20:57:00+10:00",
       "text": "Чтобы начать делать приглашение, мне нужны дата, место, ваши фотки и пара слов о том, какую свадьбу вы хотите\n\nВсё остальное обсудим по ходу\n\nКому актуально — напишите \"+\", покажу варианты",
       "media": [],
-      "status": "SCHEDULED",
+      "status": "PUBLISHED",
       "execution": {
-        "scheduled": true,
-        "published": false,
+        "scheduled": false,
+        "published": true,
         "metricool_post_id": "440184263",
         "post_uuid": "6607519854552171568",
         "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=6607519854552171568",
-        "provider_status": "PENDING",
+        "provider_status": "PUBLISHED",
         "confirmed_publication_date": {
           "dateTime": "2026-11-25T20:57:00",
           "timezone": "Asia/Vladivostok"
         },
-        "verified_in_queue": true
+        "verified_in_queue": true,
+        "post_url": "https://www.threads.com/@nickkem_vl/post/DgKXhyjCvu7",
+        "network_post_id": "17916759102288074"
       }
     },
     {
@@ -124,19 +132,21 @@
       "date": "2026-11-26T09:07:00+10:00",
       "text": "Невесты 2027, что вы сначала решили сделать для свадьбы сами, а потом такие: \"Всё, дайте номер человека, который этим занимается\"? 🙂",
       "media": [],
-      "status": "SCHEDULED",
+      "status": "PUBLISHED",
       "execution": {
-        "scheduled": true,
-        "published": false,
+        "scheduled": false,
+        "published": true,
         "metricool_post_id": "440184745",
         "post_uuid": "2174425830283626048",
         "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=2174425830283626048",
-        "provider_status": "PENDING",
+        "provider_status": "PUBLISHED",
         "confirmed_publication_date": {
           "dateTime": "2026-11-26T09:07:00",
           "timezone": "Asia/Vladivostok"
         },
-        "verified_in_queue": true
+        "verified_in_queue": true,
+        "post_url": "https://www.threads.com/@nickkem_vl/post/DgLrEWciKlR",
+        "network_post_id": "17912524296575710"
       }
     },
     {
@@ -803,9 +813,15 @@
   },
   "queue_count": 35,
   "last_live_check": {
-    "date": "2026-11-25",
+    "date": "2026-11-26",
     "timezone": "Asia/Vladivostok",
-    "published_confirmed": 1,
-    "pending_confirmed": 4
+    "observed_at_utc": "2026-11-26 01:01:37 UTC",
+    "published_confirmed_today": 1,
+    "pending_confirmed_today": 4,
+    "published_confirmed_in_checked_range": 6,
+    "checked_dates": [
+      "2026-11-25",
+      "2026-11-26"
+    ]
   }
 }
