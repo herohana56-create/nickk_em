@@ -1,6 +1,6 @@
 {
   "package_id": "threads-review-2026-11-25-27-v1",
-  "version": 9,
+  "version": 10,
   "status": "PUBLICATION_IN_PROGRESS",
   "account": "nickkem_vl",
   "brand_id": "8224996",
@@ -248,7 +248,7 @@
           "idea_id": 58,
           "title": "Совместный девичник и мальчишник",
           "version": 4,
-          "status": "SCHEDULED",
+          "status": "PUBLISHED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Совместный девичник и мальчишник — нормальная идея или хочется хотя бы этот вечер провести раздельно? 🙂",
@@ -266,18 +266,19 @@
             "timing_selection_delegated_by_user": true
           },
           "execution": {
-            "scheduled": true,
-            "published": false,
+            "scheduled": false,
+            "published": true,
             "metricool_post_id": "440184826",
-            "post_url": null,
+            "post_url": "https://www.threads.com/@nickkem_vl/post/DgL_NbjiIYg",
             "post_uuid": "-7383685998614983430",
             "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-7383685998614983430",
-            "provider_status": "PENDING",
+            "provider_status": "PUBLISHED",
             "confirmed_publication_date": {
               "dateTime": "2026-11-26T12:03:00",
               "timezone": "Asia/Vladivostok"
             },
-            "verified_in_queue": true
+            "verified_in_queue": true,
+            "network_post_id": "18178476616454917"
           },
           "revision_history": [
             {
@@ -307,7 +308,7 @@
           "idea_id": 59,
           "title": "Роль свидетелей на свадьбе",
           "version": 5,
-          "status": "SCHEDULED",
+          "status": "PUBLISHED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Как считаете, свидетели на свадьбе — это ещё актуально или уже пережиток прошлого?",
@@ -325,18 +326,19 @@
             "timing_selection_delegated_by_user": true
           },
           "execution": {
-            "scheduled": true,
-            "published": false,
+            "scheduled": false,
+            "published": true,
             "metricool_post_id": "440184888",
-            "post_url": null,
+            "post_url": "https://www.threads.com/@nickkem_vl/post/DgMUfqaiFHw",
             "post_uuid": "-177803296139885054",
             "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-177803296139885054",
-            "provider_status": "PENDING",
+            "provider_status": "PUBLISHED",
             "confirmed_publication_date": {
               "dateTime": "2026-11-26T15:09:00",
               "timezone": "Asia/Vladivostok"
             },
-            "verified_in_queue": true
+            "verified_in_queue": true,
+            "network_post_id": "17929270191203103"
           },
           "revision_history": [
             {
@@ -373,7 +375,7 @@
           "idea_id": 42,
           "title": "Сравнить две версии истории знакомства",
           "version": 1,
-          "status": "SCHEDULED",
+          "status": "PUBLISHED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Попросите друг друга отдельно написать, как вы познакомились\n\nЕсть шанс получить две разные истории: \"Я сразу всё понял\" и \"Я вообще думала, что он просто вежливый\" 🙂",
@@ -391,18 +393,19 @@
             "timing_selection_delegated_by_user": true
           },
           "execution": {
-            "scheduled": true,
-            "published": false,
+            "scheduled": false,
+            "published": true,
             "metricool_post_id": "440185019",
-            "post_url": null,
+            "post_url": "https://www.threads.com/@nickkem_vl/post/DgMokyTCAFA",
             "post_uuid": "6318356718820280131",
             "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=6318356718820280131",
-            "provider_status": "PENDING",
+            "provider_status": "PUBLISHED",
             "confirmed_publication_date": {
               "dateTime": "2026-11-26T18:04:00",
               "timezone": "Asia/Vladivostok"
             },
-            "verified_in_queue": true
+            "verified_in_queue": true,
+            "network_post_id": "18100916738451460"
           }
         },
         {
@@ -410,7 +413,7 @@
           "idea_id": 47,
           "title": "Можно прийти без готовой идеи оформления",
           "version": 1,
-          "status": "SCHEDULED",
+          "status": "PUBLISHED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Если пока непонятно, каким должно быть приглашение, начнём с самой свадьбы\n\nГде будете праздновать, какие фотки вам нравятся, что хочется по настроению\n\nИз \"хотим красиво, но не знаем как\" тоже можно собрать понятную идею 🙂\n\nКому актуально — напишите \"+\"",
@@ -428,18 +431,19 @@
             "timing_selection_delegated_by_user": true
           },
           "execution": {
-            "scheduled": true,
-            "published": false,
+            "scheduled": false,
+            "published": true,
             "metricool_post_id": "440185110",
-            "post_url": null,
+            "post_url": "https://www.threads.com/@nickkem_vl/post/DgM8jJ6iJ9z",
             "post_uuid": "-8016615495253540712",
             "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-8016615495253540712",
-            "provider_status": "PENDING",
+            "provider_status": "PUBLISHED",
             "confirmed_publication_date": {
               "dateTime": "2026-11-26T20:59:00",
               "timezone": "Asia/Vladivostok"
             },
-            "verified_in_queue": true
+            "verified_in_queue": true,
+            "network_post_id": "17997042390067239"
           }
         }
       ]
@@ -452,7 +456,7 @@
           "idea_id": 6,
           "title": "Что убрали бы со свадьбы, если бы планировали заново?",
           "version": 1,
-          "status": "SCHEDULED",
+          "status": "PUBLISHED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Те, кто уже сыграл свадьбу: на что вы смотрите сейчас и думаете \"господи, зачем мы вообще на это тратились\"?",
@@ -470,18 +474,19 @@
             "timing_selection_delegated_by_user": true
           },
           "execution": {
-            "scheduled": true,
-            "published": false,
+            "scheduled": false,
+            "published": true,
             "metricool_post_id": "440185561",
-            "post_url": null,
+            "post_url": "https://www.threads.com/@nickkem_vl/post/DgOPoLJiPB_",
             "post_uuid": "2116480824631837946",
             "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=2116480824631837946",
-            "provider_status": "PENDING",
+            "provider_status": "PUBLISHED",
             "confirmed_publication_date": {
               "dateTime": "2026-11-27T09:04:00",
               "timezone": "Asia/Vladivostok"
             },
-            "verified_in_queue": true
+            "verified_in_queue": true,
+            "network_post_id": "18149064856605430"
           }
         },
         {
@@ -713,15 +718,15 @@
   },
   "execution_journal": ".agents/handoffs/threads-scheduling-2026-11-25-12-01.json",
   "last_live_check": {
-    "date": "2026-11-26",
+    "date": "2026-11-27",
     "timezone": "Asia/Vladivostok",
-    "observed_at_utc": "2026-11-26 01:01:37 UTC",
+    "observed_at_utc": "2026-11-27 01:05:55 UTC",
     "published_confirmed_today": 1,
     "pending_confirmed_today": 4,
     "published_confirmed_in_checked_range": 6,
     "checked_dates": [
-      "2026-11-25",
-      "2026-11-26"
+      "2026-11-26",
+      "2026-11-27"
     ]
   }
 }
