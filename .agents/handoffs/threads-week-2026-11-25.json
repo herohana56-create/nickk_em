@@ -1,6 +1,6 @@
 {
   "plan_id": "threads-week-2026-11-25",
-  "version": 7,
+  "version": 8,
   "status": "PUBLICATION_IN_PROGRESS",
   "timezone": "Asia/Vladivostok",
   "account": "nickkem_vl",
@@ -387,28 +387,30 @@
           "title": "Свадьба без алкоголя",
           "angle": "Кто определяет список гостей, когда у родителей свои пожелания?",
           "hook": null,
-          "status": "SCHEDULED",
+          "status": "PUBLISHED",
           "text_approved": true,
           "media_approved": false,
           "publication_time": "2026-11-27T12:08:00+10:00",
           "publication_time_approved": true,
-          "scheduled": true,
-          "published": false,
+          "scheduled": false,
+          "published": true,
           "review_display_number": 12,
           "review_package": ".agents/handoffs/threads-review-2026-11-25-27-v1.json",
           "proposal_version": 4,
           "execution": {
-            "scheduled": true,
-            "published": false,
+            "scheduled": false,
+            "published": true,
             "metricool_post_id": "440185620",
             "post_uuid": "6970534332372111096",
             "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=6970534332372111096",
-            "provider_status": "PENDING",
+            "provider_status": "PUBLISHED",
             "confirmed_publication_date": {
               "dateTime": "2026-11-27T12:08:00",
               "timezone": "Asia/Vladivostok"
             },
-            "verified_in_queue": true
+            "verified_in_queue": true,
+            "post_url": "https://www.threads.com/@nickkem_vl/post/DgOkkyMirdp",
+            "network_post_id": "18480993565187765"
           }
         },
         {
@@ -417,28 +419,30 @@
           "title": "Информация для гостей из другого города",
           "angle": "Проживание, дорога, трансфер и неочевидные для приезжих детали",
           "hook": null,
-          "status": "SCHEDULED",
+          "status": "PUBLISHED",
           "text_approved": true,
           "media_approved": false,
           "publication_time": "2026-11-27T15:02:00+10:00",
           "publication_time_approved": true,
-          "scheduled": true,
-          "published": false,
+          "scheduled": false,
+          "published": true,
           "review_display_number": 13,
           "review_package": ".agents/handoffs/threads-review-2026-11-25-27-v1.json",
           "proposal_version": 1,
           "execution": {
-            "scheduled": true,
-            "published": false,
+            "scheduled": false,
+            "published": true,
             "metricool_post_id": "440185690",
             "post_uuid": "-6514455863781536370",
             "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-6514455863781536370",
-            "provider_status": "PENDING",
+            "provider_status": "PUBLISHED",
             "confirmed_publication_date": {
               "dateTime": "2026-11-27T15:02:00",
               "timezone": "Asia/Vladivostok"
             },
-            "verified_in_queue": true
+            "verified_in_queue": true,
+            "post_url": "https://www.threads.com/@nickkem_vl/post/DgO4fPdjbVh",
+            "network_post_id": "18349050754248782"
           }
         },
         {
@@ -447,28 +451,30 @@
           "title": "Приглашение на основе общей привычки пары",
           "angle": "Поездки, походы, настольные игры, кофе по воскресеньям",
           "hook": null,
-          "status": "SCHEDULED",
+          "status": "PUBLISHED",
           "text_approved": true,
           "media_approved": false,
           "publication_time": "2026-11-27T18:07:00+10:00",
           "publication_time_approved": true,
-          "scheduled": true,
-          "published": false,
+          "scheduled": false,
+          "published": true,
           "review_display_number": 14,
           "review_package": ".agents/handoffs/threads-review-2026-11-25-27-v1.json",
           "proposal_version": 1,
           "execution": {
-            "scheduled": true,
-            "published": false,
+            "scheduled": false,
+            "published": true,
             "metricool_post_id": "440185773",
             "post_uuid": "-7279153698560586946",
             "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-7279153698560586946",
-            "provider_status": "PENDING",
+            "provider_status": "PUBLISHED",
             "confirmed_publication_date": {
               "dateTime": "2026-11-27T18:07:00",
               "timezone": "Asia/Vladivostok"
             },
-            "verified_in_queue": true
+            "verified_in_queue": true,
+            "post_url": "https://www.threads.com/@nickkem_vl/post/DgPNqlhjbDB",
+            "network_post_id": "17984767548129415"
           }
         },
         {
@@ -477,33 +483,35 @@
           "title": "Почему оплата после того, как устроит результат",
           "angle": "Объяснить ранее согласованное условие оплаты",
           "hook": null,
-          "status": "SCHEDULED",
+          "status": "PUBLISHED",
           "text_approved": true,
           "media_approved": false,
           "publication_time": "2026-11-27T20:56:00+10:00",
           "publication_time_approved": true,
-          "scheduled": true,
-          "published": false,
+          "scheduled": false,
+          "published": true,
           "review_display_number": 15,
           "review_package": ".agents/handoffs/threads-review-2026-11-25-27-v1.json",
           "proposal_version": 1,
           "execution": {
-            "scheduled": true,
-            "published": false,
+            "scheduled": false,
+            "published": true,
             "metricool_post_id": "440185866",
             "post_uuid": "-1346711928224201315",
             "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=-1346711928224201315",
-            "provider_status": "PENDING",
+            "provider_status": "PUBLISHED",
             "confirmed_publication_date": {
               "dateTime": "2026-11-27T20:56:00",
               "timezone": "Asia/Vladivostok"
             },
-            "verified_in_queue": true
+            "verified_in_queue": true,
+            "post_url": "https://www.threads.com/@nickkem_vl/post/DgPhADLiNOF",
+            "network_post_id": "18126794572940737"
           }
         }
       ],
       "review_package": ".agents/handoffs/threads-review-2026-11-25-27-v1.json",
-      "status": "PARTIALLY_PUBLISHED"
+      "status": "PUBLISHED"
     },
     {
       "date": "2026-11-28",
@@ -514,28 +522,30 @@
           "title": "Красивая дата против удобной даты",
           "angle": "Готовы ли пары переплатить ради цифр в свидетельстве?",
           "hook": null,
-          "status": "SCHEDULED",
+          "status": "PUBLISHED",
           "text_approved": true,
           "media_approved": false,
           "publication_time": "2026-11-28T09:06:00+10:00",
           "publication_time_approved": true,
-          "scheduled": true,
-          "published": false,
+          "scheduled": false,
+          "published": true,
           "review_display_number": 16,
           "review_package": ".agents/handoffs/threads-review-2026-11-28-12-01-v1.json",
           "proposal_version": 2,
           "execution": {
-            "scheduled": true,
-            "published": false,
+            "scheduled": false,
+            "published": true,
             "metricool_post_id": "440186355",
             "post_uuid": "5590074980314923059",
             "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=5590074980314923059",
-            "provider_status": "PENDING",
+            "provider_status": "PUBLISHED",
             "confirmed_publication_date": {
               "dateTime": "2026-11-28T09:06:00",
               "timezone": "Asia/Vladivostok"
             },
-            "verified_in_queue": true
+            "verified_in_queue": true,
+            "post_url": "https://www.threads.com/@nickkem_vl/post/DgQ0jJfCJtQ",
+            "network_post_id": "18099451460673028"
           }
         },
         {
@@ -660,7 +670,7 @@
         }
       ],
       "review_package": ".agents/handoffs/threads-review-2026-11-28-12-01-v1.json",
-      "status": "SCHEDULED"
+      "status": "PARTIALLY_PUBLISHED"
     },
     {
       "date": "2026-11-29",
@@ -1164,15 +1174,15 @@
   "content_scheduled_through": "2026-12-01",
   "last_scheduled_at": "2026-12-01T20:58:00+10:00",
   "last_live_check": {
-    "date": "2026-11-27",
+    "date": "2026-11-28",
     "timezone": "Asia/Vladivostok",
-    "observed_at_utc": "2026-11-27 01:05:55 UTC",
+    "observed_at_utc": "2026-11-28 00:58:05 UTC",
     "published_confirmed_today": 1,
     "pending_confirmed_today": 4,
     "published_confirmed_in_checked_range": 6,
     "checked_dates": [
-      "2026-11-26",
-      "2026-11-27"
+      "2026-11-27",
+      "2026-11-28"
     ]
   }
 }
