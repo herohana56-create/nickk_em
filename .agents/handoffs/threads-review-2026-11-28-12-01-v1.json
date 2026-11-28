@@ -1,7 +1,7 @@
 {
   "package_id": "threads-review-2026-11-28-12-01-v1",
-  "version": 5,
-  "status": "ALL_POSTS_SCHEDULED_VERIFIED",
+  "version": 6,
+  "status": "PUBLICATION_IN_PROGRESS",
   "account": "nickkem_vl",
   "brand_id": "8224996",
   "timezone": "Asia/Vladivostok",
@@ -17,7 +17,7 @@
           "idea_id": 8,
           "title": "Красивая дата против удобной даты",
           "version": 2,
-          "status": "SCHEDULED",
+          "status": "PUBLISHED",
           "proposal": {
             "account": "nickkem_vl",
             "text": "Невесты 2027, что выбирали первым: красивую дату и под неё всё остальное или площадку, а потом уже смотрели свободные дни?",
@@ -35,18 +35,19 @@
             "timing_selection_delegated_by_user": true
           },
           "execution": {
-            "scheduled": true,
-            "published": false,
+            "scheduled": false,
+            "published": true,
             "metricool_post_id": "440186355",
-            "post_url": null,
+            "post_url": "https://www.threads.com/@nickkem_vl/post/DgQ0jJfCJtQ",
             "post_uuid": "5590074980314923059",
             "planner_url": "https://app.metricool.com/planner/calendar?blogId=8224996&openWithPostUuid=5590074980314923059",
-            "provider_status": "PENDING",
+            "provider_status": "PUBLISHED",
             "confirmed_publication_date": {
               "dateTime": "2026-11-28T09:06:00",
               "timezone": "Asia/Vladivostok"
             },
-            "verified_in_queue": true
+            "verified_in_queue": true,
+            "network_post_id": "18099451460673028"
           },
           "revision_history": [
             {
@@ -828,5 +829,17 @@
     "spacing": "Approximately equal intervals with non-round minutes",
     "evidence": "Вперёд. ... в течение дня, с утра, с девяти ... до девяти ... плюс-минус равные промежутки ... выставляй не ровно ... в 9:02 ... в день по пять постов, все согласованные распредели"
   },
-  "execution_journal": ".agents/handoffs/threads-scheduling-2026-11-25-12-01.json"
+  "execution_journal": ".agents/handoffs/threads-scheduling-2026-11-25-12-01.json",
+  "last_live_check": {
+    "date": "2026-11-28",
+    "timezone": "Asia/Vladivostok",
+    "observed_at_utc": "2026-11-28 00:58:05 UTC",
+    "published_confirmed_today": 1,
+    "pending_confirmed_today": 4,
+    "published_confirmed_in_checked_range": 6,
+    "checked_dates": [
+      "2026-11-27",
+      "2026-11-28"
+    ]
+  }
 }
